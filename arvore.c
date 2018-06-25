@@ -22,18 +22,15 @@ pNodoA* leArquivo(FILE *arquivo)
         while ( (pesquisa[i] = getc(arquivo)) != ';' &&
                 pesquisa[i] != '\n')
         {
-            printf("%c", pesquisa[i-1]);
-            getchar();
+            //printf("%c", pesquisa[i-1]);
+            //getchar();
             i++;
         }
-
-        pesquisa[i] = '\0';
-
-
 
         if (flagCidade == 1) // se leu uma cidade
         {
             flagCidade = 0; // seta a flag de cidade para zero
+            pesquisa[i] = '\0'; //Coloca o sinal de final de string no final da pesquisa atual, isso eh feito aqui dentro pois precisamos testar o ultimo caracter antes de altera-lo
             //chama a funcao que insere cidade
             //arvoreFinal = insereLocalidade(arvoreFinal, localidade, pesquisa);
             //puts(pesquisa);
@@ -45,7 +42,7 @@ pNodoA* leArquivo(FILE *arquivo)
 
         else if(pesquisa[i] == '\n') // se chegou no fim da linha
         {
-            printf("cu");
+            pesquisa[i] = '\0'; //Coloca o sinal de final de string no final da pesquisa atual, isso eh feito aqui dentro pois precisamos testar o ultimo caracter antes de altera-lo
             flagCidade = 1; // seta a flag pra 1 novamente pois a proxima leitura sera de uma cidade
         }
         //checa se eh uma pesquisa composta:::::::::::::::::
