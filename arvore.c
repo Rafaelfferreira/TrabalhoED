@@ -3,6 +3,7 @@
 #include <string.h>
 #include "arvore.h"
 
+
 #define LEN 80
 
 
@@ -84,7 +85,10 @@ void imprimeCidades(pNodoA *a)
     imprimeCidades(a->dir);
 }
 
-
+void pint2()
+{
+    printff();
+}
 /*
 if (a == NULL) // se a arvore for inexistente cria arvore e nem checa se e cidade
     {

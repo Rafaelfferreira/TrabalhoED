@@ -2,10 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include "arvore.c"
+#include "utilidades.c"
+
 #define LEN 80
 
 int main()
 {
+
     FILE *arquivo; // cria variável ponteiro para o arquivo
     char palavra[LEN]; // variável do tipo string
 
