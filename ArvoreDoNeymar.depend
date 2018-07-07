@@ -27,3 +27,26 @@
 
 1529955184 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\arvore.h
 
+1531002316 source:c:\users\fc\desktop\ed\trabed\trabalhoed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.c"
+	"utilidades.c"
+
+1531002718 c:\users\fc\desktop\ed\trabed\trabalhoed\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
+1530996107 c:\users\fc\desktop\ed\trabed\trabalhoed\arvore.h
+
+1531002226 c:\users\fc\desktop\ed\trabed\trabalhoed\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilidades.h"
+
+1531002226 c:\users\fc\desktop\ed\trabed\trabalhoed\utilidades.h
+
