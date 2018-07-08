@@ -57,13 +57,13 @@ void imprimeArvore(pNodoA *a);
 void imprimeConsultas(nodoConsulta *a);
 void imprimeTermos(nodoTermo *a);
 
-void leOperacoes(FILE *arquivo, pNodoA *ArvoreGeral);
-operacaoA(pNodoA *ArvoreGeral , char Localidade, int quantidade);
-operacaoB(pNodoA *ArvoreGeral , int quantidade);
-operacaoC(pNodoA *ArvoreGeral , char Localidade, int quantidade);
-operacaoD(pNodoA *ArvoreGeral , int quantidade);
-operacaoE(pNodoA *ArvoreGeral , char Localidade);
-operacaoF(pNodoA *ArvoreGeral);
+void leOperacoes(FILE *arquivoOperacoes,FILE *arquivoSaida, pNodoA *ArvoreGeral);
+void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade);
+void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade);
+void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade);
+void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade);
+void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade);
+void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral);
 
 
 

@@ -12,7 +12,7 @@ int main()
 {
     setlocale(LC_ALL, "Portuguese");//habilita a acentuação para o português
 
-    FILE *arquivo; // cria variável ponteiro para o arquivo
+    FILE *arquivo; // cria variável ponteiro para o arquivo de leitura
     char palavra[LEN]; // variável do tipo string
 
     //abrindo o arquivo com tipo de abertura w
@@ -27,7 +27,7 @@ int main()
 
     leArquivo(arquivo);
 
-    //fechamos o arquivo
+    //fechamos o arquivo de input
     fclose(arquivo);
 
 
