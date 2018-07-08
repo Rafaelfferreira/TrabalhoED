@@ -1,28 +1,28 @@
 b;0
 d;60
 c;Natal;40
-c;JoÃ£o Pessoa;70
-e;BrasÃ­lia;80
+c;João Pessoa;70
+e;Brasília;80
 a;Boa Vista;20
 b;30
 b;80
 b;60
-a;JoÃ£o Pessoa;40
+a;João Pessoa;40
 e;Boa Vista;70
 b;60
 e;Curitiba;90
 e;Boa Vista;70
 f
 c;Porto Alegre;60
-e;BelÃ©m;10
+e;Belém;10
 b;60
-a;SÃ£o Paulo;10
+a;São Paulo;10
 d;70
 b;90
-a;CuiabÃ¡;60
+a;Cuiabá;60
 d;90
 b;70
-a;CuiabÃ¡;60
+a;Cuiabá;60
 e;Manaus;40
 f
 e;Salvador;80
@@ -37,11 +37,11 @@ e;Recife;60
 a;Curitiba;80
 a;Porto Alegre;60
 b;40
-e;SÃ£o LuÃ­s;80
+e;São Luís;80
 f
 d;50
 d;10
-e;CuiabÃ¡;90
+e;Cuiabá;90
 e;Belo Horizonte;90
 f
 b;30
@@ -49,7 +49,7 @@ e;Rio Branco;0
 e;Natal;90
 b;0
 f
-c;BrasÃ­lia;10
+c;Brasília;10
 d;20
 d;40
 e;Aracaju;50
@@ -59,11 +59,11 @@ d;30
 d;70
 b;0
 b;60
-e;BrasÃ­lia;10
+e;Brasília;10
 b;20
 f
-a;GoiÃ¢nia;60
-e;SÃ£o LuÃ­s;60
+a;Goiânia;60
+e;São Luís;60
 e;Belo Horizonte;80
 d;80
 f
@@ -90,11 +90,11 @@ d;30
 b;50
 f
 f
-c;VitÃ³ria;0
+c;Vitória;0
 c;Campo Grande;10
 d;30
 f
 d;10
 a;Teresina;10
-e;GoiÃ¢nia;10
-c;CuiabÃ¡;20
+e;Goiânia;10
+c;Cuiabá;20
