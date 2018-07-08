@@ -31,7 +31,7 @@ itemA* criaConsultaSimples(char consulta[LEN])
     itemA *consultaLSE = (itemA*) malloc(sizeof(itemA));
 
     consultaLSE->prox = NULL; // lista única
-    strcpy(consulta, consultaLSE->info); // copia a informação pra lista
+    strcpy(consultaLSE->info, consulta); // copia a informação pra lista
 
     return consultaLSE;
 }
@@ -125,3 +125,34 @@ void ordemAlfabetica(char string1[LEN], char string2[LEN], char *stringAlterada)
     }
 }
 
+
+int testaMesmaConsulta(itemA *consulta1, itemA *consulta2)
+// função testa se as consultas (LSE) são iguais (não importando o número de termos)
+// retorna 1 caso sejam, e 0 caso não
+{
+    while(consulta1 != NULL)
+    {
+        if (!testaMesmaConsulta2(consulta1->info, consulta2)) //se o termo estiver não estiver na consulta2, não são iguais
+            return 0;
+        else // caso esteja, verifica o próximo
+            consulta1 = consulta1->prox;
+    }
+
+    // caso nenhum teste de termo deu errado, retorna 1 avisando que as consultas são iguais;
+    return 1;
+}
+
+int testaMesmaConsulta2(char termo[LEN/2], itemA *consulta)
+// função testa se aquele termo é igual a algum outro dentro de uma lista de termos
+// retorna 1 se sim e 0 se não
+{
+    while(consulta != NULL) // enquanto não chegar no final da lista ou achar uma igual, compara os termos
+    {
+        if(!strcmp(consulta->info, termo)) //se forem iguais (note que 0 é falso, por isso not strcmp)
+            return 1;
+        else
+            consulta = consulta->prox;
+    }
+
+    return 0; // caso tenha percorrido toda a lista e não achou nenhuma igual, retorna 0
+}

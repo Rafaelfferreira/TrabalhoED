@@ -1,6 +1,7 @@
 #ifndef ARVORE_H_INCLUDED
 #define ARVORE_H_INCLUDED
 
+#include "utilidades.h"
 #define LEN 80 // define o tamanho aceito para cada string
 
 // estrutura que define cada nodo da árvore de termos
@@ -16,7 +17,7 @@ typedef struct NodoTermo nodoTermo;
 
 // estrutura que define cada nodo da árvore de consultas
 struct NodoConsulta{
-    char info[LEN]; // string do termo
+    itemA *infoLSE; // lista de termos
     int quantidade; // quantidade de vezes que a consulta foi pesquisada foi pesquisada
     int numTermos; // quantidade de termos que a consulta tem
     struct NodoConsulta *esq;
@@ -37,10 +38,25 @@ struct TNodoA{
 typedef struct TNodoA pNodoA;
 
 
-
-pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA *localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
+// operações iniciais para construir a árvore
+pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
 pNodoA* leArquivo(FILE *arquivo); // a funcao le o arquivo e retorna (monta) uma arvore de acordo com as informacoes contidas neste arquivo
+
 void imprimeCidades(pNodoA *a);
+nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos); // insere uma consulta na árvore de consultas
+nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2]);  // insere termo na árvore de termos
+
+// operações para transformar a árvore numa abp ordenada por mais pesquisados
+nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de consultas mais pesquisadas, utilizando alfabética como critério de desempate
+nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo); //insere uma consulta usando o critério da função acima
+nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de termos mais pesquisados, utilizando alfabética como critério de desempate
+nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo); // //insere um termo usando o critério da função acima
+
+// visualização
+void imprimeArvore(pNodoA *a);
+void imprimeConsultas(nodoConsulta *a);
+void imprimeTermos(nodoTermo *a);
+
 void leOperacoes(FILE *arquivo, pNodoA *ArvoreGeral);
 operacaoA(pNodoA *ArvoreGeral , char Localidade, int quantidade);
 operacaoB(pNodoA *ArvoreGeral , int quantidade);
@@ -48,6 +64,9 @@ operacaoC(pNodoA *ArvoreGeral , char Localidade, int quantidade);
 operacaoD(pNodoA *ArvoreGeral , int quantidade);
 operacaoE(pNodoA *ArvoreGeral , char Localidade);
 operacaoF(pNodoA *ArvoreGeral);
+
+
+
 
 
 
