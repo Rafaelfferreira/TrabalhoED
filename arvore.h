@@ -41,6 +41,13 @@ typedef struct TNodoA pNodoA;
 pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA *localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
 pNodoA* leArquivo(FILE *arquivo); // a funcao le o arquivo e retorna (monta) uma arvore de acordo com as informacoes contidas neste arquivo
 void imprimeCidades(pNodoA *a);
+void leOperacoes(FILE *arquivo, pNodoA *ArvoreGeral);
+operacaoA(pNodoA *ArvoreGeral , char Localidade, int quantidade);
+operacaoB(pNodoA *ArvoreGeral , int quantidade);
+operacaoC(pNodoA *ArvoreGeral , char Localidade, int quantidade);
+operacaoD(pNodoA *ArvoreGeral , int quantidade);
+operacaoE(pNodoA *ArvoreGeral , char Localidade);
+operacaoF(pNodoA *ArvoreGeral);
 
 
 

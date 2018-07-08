@@ -68,6 +68,7 @@ pNodoA* leArquivo(FILE *arquivo)
 
 pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA *localidadeAtual, char info[LEN])
 //  funcao que insere localidade na arvore
+//  Retorna sempre a arvore de localidades
 // localidade atual sera atualizada para otimizar a insercao das pesquisas por cidade
 {
     if (inicioArvore == NULL) //adiciona cidade
@@ -106,6 +107,78 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA *localidadeAtual, char inf
     }
 
     return inicioArvore;
+}
+
+//Recebe o arquivo das operacoes e a arvore que contem as localidades
+//Retorna void porem escreve no arquivo de saida
+void leOperacoes(FILE *arquivo, pNodoA *ArvoreGeral)
+{
+    char termo[LEN], parametro1[LEN], parametro2[LEN]; // le termo do arquivo
+    int i, quantidade; // indice da string
+    char operacao; //Salva qual a operacao ira ser executada a seguir
+
+
+    while((termo[0] = getc(arquivo)) != EOF) //Loop ate o arquivo acabar
+    {
+        operacao = termo[0]; //O primeiro char de cada linha a ser lido eh a operacao
+
+        i = 0; //resetando o indice que le os parametros
+
+        //Leitura do segundo termo da linha (Ou a localidade ou a quantidade, dependendo da operacao)
+        if(operacao != 'f') //Se a operacao for f nao precisa de mais nenhum termo
+        {
+            while ( (parametro1[i] = getc(arquivo)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
+                    parametro1[i] != '\n')
+            {
+                i++;
+            }
+
+            //Cai aqui quando acabou de ler o primeiro termo da operacao
+            if(operacao == 'a' || operacao == 'c' || operacao == 'e') //Testa se eh uma operacao que recebe a localidade como o segundo parametro
+                parametro1[i] = '\0';     //Coloca o sinal de final da string
+
+            if(operacao == 'b' || operacao == 'd') //Testa se eh uma operacao que recebe uma quantidade como segundo parametro
+                quantidade = atoi(parametro1); //Transforma o parametro 1 em uma int e salva em quantidade
+        }
+
+        //Leitura do terceiro termo da linha (a quantidade de termos a ser impresso)
+        if(operacao =='a' || operacao == 'c')   //A e C sao as duas unicas operacoes que precisam receber 2 parametros
+        {
+            i = 0; //resetando o indice que le os parametros
+
+            while ( (parametro1[i] = getc(arquivo)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
+                    parametro1[i] != '\n')
+            {
+                i++;
+            }
+
+            quantidade = atoi(parametro2); //Converte a quantidade para uma int
+        }
+
+        //Decide qual funcao de operacao deve ser chamada
+        switch(operacao)
+        {
+            case 'a':
+                //operacaoA(ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao A e escreve o output no txt de saida
+                break;
+            case 'b':
+                //operacaoB(ArvoreGeral ,quantidade); //Funcao que realiza a operacao B e escreve o output no txt de saida
+                break;
+            case 'c':
+                //operacaoC(ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao C e escreve o output no txt de saida
+                break;
+            case 'd':
+                //operacaoD(ArvoreGeral , quantidade); //Funcao que realiza a operacao D e escreve o output no txt de saida
+                break;
+            case 'e':
+                //operacaoE(ArvoreGeral , parametro1); //Funcao que realiza a operacao E e escreve o output no txt de saida
+                break;
+            case 'f':
+                //operacaoF(ArvoreGeral); //Funcao que realiza a operacao F e escreve o output no txt de saida
+                break;
+        }
+
+    }
 }
 
 
