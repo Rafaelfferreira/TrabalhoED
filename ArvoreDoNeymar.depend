@@ -66,3 +66,30 @@
 
 1531053754 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\utilidades.h
 
+1531146163 source:c:\users\pet\documents\felipe\trabalho de ed\trabalhoed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.c"
+	"utilidades.c"
+	<locale.h>
+
+1531152049 c:\users\pet\documents\felipe\trabalho de ed\trabalhoed\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.h"
+
+1531145466 c:\users\pet\documents\felipe\trabalho de ed\trabalhoed\arvore.h
+	"utilidades.h"
+
+1531145466 c:\users\pet\documents\felipe\trabalho de ed\trabalhoed\utilidades.h
+
+1531147736 c:\users\pet\documents\felipe\trabalho de ed\trabalhoed\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilidades.h"
+

@@ -60,10 +60,10 @@ pNodoA* leArquivo(FILE *arquivo)
         {
 
             if(pesquisa[i] == '\n') // se chegou no fim da linha
-            {
                 flagCidade = 1; // seta a flag pra 1 novamente pois a proxima leitura sera de uma cidade
-                pesquisa[i] = '\0'; //Coloca o sinal de final de string no final da pesquisa atual, isso eh feito aqui dentro pois precisamos testar o ultimo caracter antes de altera-lo
-            }
+
+
+            pesquisa[i] = '\0'; //Coloca o sinal de final de string no final da pesquisa atual, isso eh feito aqui dentro pois precisamos testar o ultimo caracter antes de altera-lo
 
 
 
@@ -103,11 +103,9 @@ pNodoA* leArquivo(FILE *arquivo)
                 consultaLSE = consultaLSE->prox;
             }
             // aqui consultaLSE já valerá NULL e poderá ser reutilizada
-
-            // teste de impressão
-           // imprimeArvore(arvoreFinal);
         }
     }
+
 
     nodoConsulta *globalReestruturadaCons = NULL; // nova árvore de consultas global organizada por quantidade de pesquisas
     nodoTermo *globalReestruturadaTerm = NULL; // nova árvore de termos global organizada por quantidade de pesquisas
@@ -119,6 +117,7 @@ pNodoA* leArquivo(FILE *arquivo)
 
 
     printf("Tempo:%f",(clock() - tempo) / (double)CLOCKS_PER_SEC);
+    imprimeConsultas(arvoreFinal->consultas);
     getchar();
     imprimeConsultas(globalReestruturadaCons);
     getchar();
@@ -358,7 +357,7 @@ nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *
     reestruturaConsultaQuantidade(arvore->dir, novaArvore);
     //novaArvore = insereConsultaQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
 
-    free(arvore); // libera o espaço ocupado por aquela folha
+    //free(arvore); // libera o espaço ocupado por aquela folha
 
     return novaArvore;
 
@@ -409,7 +408,7 @@ nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novaArvore)
     novaArvore = insereTermoQuantidade(novaArvore, arvore); //arvore agora se entende como folha
     reestruturaTermoQuantidade(arvore->dir, novaArvore);
     //novaArvore = insereTermoQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
-    free(arvore); // libera o espaço ocupado por aquela folha
+    //free(arvore); // libera o espaço ocupado por aquela folha
 
     return novaArvore;
 }

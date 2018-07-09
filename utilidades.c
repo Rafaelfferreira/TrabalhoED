@@ -74,12 +74,24 @@ itemA* insereLista(itemA *lista, char termo[LEN/2]) // também reduz a quantidade
 // a função recebe uma lista encadeada simples e insere um nodo novo no início dessa lista
 // devolve a nova lista com o nodo inserido
 {
-
     itemA *novoTermo = (itemA*) malloc(sizeof(itemA));
-    novoTermo->prox = lista;
     strcpy(novoTermo->info, termo);
+    novoTermo->prox = NULL;
 
-    return novoTermo;
+    if (lista == NULL) // se a lista for nula, cria um primeiro elemento com esse termo
+        lista = novoTermo; // lista retornada eh o proprio novo item
+
+
+    else // se nao, insere o termo no proximo item da lista
+    {
+        itemA *aux = lista; // para andar ate o fim da lista antes de adicionar a consulta
+        while (aux->prox != NULL) // enquanto nao for ate o ultimo item da lista
+            aux = aux->prox;
+
+        aux->prox = novoTermo; // adiciona o ultimo item no fim da lista
+    }
+
+    return lista;
 }
 
 

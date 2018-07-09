@@ -16,7 +16,7 @@ int main()
     char palavra[LEN]; // variável do tipo string
 
     //abrindo o arquivo com tipo de abertura w
-    arquivo = fopen("evaluation/input_ANSI.txt", "r");
+    arquivo = fopen("evaluation/input_ANSI cheio.txt", "r");
 
     //testando se o arquivo foi realmente criado
     if(arquivo == NULL)
