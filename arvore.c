@@ -181,7 +181,7 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char in
 
 //Recebe o arquivo das operacoes e a arvore que contem as localidades
 //Retorna void porem escreve no arquivo de saida
-void leOperacoes(FILE *arquivo, FILE *arquivoSaida, pNodoA *ArvoreGeral)
+void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
 {
     char termo[LEN], parametro1[LEN], parametro2[LEN]; // le termo do arquivo
     int i, quantidade; // indice da string
@@ -194,7 +194,7 @@ void leOperacoes(FILE *arquivo, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     globalReestruturadaTerm = reestruturaTermoQuantidade(ArvoreGeral->termos, globalReestruturadaTerm);
 
 
-    while((termo[0] = getc(arquivo)) != EOF) //Loop ate o arquivo acabar
+    while((termo[0] = getc(arquivoOp)) != EOF) //Loop ate o arquivo acabar
     {
         operacao = termo[0]; //O primeiro char de cada linha a ser lido eh a operacao
 
@@ -203,7 +203,7 @@ void leOperacoes(FILE *arquivo, FILE *arquivoSaida, pNodoA *ArvoreGeral)
         //Leitura do segundo termo da linha (Ou a localidade ou a quantidade, dependendo da operacao)
         if(operacao != 'f') //Se a operacao for f nao precisa de mais nenhum termo
         {
-            while ( (parametro1[i] = getc(arquivo)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
+            while ( (parametro1[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
                     parametro1[i] != '\n')
             {
                 i++;
@@ -222,7 +222,7 @@ void leOperacoes(FILE *arquivo, FILE *arquivoSaida, pNodoA *ArvoreGeral)
         {
             i = 0; //resetando o indice que le os parametros
 
-            while ( (parametro1[i] = getc(arquivo)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
+            while ( (parametro1[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
                     parametro1[i] != '\n')
             {
                 i++;
@@ -478,15 +478,11 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int qu
 
         if(quantidade == 0)
         {
-            //Imprime todas as consultas
+            imprimeConsultasArquivoTodo(arquivoSaida, arvoreQuantidade);
         }
         else
         {
-            while(quantidade != 0) //Imprime os mais pesquisados e vai decrementando a var quantidade
-            {
-                //Vai imprimindo
-                quantidade--;   //Decrementa o indice quantidade
-            }
+            imprimeConsultasArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
         }
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
@@ -504,14 +500,13 @@ void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade)
 {
     if (quantidade == 0)
     {
-        //Listar todas as consultas e escrever no arquivo
+        imprimeConsultasArquivoTodo(arquivoSaida, arvoreGeral);
     }
     else
     {
         while(quantidade > 0)
         {
-            //Vai procurando as consultas mais pesquisadas e imprimindo no arquivo
-            quantidade--;
+            imprimeConsultasArquivo(arquivoSaida, arvoreGeral, quantidade);
         }
     }
 }
@@ -536,14 +531,13 @@ void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int qu
 
         if(quantidade == 0)
         {
-            //Imprime todos os termos
+            imprimeTermosArquivoTodo(arquivoSaida, arvoreQuantidade);
         }
         else
         {
             while(quantidade != 0) //Imprime os mais pesquisados e vai decrementando a var quantidade
             {
-                //Vai imprimindo
-                quantidade--;   //Decrementa o indice quantidade
+                imprimeTermosArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
             }
         }
     }
@@ -562,14 +556,13 @@ void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade)
 {
     if (quantidade == 0)
     {
-        //Listar todas as consultas e escrever no arquivo
+        imprimeTermosArquivoTodo(arquivoSaida, arvoreGeral);
     }
     else
     {
         while(quantidade > 0)
         {
-            //Vai procurando as consultas mais pesquisadas e imprimindo no arquivo
-            quantidade--;
+            imprimeTermosArquivo(arquivoSaida, arvoreGeral, &quantidade);
         }
     }
 }
@@ -577,10 +570,10 @@ void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade)
 //Funcao que realiza a operacao E (Listar o tamanho medio das consultas por localidade)
 void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade)
 {
-    int quantidadeNodo; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
-    int quantidadeConsultas; //conta quantas consultas tem, incrementa em um a cada consulta
-    int somaTermos; //vai adicionando o numero total de termos de cada consulta nessa variavel
     int MediaTermos; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
+    //int quantidadeNodo; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
+    int quantidadeConsultas = 0; //conta quantas consultas tem, incrementa em um a cada consulta
+    int somaTermos = 0; //vai adicionando o numero total de termos de cada consulta nessa variavel
 
     nodoConsulta *arvoreConsultas;
 
@@ -592,15 +585,11 @@ void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade)
     else if(strcmp(arvoreGeral->info, localidade) == 0) //Encontrou a localidade certa na arvore
     {
         arvoreConsultas = arvoreGeral->consultas;
-        //Criar um algoritmo para percorrer a arvore inteiramente
-        //A cada nodo da arvore, percorre a lista ate o final somando os seus termos a variavel quantidadeNodo
-        //PARA CADA NODO {
-            somaTermos += quantidadeNodo;
-            quantidadeConsultas++;
-        //}
+        calculaTamanhoMedio(arvoreConsultas, quantidadeConsultas, somaTermos);
         MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
 
-        //Imprimir no arquivo o MediaTermos
+        //Imprime no arquivo a media dos termos
+        fprintf(arquivoSaida, "Media de termos/pesquisa: %d", MediaTermos);
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
     {
@@ -623,13 +612,10 @@ void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral)
     nodoConsulta *arvoreConsulta;
     arvoreConsulta = arvoreGeral->consultas;    //Recebe a arvore de consultas globais
 
-    //Criar um algoritmo para percorrer a arvore inteiramente
-        //A cada nodo da arvore, percorre a lista ate o final somando os seus termos a variavel quantidadeNodo
-        //PARA CADA NODO {
-            somaTermos += quantidadeNodo;
-            quantidadeConsultas++;
-        //}
-        MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
+    calculaTamanhoMedio(arvoreConsulta, quantidadeConsultas, somaTermos);
+    MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
+
+    fprintf(arquivoSaida, "Media de termos/pesquisa: %d", MediaTermos);
 }
 
 
@@ -652,6 +638,56 @@ void imprimeArvore(pNodoA *a)
 
     //getchar();
 
+}
+
+//Imprime o numero especifico de consultas no arquivo
+void imprimeConsultasArquivo(FILE *arquivoSaida, nodoConsulta *a, int *quantidade)
+{
+    if (a == NULL)
+        return 0;
+
+    imprimeConsultasArquivo(arquivoSaida, a->dir, &quantidade);
+
+    itemA *aux = a->infoLSE;
+
+    if(quantidade > 0) //Imprime apenas a quantidade desejada (talvez precise adicionar um * aqui)
+    {
+        fprintf(arquivoSaida, "Quantidade: %d | ", a->quantidade);
+        while (aux != NULL)
+        {
+            fprintf(arquivoSaida, "%s - ", aux->info);
+            aux = aux->prox;
+
+        }
+        *quantidade--;
+
+        fprintf(arquivoSaida, "\n");
+    }
+
+    imprimeConsultasArquivo(arquivoSaida, a->esq, &quantidade);
+}
+
+//Imprime todas as consultas do arquivo
+void imprimeConsultasArquivoTodo(FILE *arquivoSaida, nodoConsulta *a)
+{
+    if (a == NULL)
+        return 0;
+
+    imprimeConsultasArquivoTodo(arquivoSaida, a->esq);
+
+    itemA *aux = a->infoLSE;
+
+    fprintf(arquivoSaida, "Quantidade: %d | ", a->quantidade);
+    while (aux != NULL)
+    {
+        fprintf(arquivoSaida, "%s - ", aux->info);
+        aux = aux->prox;
+
+    }
+
+   fprintf(arquivoSaida, "\n");
+
+    imprimeConsultasArquivoTodo(arquivoSaida, a->dir);
 }
 
 void imprimeConsultas(nodoConsulta *a)
@@ -677,6 +713,36 @@ void imprimeConsultas(nodoConsulta *a)
 
 }
 
+//Imprime todos os termos no arquivo
+void imprimeTermosArquivoTodo(FILE *arquivoSaida, nodoTermo *a)
+{
+    if (a == NULL)
+        return 0;
+
+    imprimeTermosArquivoTodo(arquivoSaida, a->esq);
+
+    fprintf(arquivoSaida, "Quantidade: %d | %s\n", a->quantidade, a->info);
+
+    imprimeTermosArquivoTodo(arquivoSaida, a->dir);
+}
+
+//Imprime o numero especifico de termos no arquivo
+void imprimeTermosArquivo(FILE *arquivoSaida, nodoTermo *a, int *quantidade)
+{
+    if (a == NULL)
+        return 0;
+
+    imprimeTermosArquivo(arquivoSaida, a->esq, &quantidade);
+
+    if (quantidade > 0)
+    {
+        fprintf(arquivoSaida, "Quantidade: %d | %s\n", a->quantidade, a->info);
+        quantidade--;
+    }
+
+    imprimeTermosArquivo(arquivoSaida, a->dir, &quantidade);
+}
+
 void imprimeTermos(nodoTermo *a)
 {
     if (a == NULL)
@@ -689,3 +755,24 @@ void imprimeTermos(nodoTermo *a)
 
 }
 
+//Calcula o tamanho medio das consultas de uma arvore
+void calculaTamanhoMedio(nodoConsulta *a, int *quantidadeConsultas, int *somaTermos)
+{
+    if (a == NULL)
+        return 0;
+
+    calculaTamanhoMedio(a->esq, &quantidadeConsultas, &somaTermos);
+
+    itemA *aux = a->infoLSE;
+
+    quantidadeConsultas++;
+    somaTermos++; //SOMA UM A QUANTIDADE DE CONSULTAS E TERMOS
+    while (aux != NULL)
+    {
+        somaTermos++; //SOMA UM A QUANTIDADE DE TERMOS
+        aux = aux->prox;
+
+    }
+
+    calculaTamanhoMedio(a->dir, &quantidadeConsultas, &somaTermos);
+}
