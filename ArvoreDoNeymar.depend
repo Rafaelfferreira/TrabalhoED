@@ -93,3 +93,30 @@
 	<string.h>
 	"utilidades.h"
 
+1531157353 source:c:\users\pet-arya\documents\rafael\trabalhoed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.c"
+	"utilidades.c"
+	<locale.h>
+
+1531161046 c:\users\pet-arya\documents\rafael\trabalhoed\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.h"
+
+1531161017 c:\users\pet-arya\documents\rafael\trabalhoed\arvore.h
+	"utilidades.h"
+
+1531153664 c:\users\pet-arya\documents\rafael\trabalhoed\utilidades.h
+
+1531154680 c:\users\pet-arya\documents\rafael\trabalhoed\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilidades.h"
+
