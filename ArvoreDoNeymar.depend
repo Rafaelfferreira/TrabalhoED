@@ -13,7 +13,7 @@
 	<string.h>
 	"arvore.h"
 
-1531060553 source:c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\main.c
+1531171773 source:c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -22,14 +22,14 @@
 	"utilidades.c"
 	<locale.h>
 
-1531063934 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\arvore.c
+1531172246 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\arvore.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<time.h>
 	"arvore.h"
 
-1531060543 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\arvore.h
+1531170225 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\arvore.h
 	"utilidades.h"
 
 1531031741 source:c:\users\fc\desktop\ed\trabed\trabalhoed\main.c
@@ -58,7 +58,7 @@
 
 1531019888 c:\users\fc\desktop\ed\trabed\trabalhoed\utilidades.h
 
-1531053754 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\utilidades.c
+1531170138 c:\users\admin\documents\ufrgs\semestre 2018-1\estruturas de dados\trabalho\arvoredoneymar\utilidades.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

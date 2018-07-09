@@ -19,7 +19,7 @@ int main()
     char palavra[LEN]; // variável do tipo string
 
     //abrindo o arquivo com tipo de abertura w
-    arquivo = fopen("evaluation/input_ANSI cheio.txt", "r");
+    arquivo = fopen("evaluation/input_teste.txt", "r");
 
     //testando se o arquivo foi realmente criado
     if(arquivo == NULL)
@@ -33,8 +33,8 @@ int main()
     //fechamos o arquivo de input
     fclose(arquivo);
 
-    arquivoOp = fopen("evaluation/operations_ANSI.txt", "r"); //abrindo arquivo de operacoes
-    arquivoWr = fopen("evaluation/output_ANSI.txt", "a"); // abrindo o arquivo de output
+    arquivoOp = fopen("evaluation/operations_teste.txt", "r"); //abrindo arquivo de operacoes
+    arquivoWr = fopen("evaluation/output_teste.txt", "a"); // abrindo o arquivo de output
 
     leOperacoes(arquivoOp, arquivoWr, ArvoreGeral);
 

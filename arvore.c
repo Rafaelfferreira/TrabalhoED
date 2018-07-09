@@ -121,18 +121,18 @@ pNodoA* leArquivo(FILE *arquivo)
 
 
     printf("Tempo:%f\n\n", (clock() - tempo) / (double)CLOCKS_PER_SEC);
-   /* imprimeConsultas(arvoreFinal->consultas);
+    /*imprimeConsultas(arvoreFinal->consultas);
     getchar();
     imprimeConsultas(globalReestruturadaCons);
     getchar();
 
-    imprimeTermos(arvoreFinal->termos);
+    /*imprimeTermos(arvoreFinal->termos);
     getchar();
     imprimeTermos(globalReestruturadaTerm);
-    getchar(); */
+    getchar();*/
 
     //imprimeArvore(arvoreFinal);
-    return 0;
+    return arvoreFinal;
 }
 
 
@@ -471,10 +471,10 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int qu
     //Encontrou a localidade certa na arvore geral
     else if(strcmp(arvoreGeral->info, localidade) == 0)
     {
-
         // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
         // devolve a nova árvore
-        arvoreQuantidade = reestruturaConsultaQuantidade(arvoreGeral->consultas, arvoreQuantidade); //ArvoreQuantidade agora tem uma arvore reestruturada por quais consultas aparecem mais
+        nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta));
+        arvoreQuantidade = reestruturaConsultaQuantidade(arvoreGeral->consultas, &globalReestruturadaCons); //ArvoreQuantidade agora tem uma arvore reestruturada por quais consultas aparecem mais
 
         if(quantidade == 0)
         {
