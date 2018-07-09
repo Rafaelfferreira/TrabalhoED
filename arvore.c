@@ -106,21 +106,31 @@ pNodoA* leArquivo(FILE *arquivo)
         }
     }
 
+    //imprimeArvore(arvoreFinal);
+    //getchar();
 
-    nodoConsulta *globalReestruturadaCons = NULL; // nova árvore de consultas global organizada por quantidade de pesquisas
-    nodoTermo *globalReestruturadaTerm = NULL; // nova árvore de termos global organizada por quantidade de pesquisas
+    //nodoConsulta *globalReestruturadaCons = NULL; // nova árvore de consultas global organizada por quantidade de pesquisas
+    //nodoTermo *globalReestruturadaTerm = NULL; // nova árvore de termos global organizada por quantidade de pesquisas
 
 
     // chama as funções que reestruturam a árvore de acordo com a quantidade de pesquisas
-    globalReestruturadaCons = reestruturaConsultaQuantidade(arvoreFinal->consultas, globalReestruturadaCons);
-    globalReestruturadaTerm = reestruturaTermoQuantidade(arvoreFinal->termos, globalReestruturadaTerm);
+    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta));
+    globalReestruturadaCons = reestruturaConsultaQuantidade(arvoreFinal->consultas, &globalReestruturadaCons);
+    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo));
+    reestruturaTermoQuantidade(arvoreFinal->termos, &globalReestruturadaTerm);
 
 
-    printf("Tempo:%f",(clock() - tempo) / (double)CLOCKS_PER_SEC);
-    imprimeConsultas(arvoreFinal->consultas);
+    printf("Tempo:%f\n\n", (clock() - tempo) / (double)CLOCKS_PER_SEC);
+   /* imprimeConsultas(arvoreFinal->consultas);
     getchar();
     imprimeConsultas(globalReestruturadaCons);
     getchar();
+
+    imprimeTermos(arvoreFinal->termos);
+    getchar();
+    imprimeTermos(globalReestruturadaTerm);
+    getchar(); */
+
     //imprimeArvore(arvoreFinal);
     return 0;
 }
@@ -157,13 +167,13 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char in
     char stringPrecedente[LEN];
     ordemAlfabetica(info, inicioArvore->info, stringPrecedente); //assinala em stringPrecedente a precedente em ordem alfabetica
 
-    //se info, pela ordem alfabetica, vem antes, vai pra esquerda
+    //se info, pela ordem alfabetica, vem antes, vai pra direita
     if (strcmp(info, stringPrecedente) == 0)
-        inicioArvore->esq = insereLocalidade(inicioArvore->esq, localidadeAtual, info);
-
-    else // se não, vai pra direita
-    {
         inicioArvore->dir = insereLocalidade(inicioArvore->dir, localidadeAtual, info);
+
+    else // se não, vai pra esquerda
+    {
+        inicioArvore->esq = insereLocalidade(inicioArvore->esq, localidadeAtual, info);
     }
 
     return inicioArvore;
@@ -281,23 +291,23 @@ nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quant
         }
 
         // caso contrário, verifica pra onde ir (direita ou esquerda da consulta atual)
-        // se a consulta nova vier antes na ordem alfabética, coloca ela à esquerda
+        // se a consulta nova vier antes na ordem alfabética, coloca ela à direita
         if(!strcmp(stringPrecedente, consulta->info)) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
-            consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
-
-        // caso contrário, insere à direita
-        else
             consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos);
+
+        // caso contrário, insere à esquerda
+        else
+            consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
     }
 
 
     // se não tiver a mesma quantidade, é uma consulta diferente, logo faz os testes para ver se vai para a direita ou esquerda:
     else if(!strcmp(stringPrecedente, consulta->info)) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
-            consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
+            consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos);
 
-    // caso contrário, insere à direita
+    // caso contrário, insere à esquerda
     else
-        consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos);
+        consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
 
     return consultas;
 }
@@ -331,35 +341,36 @@ nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2])
     ordemAlfabetica(termoNodo->info, termo, stringPrecedente); //assinala em stringPrecedente a precedente em ordem alfabetica
 
     // testa ordem alfabética para saber se insere à direita ou esquerda
-    if(strcmp(termo, stringPrecedente)) //se o termo vier depois na ordem alfabética, insere à direita
-        termoNodo->dir = insereTermo(termoNodo->dir, termo);
-
-    //caso contrário insere à esquerda
-    else
+    if(strcmp(termo, stringPrecedente)) //se o termo vier depois na ordem alfabética, insere à esquerda
         termoNodo->esq = insereTermo(termoNodo->esq, termo);
+
+    //caso contrário insere à direita
+    else
+        termoNodo->dir = insereTermo(termoNodo->dir, termo);
 
 
     return termoNodo;
 }
 
 
-nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novaArvore)
+nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta **novaArvore)
 // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
 // devolve a nova árvore
 {
 
     if (arvore == NULL)
-        return NULL; // critério de parada da recursão
+        return 0; // critério de parada da recursão
 
-    // a inserção utiliza o pós-fixado esquerda (pois assim está organizado pelo critério alfabético)
-    reestruturaConsultaQuantidade(arvore->esq, novaArvore);
-    novaArvore = insereConsultaQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
+    // a inserção utiliza o central direita (pois assim está organizado pelo critério alfabético)
     reestruturaConsultaQuantidade(arvore->dir, novaArvore);
+    insereConsultaQuantidade(*novaArvore, arvore); //arvore nesse ponto se entende como folha
+    reestruturaConsultaQuantidade(arvore->esq, novaArvore);
     //novaArvore = insereConsultaQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
 
     //free(arvore); // libera o espaço ocupado por aquela folha
 
-    return novaArvore;
+    //return novaArvore;
+    return *novaArvore;
 
 }
 
@@ -369,15 +380,15 @@ nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
 
     if(arvore == NULL) // se chegamos na extremidade da árvore, adicionamos um novo nodo
     {
-        nodoConsulta *arvoreNova = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // cria nova folha
+        arvore = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // cria nova folha
 
-        arvoreNova->infoLSE = novo->infoLSE;
-        arvoreNova->numTermos = novo->numTermos;
-        arvoreNova->quantidade = novo->quantidade;
-        arvoreNova->dir = NULL; // garante que não haja confusão de ficar linkado com a árvore anterior
-        arvoreNova->esq = NULL;
+        arvore->infoLSE = novo->infoLSE;
+        arvore->numTermos = novo->numTermos;
+        arvore->quantidade = novo->quantidade;
+        arvore->dir = NULL; // garante que não haja confusão de ficar linkado com a árvore anterior
+        arvore->esq = NULL;
 
-        return arvoreNova;
+        return arvore;
     }
 
     else if (novo->quantidade > arvore->quantidade) // se o nodo atual tem mais consultas, vai para a direita
@@ -387,15 +398,15 @@ nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
         arvore->esq = insereConsultaQuantidade(arvore->esq, novo);
 
     else // se tiver a mesma quantia de consultas, utiliza critério alfabético
-    // como a outra árvore já está ordenada de forma alfabética, é só garantir que a inserção ocorre de maneira pós fixada à esquerda
-    // porém note que esse modo constroi arvore para ser printada como pós fixada direita
-        arvore->dir = insereConsultaQuantidade(arvore->dir, novo);
+    // como a outra árvore já está ordenada de forma alfabética, é só garantir que a inserção ocorre de maneira central direita
+        arvore->esq = insereConsultaQuantidade(arvore->esq, novo);
 
     return arvore;
 }
 
 
-nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novaArvore)
+//nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novaArvore)
+nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo **novaArvore)
 // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
 // devolve a nova árvore
 {
@@ -404,19 +415,21 @@ nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novaArvore)
         return NULL; // critério de parada da recursão
 
     // a inserção utiliza o pós-fixado esquerda (pois assim está organizado pelo critério alfabético)
-    reestruturaTermoQuantidade(arvore->esq, novaArvore);
-    novaArvore = insereTermoQuantidade(novaArvore, arvore); //arvore agora se entende como folha
     reestruturaTermoQuantidade(arvore->dir, novaArvore);
-    //novaArvore = insereTermoQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
-    //free(arvore); // libera o espaço ocupado por aquela folha
+    //insereTermoQuantidade(novaArvore, arvore); //arvore agora se entende como folha
+    insereTermoQuantidade(*novaArvore, arvore); //arvore agora se entende como folha
+    reestruturaTermoQuantidade(arvore->esq, novaArvore);
 
-    return novaArvore;
+
+
+    return *novaArvore;
 }
 
 
 nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
 // insere o nodo novo em uma árvore de termos
 {
+
     if(arvore == NULL) // se chegamos na extremidade da árvore, adicionamos um novo nodo
     {
         nodoTermo *novoTermo = (nodoTermo*) malloc(sizeof(nodoTermo));
@@ -425,8 +438,9 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
         novoTermo->quantidade = novo->quantidade;
         novoTermo->dir = NULL; // garante que não haja confusão de ficar linkado com a árvore anterior
         novoTermo->esq = NULL;
+        arvore = novoTermo;
 
-        return novoTermo;
+        return arvore;
     }
 
     else if (novo->quantidade > arvore->quantidade) // se o nodo atual tem mais consultas, vai para a direita
@@ -436,10 +450,10 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
         arvore->esq = insereTermoQuantidade(arvore->esq, novo);
 
     else // caso contrário utiliza o critério de ordenamento alfabético
-    // como a outra árvore já está ordenada de forma alfabética, é só garantir que a inserção ocorre de maneira pós fixada à esquerda
-    // porém note que esse modo constroi arvore para ser printada como pós fixada direita
-        arvore->dir = insereTermoQuantidade(arvore->dir, novo);
+    // como a outra árvore já está ordenada de forma alfabética, é só garantir que a inserção ocorre de maneira central doreita
+        arvore->esq = insereTermoQuantidade(arvore->esq, novo); // entao pela recusao tem que inserir a esquerda ja que vem depois
 
+    //free(novo); // libera espaco da arvore antiga
     return arvore;
 
 }
@@ -624,15 +638,17 @@ void imprimeArvore(pNodoA *a)
     if (a == NULL)
         return 0;
 
+    imprimeArvore(a->dir);
+
+    printf("Localidade: %s \n\nTermos:\n", a->info);
+        //imprimeTermos(a->termos);
+    printf("\nConsultas:\n");
+        //imprimeConsultas(a->consultas);
+    printf("\n\n\n");
+
     imprimeArvore(a->esq);
 
-        printf("Localidade: %s \n\nTermos:\n", a->info);
-        imprimeTermos(a->termos);
-        printf("\nConsultas:\n");
-        imprimeConsultas(a->consultas);
-        printf("\n\n\n");
 
-    imprimeArvore(a->dir);
 
     //getchar();
 
@@ -643,20 +659,22 @@ void imprimeConsultas(nodoConsulta *a)
     if (a == NULL)
         return 0;
 
-    imprimeConsultas(a->esq);
+    imprimeConsultas(a->dir);
 
     itemA *aux = a->infoLSE;
 
-    printf("Quantidade: %d | ", a->quantidade);
+    printf("\nQuantidade: %d | ", a->quantidade);
     while (aux != NULL)
     {
         printf("%s - ", aux->info);
         aux = aux->prox;
 
     }
-    printf("\n");
 
-    imprimeConsultas(a->dir);
+    imprimeConsultas(a->esq);
+
+    //printf("\n");
+
 }
 
 void imprimeTermos(nodoTermo *a)
@@ -664,10 +682,10 @@ void imprimeTermos(nodoTermo *a)
     if (a == NULL)
         return 0;
 
+    imprimeTermos(a->dir);
+    printf("Quantidade: %d | %s\n", a->quantidade, a->info);
     imprimeTermos(a->esq);
 
-    printf("Quantidade: %d | %s\n", a->quantidade, a->info);
 
-    imprimeTermos(a->dir);
 }
 

@@ -47,9 +47,9 @@ nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quant
 nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2]);  // insere termo na árvore de termos
 
 // operações para transformar a árvore numa abp ordenada por mais pesquisados
-nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de consultas mais pesquisadas, utilizando alfabética como critério de desempate
+nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta **novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de consultas mais pesquisadas, utilizando alfabética como critério de desempate
 nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo); //insere uma consulta usando o critério da função acima
-nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de termos mais pesquisados, utilizando alfabética como critério de desempate
+nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo **novo); // reestrutura árvore inicialmente ordenada em ordem alfabética, para ordem de termos mais pesquisados, utilizando alfabética como critério de desempate
 nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo); // //insere um termo usando o critério da função acima
 
 // visualização
