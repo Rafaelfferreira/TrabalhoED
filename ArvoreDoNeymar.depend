@@ -120,3 +120,30 @@
 	<string.h>
 	"utilidades.h"
 
+1531182662 source:c:\users\fc\documents\teste\trabalhoed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.c"
+	"utilidades.c"
+	<locale.h>
+
+1531182635 c:\users\fc\documents\teste\trabalhoed\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"arvore.h"
+
+1531182191 c:\users\fc\documents\teste\trabalhoed\arvore.h
+	"utilidades.h"
+
+1531182191 c:\users\fc\documents\teste\trabalhoed\utilidades.h
+
+1531182191 c:\users\fc\documents\teste\trabalhoed\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilidades.h"
+

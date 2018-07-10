@@ -106,32 +106,35 @@ pNodoA* leArquivo(FILE *arquivo)
         }
     }
 
-    //imprimeArvore(arvoreFinal);
-    //getchar();
 
-    //nodoConsulta *globalReestruturadaCons = NULL; // nova árvore de consultas global organizada por quantidade de pesquisas
-    //nodoTermo *globalReestruturadaTerm = NULL; // nova árvore de termos global organizada por quantidade de pesquisas
+    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
+    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
 
 
     // chama as funções que reestruturam a árvore de acordo com a quantidade de pesquisas
-    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta));
-    globalReestruturadaCons = reestruturaConsultaQuantidade(arvoreFinal->consultas, &globalReestruturadaCons);
-    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo));
+
+    globalReestruturadaCons = NULL;
+    globalReestruturadaTerm = NULL;
+
+    reestruturaConsultaQuantidade(arvoreFinal->consultas, &globalReestruturadaCons);
     reestruturaTermoQuantidade(arvoreFinal->termos, &globalReestruturadaTerm);
 
 
     printf("Tempo:%f\n\n", (clock() - tempo) / (double)CLOCKS_PER_SEC);
-    /*imprimeConsultas(arvoreFinal->consultas);
+
+    imprimeConsultas(arvoreFinal->consultas);
     getchar();
     imprimeConsultas(globalReestruturadaCons);
     getchar();
 
-    /*imprimeTermos(arvoreFinal->termos);
+
+/*
+    imprimeTermos(arvoreFinal->termos);
     getchar();
     imprimeTermos(globalReestruturadaTerm);
-    getchar();*/
+    getchar();
+    */
 
-    //imprimeArvore(arvoreFinal);
     return arvoreFinal;
 }
 
@@ -363,13 +366,10 @@ nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *
 
     // a inserção utiliza o central direita (pois assim está organizado pelo critério alfabético)
     reestruturaConsultaQuantidade(arvore->dir, novaArvore);
-    insereConsultaQuantidade(*novaArvore, arvore); //arvore nesse ponto se entende como folha
+    *novaArvore = insereConsultaQuantidade(*novaArvore, arvore); //arvore nesse ponto se entende como folha
     reestruturaConsultaQuantidade(arvore->esq, novaArvore);
-    //novaArvore = insereConsultaQuantidade(novaArvore, arvore); //arvore nesse ponto se entende como folha
 
-    //free(arvore); // libera o espaço ocupado por aquela folha
 
-    //return novaArvore;
     return *novaArvore;
 
 }
@@ -380,7 +380,8 @@ nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
 
     if(arvore == NULL) // se chegamos na extremidade da árvore, adicionamos um novo nodo
     {
-        arvore = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // cria nova folha
+
+        arvore = malloc(sizeof(nodoConsulta)); // cria nova folha
 
         arvore->infoLSE = novo->infoLSE;
         arvore->numTermos = novo->numTermos;
@@ -405,19 +406,17 @@ nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
 }
 
 
-//nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo *novaArvore)
 nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo **novaArvore)
 // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
 // devolve a nova árvore
 {
 
     if (arvore == NULL)
-        return NULL; // critério de parada da recursão
+        return 0; // critério de parada da recursão
 
     // a inserção utiliza o pós-fixado esquerda (pois assim está organizado pelo critério alfabético)
     reestruturaTermoQuantidade(arvore->dir, novaArvore);
-    //insereTermoQuantidade(novaArvore, arvore); //arvore agora se entende como folha
-    insereTermoQuantidade(*novaArvore, arvore); //arvore agora se entende como folha
+    *novaArvore = insereTermoQuantidade(*novaArvore, arvore); //arvore agora se entende como folha
     reestruturaTermoQuantidade(arvore->esq, novaArvore);
 
 
@@ -432,13 +431,12 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
 
     if(arvore == NULL) // se chegamos na extremidade da árvore, adicionamos um novo nodo
     {
-        nodoTermo *novoTermo = (nodoTermo*) malloc(sizeof(nodoTermo));
+        arvore = (nodoTermo*) malloc(sizeof(nodoTermo));
 
-        strcpy(novoTermo->info, novo->info);
-        novoTermo->quantidade = novo->quantidade;
-        novoTermo->dir = NULL; // garante que não haja confusão de ficar linkado com a árvore anterior
-        novoTermo->esq = NULL;
-        arvore = novoTermo;
+        strcpy(arvore->info, novo->info);
+        arvore->quantidade = novo->quantidade;
+        arvore->dir = NULL; // garante que não haja confusão de ficar linkado com a árvore anterior
+        arvore->esq = NULL;
 
         return arvore;
     }
@@ -453,7 +451,7 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
     // como a outra árvore já está ordenada de forma alfabética, é só garantir que a inserção ocorre de maneira central doreita
         arvore->esq = insereTermoQuantidade(arvore->esq, novo); // entao pela recusao tem que inserir a esquerda ja que vem depois
 
-    //free(novo); // libera espaco da arvore antiga
+
     return arvore;
 
 }
