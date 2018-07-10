@@ -191,10 +191,10 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     char operacao; //Salva qual a operacao ira ser executada a seguir
 
     //Gera as arvores organizadas por ordem de que termos/pesquisas aparecem mais
-    nodoConsulta *globalReestruturadaCons = NULL; // nova árvore de consultas global organizada por quantidade de pesquisas
-    nodoTermo *globalReestruturadaTerm = NULL; // nova árvore de termos global organizada por quantidade de pesquisas
-    globalReestruturadaCons = reestruturaConsultaQuantidade(ArvoreGeral->consultas, globalReestruturadaCons);
-    globalReestruturadaTerm = reestruturaTermoQuantidade(ArvoreGeral->termos, globalReestruturadaTerm);
+    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
+    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
+    reestruturaConsultaQuantidade(ArvoreGeral->consultas, &globalReestruturadaCons);
+    reestruturaTermoQuantidade(ArvoreGeral->termos, &globalReestruturadaTerm);
 
 
     while((termo[0] = getc(arquivoOp)) != EOF) //Loop ate o arquivo acabar
@@ -371,7 +371,7 @@ nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *
 
 
     return *novaArvore;
-
+nodoTermo
 }
 
 nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
