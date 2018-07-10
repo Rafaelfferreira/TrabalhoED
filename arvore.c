@@ -248,13 +248,13 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
                 operacaoC(arquivoSaida, ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao C e escreve o output no txt de saida
                 break;
             case 'd':
-                //operacaoD(arquivoSaida, globalReestruturadaTerm , quantidade); //Funcao que realiza a operacao D e escreve o output no txt de saida
+                operacaoD(arquivoSaida, globalReestruturadaTerm , quantidade); //Funcao que realiza a operacao D e escreve o output no txt de saida
                 break;
             case 'e':
-                //operacaoE(arquivoSaida, ArvoreGeral , parametro1); //Funcao que realiza a operacao E e escreve o output no txt de saida
+                operacaoE(arquivoSaida, ArvoreGeral , parametro1); //Funcao que realiza a operacao E e escreve o output no txt de saida
                 break;
             case 'f':
-                //operacaoF(arquivoSaida, ArvoreGeral); //Funcao que realiza a operacao F e escreve o output no txt de saida
+                operacaoF(arquivoSaida, ArvoreGeral); //Funcao que realiza a operacao F e escreve o output no txt de saida
                 break;
         }
 
@@ -578,11 +578,11 @@ void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80])
     else if(strcmp(arvoreGeral->info, localidade) == 0) //Encontrou a localidade certa na arvore
     {
         arvoreConsultas = arvoreGeral->consultas;
-        calculaTamanhoMedio(arvoreConsultas, quantidadeConsultas, somaTermos);
+        calculaTamanhoMedio(arvoreConsultas, &quantidadeConsultas, &somaTermos);
         MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
 
         //Imprime no arquivo a media dos termos
-        fprintf(arquivoSaida, "Media de termos/pesquisa: %d", MediaTermos);
+        fprintf(arquivoSaida, "Media de termos/pesquisa: %d\n", MediaTermos);
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
     {
@@ -605,10 +605,10 @@ void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral)
     nodoConsulta *arvoreConsulta;
     arvoreConsulta = arvoreGeral->consultas;    //Recebe a arvore de consultas globais
 
-    calculaTamanhoMedio(arvoreConsulta, quantidadeConsultas, somaTermos);
+    calculaTamanhoMedio(arvoreConsulta, &quantidadeConsultas, &somaTermos);
     MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
 
-    fprintf(arquivoSaida, "Media de termos/pesquisa: %d", MediaTermos);
+    fprintf(arquivoSaida, "Media de termos/pesquisa: %d\n", MediaTermos);
 }
 
 
@@ -754,18 +754,24 @@ void calculaTamanhoMedio(nodoConsulta *a, int *quantidadeConsultas, int *somaTer
     if (a == NULL)
         return 0;
 
-    calculaTamanhoMedio(a->esq, &quantidadeConsultas, &somaTermos);
+    calculaTamanhoMedio(a->dir, quantidadeConsultas, somaTermos);
+
+    int vezesConsultadas = 0;   // Variavel que salva quantas vezes foi feita a consulta, multiplica o numero de termos da pesquisa por esse valor
+    int tempSomaTermos = 0;     //Soma dos termos da consulta atual (temp pois vai ser somada ao SomaTermos final)
 
     itemA *aux = a->infoLSE;
+    vezesConsultadas = a->quantidade;
 
-    quantidadeConsultas++;
-    somaTermos++; //SOMA UM A QUANTIDADE DE CONSULTAS E TERMOS
-    while (aux != NULL)
+    *quantidadeConsultas = *quantidadeConsultas + (vezesConsultadas);
+    tempSomaTermos = tempSomaTermos +1; //SOMA UM A QUANTIDADE DE CONSULTAS E TERMOS
+    while (aux->prox != NULL) //Soma 1 a tempSomaTermos para cada termo da pesquisa
     {
-        somaTermos++; //SOMA UM A QUANTIDADE DE TERMOS
+        tempSomaTermos = tempSomaTermos +1; //SOMA UM A QUANTIDADE DE TERMOS
         aux = aux->prox;
-
     }
 
-    calculaTamanhoMedio(a->dir, &quantidadeConsultas, &somaTermos);
+    tempSomaTermos = tempSomaTermos * vezesConsultadas;
+    *somaTermos += tempSomaTermos;
+
+    calculaTamanhoMedio(a->esq, quantidadeConsultas, somaTermos);
 }
