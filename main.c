@@ -8,7 +8,8 @@
 
 #define LEN 80
 
-int main()
+// argumentos[0] corresponde ao nome do programa chamado, a partir daí, cada cada argumento n está armazenado em argumentos[n]
+int main(int numArgumentos, char *argumentos[])
 {
     setlocale(LC_ALL, "Portuguese");//habilita a acentuação para o português
 
@@ -19,7 +20,7 @@ int main()
     char palavra[LEN]; // variável do tipo string
 
     //abrindo o arquivo com tipo de abertura w
-    arquivo = fopen("evaluation/input_teste.txt", "r");
+    arquivo = fopen(argumentos[1], "r");
 
     //testando se o arquivo foi realmente criado
     if(arquivo == NULL)
@@ -33,8 +34,8 @@ int main()
     //fechamos o arquivo de input
     fclose(arquivo);
 
-    arquivoOp = fopen("evaluation/operations_teste.txt", "r"); //abrindo arquivo de operacoes
-    arquivoWr = fopen("evaluation/output_teste.txt", "a"); // abrindo o arquivo de output
+    arquivoOp = fopen(argumentos[2], "r"); //abrindo arquivo de operacoes
+    arquivoWr = fopen(argumentos[3], "a"); // abrindo o arquivo de output
 
     leOperacoes(arquivoOp, arquivoWr, ArvoreGeral);
 
