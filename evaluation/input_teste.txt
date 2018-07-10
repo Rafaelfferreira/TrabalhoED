@@ -1,1 +1,3 @@
 Natal;jogo de esporte;fifa
+Florianópolis;cruzeiro;neymar;cruzeiro;hang loose do bruxo
+POA;cruzeiro;fifa

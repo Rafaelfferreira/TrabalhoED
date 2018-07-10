@@ -38,7 +38,8 @@ int main()
 
     leOperacoes(arquivoOp, arquivoWr, ArvoreGeral);
 
-
+    fclose(arquivoOp);
+    fclose(arquivoWr);
 
     return 0;
 }

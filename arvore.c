@@ -122,18 +122,18 @@ pNodoA* leArquivo(FILE *arquivo)
 
     printf("Tempo:%f\n\n", (clock() - tempo) / (double)CLOCKS_PER_SEC);
 
-    imprimeConsultas(arvoreFinal->consultas);
+    /*imprimeConsultas(arvoreFinal->consultas);
     getchar();
     imprimeConsultas(globalReestruturadaCons);
-    getchar();
+    getchar();*/
 
 
-/*
+
     imprimeTermos(arvoreFinal->termos);
     getchar();
     imprimeTermos(globalReestruturadaTerm);
     getchar();
-    */
+
 
     return arvoreFinal;
 }
@@ -191,8 +191,8 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     char operacao; //Salva qual a operacao ira ser executada a seguir
 
     //Gera as arvores organizadas por ordem de que termos/pesquisas aparecem mais
-    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
-    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
+    nodoConsulta *globalReestruturadaCons = NULL;//(nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
+    nodoTermo *globalReestruturadaTerm = NULL;//(nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
     reestruturaConsultaQuantidade(ArvoreGeral->consultas, &globalReestruturadaCons);
     reestruturaTermoQuantidade(ArvoreGeral->termos, &globalReestruturadaTerm);
 
@@ -206,6 +206,7 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
         //Leitura do segundo termo da linha (Ou a localidade ou a quantidade, dependendo da operacao)
         if(operacao != 'f') //Se a operacao for f nao precisa de mais nenhum termo
         {
+            getc(arquivoOp);
             while ( (parametro1[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
                     parametro1[i] != '\n')
             {
@@ -225,8 +226,8 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
         {
             i = 0; //resetando o indice que le os parametros
 
-            while ( (parametro1[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
-                    parametro1[i] != '\n')
+            while ( (parametro2[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
+                    parametro2[i] != '\n')
             {
                 i++;
             }
@@ -238,13 +239,13 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
         switch(operacao)
         {
             case 'a':
-                //operacaoA(arquivoSaida, ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao A e escreve o output no txt de saida
+                operacaoA(arquivoSaida, ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao A e escreve o output no txt de saida
                 break;
             case 'b':
-                //operacaoB(arquivoSaida, globalReestruturadaCons ,quantidade); //Funcao que realiza a operacao B e escreve o output no txt de saida
+                operacaoB(arquivoSaida, globalReestruturadaCons ,quantidade); //Funcao que realiza a operacao B e escreve o output no txt de saida
                 break;
             case 'c':
-                //operacaoC(arquivoSaida, ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao C e escreve o output no txt de saida
+                operacaoC(arquivoSaida, ArvoreGeral , parametro1, quantidade); //Funcao que realiza a operacao C e escreve o output no txt de saida
                 break;
             case 'd':
                 //operacaoD(arquivoSaida, globalReestruturadaTerm , quantidade); //Funcao que realiza a operacao D e escreve o output no txt de saida
@@ -371,7 +372,7 @@ nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *
 
 
     return *novaArvore;
-nodoTermo
+
 }
 
 nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
@@ -457,9 +458,9 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo)
 }
 
 //Funcao que realiza a operacao A (Listar consultas mais realizadas por localidade) porem nao retorna nada, apenas escreve no arquivo
-void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade)
+void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], int quantidade)
 {
-    nodoConsulta *arvoreQuantidade = (nodoConsulta*) malloc(sizeof(nodoConsulta)); //Arvore de consultas organizados por quantidade de vezes que aparecem
+    nodoConsulta *arvoreQuantidade = NULL;//(nodoConsulta*) malloc(sizeof(nodoConsulta)); //Arvore de consultas organizados por quantidade de vezes que aparecem
 
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
@@ -471,7 +472,7 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int qu
     {
         // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
         // devolve a nova árvore
-        nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta));
+        nodoConsulta *globalReestruturadaCons = NULL;
         arvoreQuantidade = reestruturaConsultaQuantidade(arvoreGeral->consultas, &globalReestruturadaCons); //ArvoreQuantidade agora tem uma arvore reestruturada por quais consultas aparecem mais
 
         if(quantidade == 0)
@@ -504,28 +505,28 @@ void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade)
     {
         while(quantidade > 0)
         {
-            imprimeConsultasArquivo(arquivoSaida, arvoreGeral, quantidade);
+            imprimeConsultasArquivo(arquivoSaida, arvoreGeral, &quantidade);
         }
     }
 }
 
 //Funcao que realiza a operacao C (Listar termos mais consultados por localidade) porem nao retorna nada, apenas escreve no arquivo
-void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade)
+void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], int quantidade)
 {
-    nodoTermo *arvoreQuantidade = (nodoTermo*) malloc(sizeof(nodoTermo)); //Arvore de consultas organizados por quantidade de vezes que aparecem
+    nodoTermo *arvoreQuantidade = NULL; //Arvore de consultas organizados por quantidade de vezes que aparecem
 
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
         //Imprimir no arquivo que a localidade inserida nao existe
-        fprintf(arquivoSaida, "A localidade inserida nao existe");
+        fprintf(arquivoSaida, "A localidade inserida nao existe\n");
     }
     //Encontrou a localidade certa na arvore geral
     else if(strcmp(arvoreGeral->info, localidade) == 0)
     {
-
         // recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
         // devolve a nova árvore
-        arvoreQuantidade = reestruturaTermoQuantidade(arvoreGeral->termos, arvoreQuantidade); //ArvoreQuantidade agora tem uma arvore reestruturada por quais termos aparecem mais
+        nodoConsulta *globalReestruturadaTerm = NULL;
+        arvoreQuantidade = reestruturaTermoQuantidade(arvoreGeral->termos, &globalReestruturadaTerm); //ArvoreQuantidade agora tem uma arvore reestruturada por quais consultas aparecem mais
 
         if(quantidade == 0)
         {
@@ -533,10 +534,7 @@ void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int qu
         }
         else
         {
-            while(quantidade != 0) //Imprime os mais pesquisados e vai decrementando a var quantidade
-            {
-                imprimeTermosArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
-            }
+            imprimeTermosArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
         }
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
@@ -558,15 +556,12 @@ void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade)
     }
     else
     {
-        while(quantidade > 0)
-        {
             imprimeTermosArquivo(arquivoSaida, arvoreGeral, &quantidade);
-        }
     }
 }
 
 //Funcao que realiza a operacao E (Listar o tamanho medio das consultas por localidade)
-void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade)
+void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80])
 {
     int MediaTermos; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
     //int quantidadeNodo; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
@@ -578,7 +573,7 @@ void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade)
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
         //Imprimir no arquivo que a localidade inserida nao existe
-        fprintf(arquivoSaida, "A localidade inserida nao existe");
+        fprintf(arquivoSaida, "A localidade inserida nao existe\n");
     }
     else if(strcmp(arvoreGeral->info, localidade) == 0) //Encontrou a localidade certa na arvore
     {
@@ -644,11 +639,11 @@ void imprimeConsultasArquivo(FILE *arquivoSaida, nodoConsulta *a, int *quantidad
     if (a == NULL)
         return 0;
 
-    imprimeConsultasArquivo(arquivoSaida, a->dir, &quantidade);
+    imprimeConsultasArquivo(arquivoSaida, a->dir, quantidade);
 
     itemA *aux = a->infoLSE;
 
-    if(quantidade > 0) //Imprime apenas a quantidade desejada (talvez precise adicionar um * aqui)
+    if(*quantidade > 0) //Imprime apenas a quantidade desejada (talvez precise adicionar um * aqui)
     {
         fprintf(arquivoSaida, "Quantidade: %d | ", a->quantidade);
         while (aux != NULL)
@@ -657,12 +652,12 @@ void imprimeConsultasArquivo(FILE *arquivoSaida, nodoConsulta *a, int *quantidad
             aux = aux->prox;
 
         }
-        *quantidade--;
+        *quantidade = *quantidade - 1;
 
         fprintf(arquivoSaida, "\n");
     }
 
-    imprimeConsultasArquivo(arquivoSaida, a->esq, &quantidade);
+    imprimeConsultasArquivo(arquivoSaida, a->esq, quantidade);
 }
 
 //Imprime todas as consultas do arquivo
@@ -730,15 +725,15 @@ void imprimeTermosArquivo(FILE *arquivoSaida, nodoTermo *a, int *quantidade)
     if (a == NULL)
         return 0;
 
-    imprimeTermosArquivo(arquivoSaida, a->esq, &quantidade);
+    imprimeTermosArquivo(arquivoSaida, a->dir, quantidade);
 
-    if (quantidade > 0)
+    if (*quantidade > 0)
     {
         fprintf(arquivoSaida, "Quantidade: %d | %s\n", a->quantidade, a->info);
-        quantidade--;
+        *quantidade = *quantidade - 1;
     }
 
-    imprimeTermosArquivo(arquivoSaida, a->dir, &quantidade);
+    imprimeTermosArquivo(arquivoSaida, a->esq, quantidade);
 }
 
 void imprimeTermos(nodoTermo *a)

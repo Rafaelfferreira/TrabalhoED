@@ -59,11 +59,11 @@ void imprimeTermos(nodoTermo *a);
 
 //trata operacoes
 void leOperacoes(FILE *arquivoOp,FILE *arquivoSaida, pNodoA *ArvoreGeral);
-void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade);
+void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], int quantidade);
 void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade);
-void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade, int quantidade);
+void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], int quantidade);
 void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade);
-void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade);
+void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80]);
 void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral);
 
 //imprime no arquivo (funcoes que sao chamadas pelas funcoes de operacao)
