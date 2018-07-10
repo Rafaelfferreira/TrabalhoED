@@ -666,7 +666,7 @@ void imprimeConsultasArquivoTodo(FILE *arquivoSaida, nodoConsulta *a)
     if (a == NULL)
         return 0;
 
-    imprimeConsultasArquivoTodo(arquivoSaida, a->esq);
+    imprimeConsultasArquivoTodo(arquivoSaida, a->dir);
 
     itemA *aux = a->infoLSE;
 
@@ -680,7 +680,7 @@ void imprimeConsultasArquivoTodo(FILE *arquivoSaida, nodoConsulta *a)
 
    fprintf(arquivoSaida, "\n");
 
-    imprimeConsultasArquivoTodo(arquivoSaida, a->dir);
+    imprimeConsultasArquivoTodo(arquivoSaida, a->esq);
 }
 
 void imprimeConsultas(nodoConsulta *a)
@@ -712,11 +712,11 @@ void imprimeTermosArquivoTodo(FILE *arquivoSaida, nodoTermo *a)
     if (a == NULL)
         return 0;
 
-    imprimeTermosArquivoTodo(arquivoSaida, a->esq);
+    imprimeTermosArquivoTodo(arquivoSaida, a->dir);
 
     fprintf(arquivoSaida, "Quantidade: %d | %s\n", a->quantidade, a->info);
 
-    imprimeTermosArquivoTodo(arquivoSaida, a->dir);
+    imprimeTermosArquivoTodo(arquivoSaida, a->esq);
 }
 
 //Imprime o numero especifico de termos no arquivo

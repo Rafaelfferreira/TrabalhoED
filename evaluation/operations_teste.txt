@@ -1,2 +1,1 @@
-e;Florianópolis
-a;Natal;1
+b;0
