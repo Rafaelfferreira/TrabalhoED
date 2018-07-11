@@ -38,11 +38,11 @@ struct TNodoA{
 typedef struct TNodoA pNodoA;
 
 
-// operações iniciais para construir a árvore
-pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
+
 pNodoA* leArquivo(FILE *arquivo); // a funcao le o arquivo e retorna (monta) uma arvore de acordo com as informacoes contidas neste arquivo
 
-void imprimeCidades(pNodoA *a);
+// operações iniciais para construir a árvore
+pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
 nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos); // insere uma consulta na árvore de consultas
 nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2]);  // insere termo na árvore de termos
 
@@ -56,6 +56,7 @@ nodoTermo* insereTermoQuantidade(nodoTermo *arvore, nodoTermo *novo); // //inser
 void imprimeArvore(pNodoA *a);
 void imprimeConsultas(nodoConsulta *a);
 void imprimeTermos(nodoTermo *a);
+void imprimeCidades(pNodoA *a);
 
 //trata operacoes
 void leOperacoes(FILE *arquivoOp,FILE *arquivoSaida, pNodoA *ArvoreGeral);

@@ -29,15 +29,23 @@ int main(int numArgumentos, char *argumentos[])
          return 1;
     }
 
+    clock_t tempo;
+	tempo = clock();
     ArvoreGeral = leArquivo(arquivo);
+    tempo = clock() - tempo;
+    printf("Tempo para montar a árvore:%f\n\n", tempo / (double)CLOCKS_PER_SEC);
 
     //fechamos o arquivo de input
     fclose(arquivo);
 
+    tempo = clock() - tempo;
     arquivoOp = fopen(argumentos[2], "r"); //abrindo arquivo de operacoes
     arquivoWr = fopen(argumentos[3], "a"); // abrindo o arquivo de output
 
     leOperacoes(arquivoOp, arquivoWr, ArvoreGeral);
+
+    tempo = clock() - tempo;
+    printf("Tempo para efetuar as operações:%f\n\n", tempo / (double)CLOCKS_PER_SEC);
 
     fclose(arquivoOp);
     fclose(arquivoWr);

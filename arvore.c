@@ -11,10 +11,6 @@
 pNodoA* leArquivo(FILE *arquivo)
 // a funcao le o arquivo e retorna (monta) uma arvore de acordo com as informacoes contidas neste arquivo
 {
-    clock_t tempo;
-	tempo = clock();
-
-
     char pesquisa[LEN]; // le termo do arquivo
     int i; // indice da string
     int flagCidade = 1; // flag = 1 -> string representa localidade
@@ -110,29 +106,13 @@ pNodoA* leArquivo(FILE *arquivo)
     nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
     nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
 
-
-    // chama as funções que reestruturam a árvore de acordo com a quantidade de pesquisas
-
+    // seta os ponteiros para NULL avisando que não há nodos nas árvores
     globalReestruturadaCons = NULL;
     globalReestruturadaTerm = NULL;
 
+    // chama as funções que reestruturam a árvore de acordo com a quantidade de pesquisas
     reestruturaConsultaQuantidade(arvoreFinal->consultas, &globalReestruturadaCons);
     reestruturaTermoQuantidade(arvoreFinal->termos, &globalReestruturadaTerm);
-
-
-    printf("Tempo:%f\n\n", (clock() - tempo) / (double)CLOCKS_PER_SEC);
-
-    /*imprimeConsultas(arvoreFinal->consultas);
-    getchar();
-    imprimeConsultas(globalReestruturadaCons);
-    getchar();*/
-
-
-
-    imprimeTermos(arvoreFinal->termos);
-    getchar();
-    imprimeTermos(globalReestruturadaTerm);
-    getchar();
 
 
     return arvoreFinal;
@@ -175,9 +155,8 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char in
         inicioArvore->dir = insereLocalidade(inicioArvore->dir, localidadeAtual, info);
 
     else // se não, vai pra esquerda
-    {
         inicioArvore->esq = insereLocalidade(inicioArvore->esq, localidadeAtual, info);
-    }
+
 
     return inicioArvore;
 }
@@ -260,7 +239,6 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
 
     }
 }
-
 
 
 nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos)
@@ -358,7 +336,7 @@ nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2])
 
 
 nodoConsulta* reestruturaConsultaQuantidade(nodoConsulta *arvore, nodoConsulta **novaArvore)
-// recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
+// recebe uma árvore para reestruturar e uma nova árvore - por referência - a qual será reestruturada
 // devolve a nova árvore
 {
 
@@ -408,7 +386,7 @@ nodoConsulta* insereConsultaQuantidade(nodoConsulta *arvore, nodoConsulta *novo)
 
 
 nodoTermo* reestruturaTermoQuantidade(nodoTermo *arvore, nodoTermo **novaArvore)
-// recebe uma árvore para reestruturar e uma nova árvore a qual será reestruturada
+// recebe uma árvore para reestruturar e uma nova árvore - por referência - a qual será reestruturada
 // devolve a nova árvore
 {
 
