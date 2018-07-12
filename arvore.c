@@ -169,9 +169,12 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     int i, quantidade; // indice da string
     char operacao; //Salva qual a operacao ira ser executada a seguir
 
+
+    nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
+    nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo));
     //Gera as arvores organizadas por ordem de que termos/pesquisas aparecem mais
-    nodoConsulta *globalReestruturadaCons = NULL;//(nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
-    nodoTermo *globalReestruturadaTerm = NULL;//(nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
+    globalReestruturadaCons = NULL;//(nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
+    globalReestruturadaTerm = NULL;//(nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
     reestruturaConsultaQuantidade(ArvoreGeral->consultas, &globalReestruturadaCons);
     reestruturaTermoQuantidade(ArvoreGeral->termos, &globalReestruturadaTerm);
 
@@ -575,10 +578,10 @@ void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80])
 //Funcao que realiza a operacao F (Listar tamanho medio das consultas de todo o arquivo)
 void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral)
 {
-    int quantidadeNodo; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
-    int quantidadeConsultas; //conta quantas consultas tem, incrementa em um a cada consulta
-    int somaTermos; //vai adicionando o numero total de termos de cada consulta nessa variavel
-    int MediaTermos; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
+    int quantidadeNodo = 0; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
+    int quantidadeConsultas = 0; //conta quantas consultas tem, incrementa em um a cada consulta
+    int somaTermos = 0; //vai adicionando o numero total de termos de cada consulta nessa variavel
+    int MediaTermos = 0; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
 
     nodoConsulta *arvoreConsulta;
     arvoreConsulta = arvoreGeral->consultas;    //Recebe a arvore de consultas globais
@@ -606,8 +609,6 @@ void imprimeArvore(pNodoA *a)
     imprimeArvore(a->esq);
 
 
-
-    //getchar();
 
 }
 
