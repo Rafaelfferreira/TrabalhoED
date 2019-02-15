@@ -1,0 +1,1234 @@
+16 copa do mundo
+13 tabela
+13 tabela do brasileirao
+12 esporte espetacular
+12 globo esporte
+11 brasileirao
+11 esporte interativo
+11 libertadores
+10 esporte classe a
+9 band esporte
+9 spfc
+8 ao vivo
+8 boleiro
+8 campeao do mundo
+8 esporte interativo plus
+8 fox esporte
+7 2018
+7 ale oliveira
+7 classificacao
+7 classificacao do brasileirao
+7 cristiano ronaldo
+7 jogo de esporte
+7 luan
+6 alterosa esporte
+6 barcelona
+6 cruzeiro
+6 esporte net vip
+6 fifa
+6 flamengo
+6 gremio futebol porto alegrence
+6 real madrid
+6 ronaldinho gaucho o bruxo
+6 russia
+5 2017
+5 carioca
+5 fanaticos
+5 hang loose do bruxo
+5 hoje
+5 internacional
+5 messi
+Media de termos 10
+Media de termos 10
+Media de termos 10
+Media de termos 11
+17 copa do mundo
+16 libertadores
+16 tabela do brasileirao
+15 globo esporte
+14 esporte interativo
+13 brasileirao
+12 ale oliveira
+12 cruzeiro
+11 esporte espetacular
+10 pes
+10 sport clube internacional
+9 tabela
+8 2017
+8 2018
+8 campeao do mundo
+8 esporte classe a
+8 esporte interativo plus
+8 fox esporte
+8 luan
+8 paysandu
+7 band esporte
+7 carioca
+7 corinthians
+7 fifa
+7 flamengo
+7 gremio futebol porto alegrence
+7 hoje
+7 kaka
+7 mundial de clubes
+7 ronaldinho gaucho o bruxo
+7 sao paulo futebol clube
+7 spfc
+6 2016
+6 barcelona x chelsea
+6 classificacao do brasileirao
+6 esporte ao vivo
+6 esporte net vip
+6 fanaticos
+6 jogo do esporte
+5 ao vivo
+5 barcelona
+5 classificacao
+5 copa sao de futebol junior
+5 cristiano ronaldo
+5 internacional
+5 messi
+5 real madrid x psg
+5 rodada do brasileirao
+4 alterosa esporte
+4 boa esporte
+4 gremio
+4 hang loose do bruxo
+4 mercado da bola
+4 neymar
+4 paulistao
+3 boleiro
+3 campeonato
+3 jogo de esporte
+3 serie a
+2 d`alessandro
+2 paris saint-germain football club
+2 real madrid
+2 russia
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+143 carioca
+143 copa sao de futebol junior
+143 neymar
+143 paulistao
+143 russia
+142 hoje
+142 jogo do esporte
+142 mercado da bola
+142 paysandu
+141 ronaldinho gaucho o bruxo
+139 2018
+139 classificacao do brasileirao
+139 esporte interativo plus
+139 gremio
+138 corinthians
+138 messi
+136 esporte net vip
+136 sao paulo futebol clube
+134 classificacao
+134 esporte ao vivo
+15 globo esporte
+15 libertadores
+14 copa do mundo
+13 2016
+13 brasileirao
+13 tabela
+12 hang loose do bruxo
+11 esporte espetacular
+10 esporte interativo
+10 esporte net vip
+10 paysandu
+10 real madrid x psg
+9 corinthians
+9 esporte interativo plus
+9 jogo de esporte
+9 jogo do esporte
+9 luan
+9 messi
+9 ronaldinho gaucho o bruxo
+9 sao paulo futebol clube
+16 copa do mundo
+13 tabela
+13 tabela do brasileirao
+12 esporte espetacular
+12 globo esporte
+11 brasileirao
+11 esporte interativo
+11 libertadores
+10 esporte classe a
+9 band esporte
+9 spfc
+8 ao vivo
+8 boleiro
+8 campeao do mundo
+8 esporte interativo plus
+8 fox esporte
+7 2018
+7 ale oliveira
+7 classificacao
+7 classificacao do brasileirao
+7 cristiano ronaldo
+7 jogo de esporte
+7 luan
+6 alterosa esporte
+6 barcelona
+6 cruzeiro
+6 esporte net vip
+6 fifa
+6 flamengo
+6 gremio futebol porto alegrence
+6 real madrid
+6 ronaldinho gaucho o bruxo
+6 russia
+5 2017
+5 carioca
+5 fanaticos
+5 hang loose do bruxo
+5 hoje
+5 internacional
+5 messi
+Media de termos 9
+Media de termos 10
+Media de termos 12
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+1 2016;2017;ao vivo;campeonato;copa do mundo;copa do mundo;esporte interativo;esporte interativo plus;flamengo;globo esporte;internacional;libertadores;messi;mundial de clubes;pes;sao paulo futebol clube;serie a;sport clube internacional;tabela
+1 2016;2017;ao vivo;classificacao do brasileirao;copa do mundo;esporte net vip;fanaticos;globo esporte;luan;messi;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela do brasileirao
+1 2016;2017;barcelona x chelsea;boleiro;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;flamengo;kaka;libertadores;mercado da bola;paulistao;real madrid;real madrid x psg;spfc;tabela
+1 2016;2017;barcelona x chelsea;campeonato;carioca;fanaticos;globo esporte;gremio;hang loose do bruxo;internacional;mundial de clubes;neymar;tabela do brasileirao
+1 2016;2017;boleiro;campeao do mundo;campeonato;esporte ao vivo;esporte interativo plus;fifa;globo esporte;globo esporte;gremio futebol porto alegrence;jogo de esporte;jogo do esporte;luan;neymar;real madrid;rodada do brasileirao;tabela
+1 2016;2017;boleiro;copa do mundo;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;internacional;serie a;sport clube internacional
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;2017;carioca;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo plus;flamengo;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;luan;paulistao;real madrid x psg;rodada do brasileirao
+1 2016;2017;esporte net vip;neymar;paulistao;sao paulo futebol clube
+1 2016;2017;globo esporte;globo esporte;gremio futebol porto alegrence;libertadores;real madrid x psg
+1 2016;2017;globo esporte;gremio;rodada do brasileirao;spfc
+1 2016;2018;ale oliveira;alterosa esporte;copa do mundo;esporte espetacular;esporte espetacular;hoje;internacional;russia;spfc;tabela
+1 2016;2018;ale oliveira;barcelona;boleiro;campeao do mundo;copa sao de futebol junior;cruzeiro;esporte espetacular;esporte interativo;gremio;jogo do esporte;paris saint-germain football club;paulistao;rodada do brasileirao;sport clube internacional;tabela
+1 2016;2018;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeonato;esporte ao vivo;esporte interativo plus;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;kaka;mercado da bola;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;alterosa esporte;barcelona;brasileirao;carioca;classificacao;classificacao do brasileirao;cruzeiro;d`alessandro;esporte interativo;fanaticos;globo esporte;internacional;libertadores;luan;paysandu;spfc;tabela
+1 2016;2018;alterosa esporte;corinthians;cruzeiro;esporte espetacular;globo esporte;jogo do esporte;mercado da bola;neymar;paulistao;real madrid;real madrid x psg;serie a;spfc;tabela do brasileirao
+1 2016;2018;ao vivo;band esporte;boa esporte;campeao do mundo;copa do mundo;copa sao de futebol junior;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte net vip;flamengo;hang loose do bruxo;hoje;jogo do esporte;libertadores;neymar
+1 2016;2018;ao vivo;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;globo esporte;hang loose do bruxo;jogo de esporte;libertadores;libertadores;paulistao;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;band esporte;barcelona x chelsea;boleiro;brasileirao;fifa;internacional;kaka;luan;mercado da bola;messi;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela;tabela do brasileirao
+1 2016;2018;band esporte;boa esporte;copa sao de futebol junior;cruzeiro;cruzeiro;esporte classe a;esporte espetacular;esporte interativo plus;esporte net vip;gremio;internacional;jogo do esporte;paysandu;russia;spfc
+1 2016;2018;band esporte;brasileirao;copa do mundo;cruzeiro;fifa;globo esporte;libertadores;real madrid x psg;rodada do brasileirao;russia;spfc
+1 2016;2018;band esporte;campeao do mundo;copa do mundo;flamengo;globo esporte;jogo de esporte;jogo do esporte;libertadores;libertadores;messi;serie a;spfc
+1 2016;2018;barcelona x chelsea;boleiro;brasileirao;campeao do mundo;cruzeiro;esporte ao vivo;esporte interativo plus;gremio;jogo do esporte;messi;paulistao;pes;real madrid;sport clube internacional;tabela do brasileirao
+1 2016;2018;barcelona x chelsea;boleiro;classificacao do brasileirao;cristiano ronaldo;esporte classe a;esporte espetacular;esporte interativo;esporte net vip;gremio futebol porto alegrence;ronaldinho gaucho o bruxo;tabela
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;classificacao do brasileirao;esporte classe a;esporte net vip;internacional;messi;mundial de clubes;neymar;paris saint-germain football club;paulistao;pes;rodada do brasileirao;sao paulo futebol clube
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;cristiano ronaldo;esporte ao vivo;esporte espetacular;esporte espetacular;esporte interativo;esporte interativo plus;globo esporte;jogo de esporte;messi;paris saint-germain football club;real madrid;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2018;boa esporte;brasileirao;campeao do mundo;esporte classe a;esporte espetacular;esporte interativo plus;fifa;gremio;internacional;libertadores;luan;mundial de clubes;neymar;real madrid x psg;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;boleiro;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;gremio;hang loose do bruxo;internacional;jogo do esporte;kaka;mercado da bola;messi;paysandu;pes;ronaldinho gaucho o bruxo
+1 2016;2018;classificacao;classificacao do brasileirao;esporte classe a;esporte espetacular;esporte net vip;fanaticos;gremio;hoje;jogo de esporte;neymar;serie a;sport clube internacional
+1 2016;ale oliveira;alterosa esporte;ao vivo;band esporte;barcelona x chelsea;flamengo;globo esporte;jogo do esporte;libertadores;paulistao;paysandu;real madrid x psg;russia
+1 2016;ale oliveira;alterosa esporte;ao vivo;boa esporte;campeao do mundo;campeonato;copa sao de futebol junior;corinthians;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;neymar;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;ao vivo;boleiro;campeao do mundo;classificacao;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo plus;esporte net vip;fifa;gremio;jogo do esporte;messi;pes;real madrid x psg
+1 2016;ale oliveira;alterosa esporte;band esporte;boa esporte;carioca;cruzeiro;d`alessandro;esporte classe a;esporte interativo plus;flamengo;fox esporte;hang loose do bruxo;hoje;jogo do esporte;mundial de clubes;neymar;serie a;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;band esporte;brasileirao;copa do mundo;copa sao de futebol junior;cristiano ronaldo;esporte ao vivo;esporte espetacular;fanaticos;hang loose do bruxo;jogo de esporte;jogo do esporte;messi;rodada do brasileirao;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;barcelona;boa esporte;brasileirao;classificacao;copa do mundo;esporte espetacular;flamengo;jogo de esporte;paris saint-germain football club;paysandu;real madrid;real madrid x psg;rodada do brasileirao;sao paulo futebol clube
+1 2016;ale oliveira;ao vivo;boa esporte;campeonato;d`alessandro;esporte interativo;esporte interativo plus;hang loose do bruxo;libertadores;paris saint-germain football club;real madrid x psg;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;barcelona;esporte espetacular;esporte interativo
+1 2016;ale oliveira;barcelona x chelsea;campeonato;classificacao do brasileirao;copa sao de futebol junior;esporte ao vivo;esporte net vip;hoje;internacional;jogo de esporte;jogo do esporte;kaka;paris saint-germain football club;pes;rodada do brasileirao;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo;esporte interativo plus;fifa;hoje;jogo do esporte;kaka;messi;neymar;pes;real madrid;rodada do brasileirao;serie a
+1 2016;ale oliveira;boleiro;brasileirao;campeao do mundo;d`alessandro;esporte espetacular;esporte interativo plus;esporte net vip;hang loose do bruxo;jogo de esporte;libertadores;messi;paysandu;pes;real madrid x psg;serie a;sport clube internacional;tabela do brasileirao
+1 2016;ale oliveira;boleiro;carioca;copa sao de futebol junior;cruzeiro;esporte classe a;globo esporte;hang loose do bruxo;paris saint-germain football club;paulistao;pes;real madrid;real madrid x psg;ronaldinho gaucho o bruxo;spfc;tabela
+1 2016;ale oliveira;boleiro;copa do mundo;esporte interativo;gremio futebol porto alegrence;hoje;luan;mercado da bola;messi;neymar;paysandu;rodada do brasileirao;russia;tabela;tabela do brasileirao
+1 2016;ale oliveira;brasileirao;carioca;copa sao de futebol junior;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte classe a;esporte interativo plus;gremio;hoje;libertadores;mundial de clubes;neymar;paris saint-germain football club;real madrid;rodada do brasileirao;tabela;tabela do brasileirao
+1 2016;ale oliveira;classificacao;cristiano ronaldo;esporte espetacular;jogo do esporte;messi;pes;spfc
+1 2016;ale oliveira;globo esporte;globo esporte;gremio;internacional;jogo do esporte;mundial de clubes;neymar;russia
+1 2016;alterosa esporte;ao vivo;band esporte;brasileirao;classificacao;corinthians;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte interativo plus;fifa;kaka;neymar;pes;rodada do brasileirao;serie a;tabela
+1 2016;alterosa esporte;ao vivo;barcelona;boleiro;carioca;esporte espetacular;globo esporte;hang loose do bruxo;libertadores;mercado da bola;paysandu;pes;sao paulo futebol clube;tabela do brasileirao
+1 2016;alterosa esporte;ao vivo;barcelona x chelsea;boa esporte;brasileirao;classificacao;copa do mundo;d`alessandro;esporte espetacular;esporte interativo;fox esporte;hang loose do bruxo;jogo de esporte;jogo do esporte;messi;mundial de clubes;russia;tabela do brasileirao
+1 2016;alterosa esporte;band esporte;barcelona;campeao do mundo;campeonato;esporte classe a;esporte interativo;esporte net vip;fanaticos;fifa;flamengo;globo esporte;libertadores;libertadores;messi;real madrid;rodada do brasileirao;russia;sao paulo futebol clube
+1 2016;alterosa esporte;barcelona;copa sao de futebol junior;cruzeiro;esporte interativo plus;fifa;gremio;libertadores;messi
+1 2016;alterosa esporte;barcelona;cristiano ronaldo;cruzeiro;globo esporte;paris saint-germain football club
+1 2016;alterosa esporte;barcelona x chelsea;brasileirao;corinthians;cruzeiro;esporte classe a;esporte espetacular;flamengo;fox esporte;globo esporte;hoje;internacional;jogo de esporte;paris saint-germain football club;pes;real madrid x psg;russia;tabela do brasileirao
+1 2016;alterosa esporte;boa esporte;boleiro;brasileirao;copa sao de futebol junior;cristiano ronaldo;esporte interativo;esporte interativo plus;globo esporte;hoje;jogo de esporte;kaka;libertadores;luan;messi;paulistao;paysandu;pes;sao paulo futebol clube
+1 2016;alterosa esporte;brasileirao;d`alessandro;esporte ao vivo;fanaticos;fox esporte;gremio;jogo de esporte;libertadores;mundial de clubes;paris saint-germain football club;paysandu;rodada do brasileirao;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;alterosa esporte;brasileirao;fanaticos;fifa;luan;paysandu;tabela do brasileirao
+1 2016;alterosa esporte;campeonato;classificacao;copa do mundo;cruzeiro;esporte classe a;esporte interativo plus;fanaticos;fifa;fox esporte;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;paulistao;pes;russia;sao paulo futebol clube;tabela
+1 2016;alterosa esporte;copa do mundo;fanaticos;globo esporte;hang loose do bruxo;paysandu;tabela do brasileirao
+1 2016;ao vivo;band esporte;barcelona;campeao do mundo;carioca;esporte ao vivo;esporte interativo;esporte net vip;fifa;hoje;kaka;libertadores;messi;neymar;pes;real madrid x psg;rodada do brasileirao;sport clube internacional;tabela do brasileirao
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+143 carioca
+143 copa sao de futebol junior
+143 neymar
+143 paulistao
+143 russia
+142 hoje
+142 jogo do esporte
+142 mercado da bola
+142 paysandu
+141 ronaldinho gaucho o bruxo
+139 2018
+139 classificacao do brasileirao
+139 esporte interativo plus
+139 gremio
+138 corinthians
+138 messi
+136 esporte net vip
+136 sao paulo futebol clube
+134 classificacao
+134 esporte ao vivo
+132 boa esporte
+132 mundial de clubes
+126 serie a
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+1 2016;2017;ao vivo;campeonato;copa do mundo;copa do mundo;esporte interativo;esporte interativo plus;flamengo;globo esporte;internacional;libertadores;messi;mundial de clubes;pes;sao paulo futebol clube;serie a;sport clube internacional;tabela
+1 2016;2017;ao vivo;classificacao do brasileirao;copa do mundo;esporte net vip;fanaticos;globo esporte;luan;messi;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela do brasileirao
+1 2016;2017;barcelona x chelsea;boleiro;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;flamengo;kaka;libertadores;mercado da bola;paulistao;real madrid;real madrid x psg;spfc;tabela
+1 2016;2017;barcelona x chelsea;campeonato;carioca;fanaticos;globo esporte;gremio;hang loose do bruxo;internacional;mundial de clubes;neymar;tabela do brasileirao
+1 2016;2017;boleiro;campeao do mundo;campeonato;esporte ao vivo;esporte interativo plus;fifa;globo esporte;globo esporte;gremio futebol porto alegrence;jogo de esporte;jogo do esporte;luan;neymar;real madrid;rodada do brasileirao;tabela
+1 2016;2017;boleiro;copa do mundo;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;internacional;serie a;sport clube internacional
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;2017;carioca;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo plus;flamengo;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;luan;paulistao;real madrid x psg;rodada do brasileirao
+1 2016;2017;esporte net vip;neymar;paulistao;sao paulo futebol clube
+1 2016;2017;globo esporte;globo esporte;gremio futebol porto alegrence;libertadores;real madrid x psg
+1 2016;2017;globo esporte;gremio;rodada do brasileirao;spfc
+1 2016;2018;ale oliveira;alterosa esporte;copa do mundo;esporte espetacular;esporte espetacular;hoje;internacional;russia;spfc;tabela
+1 2016;2018;ale oliveira;barcelona;boleiro;campeao do mundo;copa sao de futebol junior;cruzeiro;esporte espetacular;esporte interativo;gremio;jogo do esporte;paris saint-germain football club;paulistao;rodada do brasileirao;sport clube internacional;tabela
+1 2016;2018;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeonato;esporte ao vivo;esporte interativo plus;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;kaka;mercado da bola;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;alterosa esporte;barcelona;brasileirao;carioca;classificacao;classificacao do brasileirao;cruzeiro;d`alessandro;esporte interativo;fanaticos;globo esporte;internacional;libertadores;luan;paysandu;spfc;tabela
+1 2016;2018;alterosa esporte;corinthians;cruzeiro;esporte espetacular;globo esporte;jogo do esporte;mercado da bola;neymar;paulistao;real madrid;real madrid x psg;serie a;spfc;tabela do brasileirao
+1 2016;2018;ao vivo;band esporte;boa esporte;campeao do mundo;copa do mundo;copa sao de futebol junior;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte net vip;flamengo;hang loose do bruxo;hoje;jogo do esporte;libertadores;neymar
+1 2016;2018;ao vivo;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;globo esporte;hang loose do bruxo;jogo de esporte;libertadores;libertadores;paulistao;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;band esporte;barcelona x chelsea;boleiro;brasileirao;fifa;internacional;kaka;luan;mercado da bola;messi;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela;tabela do brasileirao
+1 2016;2018;band esporte;boa esporte;copa sao de futebol junior;cruzeiro;cruzeiro;esporte classe a;esporte espetacular;esporte interativo plus;esporte net vip;gremio;internacional;jogo do esporte;paysandu;russia;spfc
+1 2016;2018;band esporte;brasileirao;copa do mundo;cruzeiro;fifa;globo esporte;libertadores;real madrid x psg;rodada do brasileirao;russia;spfc
+1 2016;2018;band esporte;campeao do mundo;copa do mundo;flamengo;globo esporte;jogo de esporte;jogo do esporte;libertadores;libertadores;messi;serie a;spfc
+1 2016;2018;barcelona x chelsea;boleiro;brasileirao;campeao do mundo;cruzeiro;esporte ao vivo;esporte interativo plus;gremio;jogo do esporte;messi;paulistao;pes;real madrid;sport clube internacional;tabela do brasileirao
+1 2016;2018;barcelona x chelsea;boleiro;classificacao do brasileirao;cristiano ronaldo;esporte classe a;esporte espetacular;esporte interativo;esporte net vip;gremio futebol porto alegrence;ronaldinho gaucho o bruxo;tabela
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;classificacao do brasileirao;esporte classe a;esporte net vip;internacional;messi;mundial de clubes;neymar;paris saint-germain football club;paulistao;pes;rodada do brasileirao;sao paulo futebol clube
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;cristiano ronaldo;esporte ao vivo;esporte espetacular;esporte espetacular;esporte interativo;esporte interativo plus;globo esporte;jogo de esporte;messi;paris saint-germain football club;real madrid;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2018;boa esporte;brasileirao;campeao do mundo;esporte classe a;esporte espetacular;esporte interativo plus;fifa;gremio;internacional;libertadores;luan;mundial de clubes;neymar;real madrid x psg;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;boleiro;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;gremio;hang loose do bruxo;internacional;jogo do esporte;kaka;mercado da bola;messi;paysandu;pes;ronaldinho gaucho o bruxo
+1 2016;2018;classificacao;classificacao do brasileirao;esporte classe a;esporte espetacular;esporte net vip;fanaticos;gremio;hoje;jogo de esporte;neymar;serie a;sport clube internacional
+1 2016;ale oliveira;alterosa esporte;ao vivo;band esporte;barcelona x chelsea;flamengo;globo esporte;jogo do esporte;libertadores;paulistao;paysandu;real madrid x psg;russia
+1 2016;ale oliveira;alterosa esporte;ao vivo;boa esporte;campeao do mundo;campeonato;copa sao de futebol junior;corinthians;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;neymar;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;ao vivo;boleiro;campeao do mundo;classificacao;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo plus;esporte net vip;fifa;gremio;jogo do esporte;messi;pes;real madrid x psg
+1 2016;ale oliveira;alterosa esporte;band esporte;boa esporte;carioca;cruzeiro;d`alessandro;esporte classe a;esporte interativo plus;flamengo;fox esporte;hang loose do bruxo;hoje;jogo do esporte;mundial de clubes;neymar;serie a;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;band esporte;brasileirao;copa do mundo;copa sao de futebol junior;cristiano ronaldo;esporte ao vivo;esporte espetacular;fanaticos;hang loose do bruxo;jogo de esporte;jogo do esporte;messi;rodada do brasileirao;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;barcelona;boa esporte;brasileirao;classificacao;copa do mundo;esporte espetacular;flamengo;jogo de esporte;paris saint-germain football club;paysandu;real madrid;real madrid x psg;rodada do brasileirao;sao paulo futebol clube
+1 2016;ale oliveira;ao vivo;boa esporte;campeonato;d`alessandro;esporte interativo;esporte interativo plus;hang loose do bruxo;libertadores;paris saint-germain football club;real madrid x psg;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;barcelona;esporte espetacular;esporte interativo
+1 2016;ale oliveira;barcelona x chelsea;campeonato;classificacao do brasileirao;copa sao de futebol junior;esporte ao vivo;esporte net vip;hoje;internacional;jogo de esporte;jogo do esporte;kaka;paris saint-germain football club;pes;rodada do brasileirao;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo;esporte interativo plus;fifa;hoje;jogo do esporte;kaka;messi;neymar;pes;real madrid;rodada do brasileirao;serie a
+1 2016;ale oliveira;boleiro;brasileirao;campeao do mundo;d`alessandro;esporte espetacular;esporte interativo plus;esporte net vip;hang loose do bruxo;jogo de esporte;libertadores;messi;paysandu;pes;real madrid x psg;serie a;sport clube internacional;tabela do brasileirao
+1 2016;ale oliveira;boleiro;carioca;copa sao de futebol junior;cruzeiro;esporte classe a;globo esporte;hang loose do bruxo;paris saint-germain football club;paulistao;pes;real madrid;real madrid x psg;ronaldinho gaucho o bruxo;spfc;tabela
+1 2016;ale oliveira;boleiro;copa do mundo;esporte interativo;gremio futebol porto alegrence;hoje;luan;mercado da bola;messi;neymar;paysandu;rodada do brasileirao;russia;tabela;tabela do brasileirao
+1 2016;ale oliveira;brasileirao;carioca;copa sao de futebol junior;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte classe a;esporte interativo plus;gremio;hoje;libertadores;mundial de clubes;neymar;paris saint-germain football club;real madrid;rodada do brasileirao;tabela;tabela do brasileirao
+1 2016;ale oliveira;classificacao;cristiano ronaldo;esporte espetacular;jogo do esporte;messi;pes;spfc
+1 2016;ale oliveira;globo esporte;globo esporte;gremio;internacional;jogo do esporte;mundial de clubes;neymar;russia
+1 2016;alterosa esporte;ao vivo;band esporte;brasileirao;classificacao;corinthians;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte interativo plus;fifa;kaka;neymar;pes;rodada do brasileirao;serie a;tabela
+1 2016;alterosa esporte;ao vivo;barcelona;boleiro;carioca;esporte espetacular;globo esporte;hang loose do bruxo;libertadores;mercado da bola;paysandu;pes;sao paulo futebol clube;tabela do brasileirao
+1 2016;alterosa esporte;ao vivo;barcelona x chelsea;boa esporte;brasileirao;classificacao;copa do mundo;d`alessandro;esporte espetacular;esporte interativo;fox esporte;hang loose do bruxo;jogo de esporte;jogo do esporte;messi;mundial de clubes;russia;tabela do brasileirao
+1 2016;alterosa esporte;band esporte;barcelona;campeao do mundo;campeonato;esporte classe a;esporte interativo;esporte net vip;fanaticos;fifa;flamengo;globo esporte;libertadores;libertadores;messi;real madrid;rodada do brasileirao;russia;sao paulo futebol clube
+1 2016;alterosa esporte;barcelona;copa sao de futebol junior;cruzeiro;esporte interativo plus;fifa;gremio;libertadores;messi
+1 2016;alterosa esporte;barcelona;cristiano ronaldo;cruzeiro;globo esporte;paris saint-germain football club
+1 2016;alterosa esporte;barcelona x chelsea;brasileirao;corinthians;cruzeiro;esporte classe a;esporte espetacular;flamengo;fox esporte;globo esporte;hoje;internacional;jogo de esporte;paris saint-germain football club;pes;real madrid x psg;russia;tabela do brasileirao
+1 2016;alterosa esporte;boa esporte;boleiro;brasileirao;copa sao de futebol junior;cristiano ronaldo;esporte interativo;esporte interativo plus;globo esporte;hoje;jogo de esporte;kaka;libertadores;luan;messi;paulistao;paysandu;pes;sao paulo futebol clube
+1 2016;alterosa esporte;brasileirao;d`alessandro;esporte ao vivo;fanaticos;fox esporte;gremio;jogo de esporte;libertadores;mundial de clubes;paris saint-germain football club;paysandu;rodada do brasileirao;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;alterosa esporte;brasileirao;fanaticos;fifa;luan;paysandu;tabela do brasileirao
+1 2016;alterosa esporte;campeonato;classificacao;copa do mundo;cruzeiro;esporte classe a;esporte interativo plus;fanaticos;fifa;fox esporte;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;paulistao;pes;russia;sao paulo futebol clube;tabela
+1 2016;alterosa esporte;copa do mundo;fanaticos;globo esporte;hang loose do bruxo;paysandu;tabela do brasileirao
+1 2016;ao vivo;band esporte;barcelona;campeao do mundo;carioca;esporte ao vivo;esporte interativo;esporte net vip;fifa;hoje;kaka;libertadores;messi;neymar;pes;real madrid x psg;rodada do brasileirao;sport clube internacional;tabela do brasileirao
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+Media de termos 10
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+143 carioca
+143 copa sao de futebol junior
+143 neymar
+143 paulistao
+143 russia
+142 hoje
+142 jogo do esporte
+142 mercado da bola
+142 paysandu
+141 ronaldinho gaucho o bruxo
+139 2018
+139 classificacao do brasileirao
+139 esporte interativo plus
+139 gremio
+138 corinthians
+138 messi
+136 esporte net vip
+136 sao paulo futebol clube
+134 classificacao
+134 esporte ao vivo
+132 boa esporte
+132 mundial de clubes
+126 serie a
+Media de termos 10
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;ao vivo;band esporte;campeonato;copa do mundo;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;fox esporte;gremio;hoje;libertadores;messi;neymar;pes;rodada do brasileirao;russia;tabela
+1 2016;band esporte;barcelona x chelsea;cruzeiro;esporte espetacular;esporte espetacular;esporte interativo;fanaticos;gremio;jogo do esporte;libertadores;mercado da bola;messi;pes;real madrid;russia
+1 2016;brasileirao;campeao do mundo;esporte classe a;esporte espetacular;esporte interativo;esporte net vip;jogo do esporte;luan;mercado da bola
+1 2017;2018;boa esporte;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;esporte net vip;flamengo;globo esporte;hoje;libertadores;mercado da bola;mundial de clubes;neymar;serie a;spfc;tabela do brasileirao
+1 2017;ale oliveira;alterosa esporte;ao vivo;barcelona;boleiro;carioca;esporte classe a;globo esporte;gremio;hang loose do bruxo;mundial de clubes;serie a;tabela
+1 2017;ale oliveira;alterosa esporte;campeao do mundo;campeonato;classificacao do brasileirao;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;paysandu
+1 2017;band esporte;barcelona;boa esporte;campeao do mundo;carioca;copa do mundo;copa sao de futebol junior;cristiano ronaldo;esporte classe a;jogo de esporte;spfc
+1 2017;copa sao de futebol junior;jogo do esporte;spfc
+1 2018;ao vivo;band esporte;barcelona x chelsea;boleiro;copa sao de futebol junior;esporte espetacular;fifa;internacional;jogo de esporte;libertadores;mercado da bola;messi;mundial de clubes;rodada do brasileirao;sport clube internacional;tabela
+1 2018;ao vivo;barcelona;cruzeiro;d`alessandro;esporte classe a;esporte espetacular;esporte interativo;esporte interativo plus;fox esporte;gremio;hang loose do bruxo;mundial de clubes;serie a;tabela do brasileirao
+1 ale oliveira;alterosa esporte;barcelona x chelsea;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte classe a;esporte net vip;fanaticos;flamengo;globo esporte;hang loose do bruxo;mercado da bola;mundial de clubes;pes;tabela do brasileirao
+1 ale oliveira;barcelona;boa esporte;classificacao do brasileirao;cruzeiro;globo esporte;gremio
+1 ale oliveira;copa sao de futebol junior;esporte ao vivo;esporte espetacular;esporte interativo;fifa;gremio;hoje;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 alterosa esporte;carioca;copa do mundo;flamengo;gremio;jogo de esporte;libertadores;pes
+1 ao vivo;boa esporte;boleiro;campeonato;classificacao do brasileirao;corinthians;esporte classe a;esporte espetacular;esporte espetacular;kaka;libertadores;luan;mundial de clubes
+1 ao vivo;campeonato;cristiano ronaldo;esporte interativo;esporte interativo;gremio;gremio futebol porto alegrence;libertadores;neymar;rodada do brasileirao
+1 ao vivo;esporte espetacular;tabela
+1 band esporte;barcelona x chelsea;boa esporte;boleiro;brasileirao;carioca;cruzeiro;esporte interativo;gremio futebol porto alegrence;neymar;paris saint-germain football club;paysandu;real madrid;real madrid x psg;spfc
+1 band esporte;carioca;copa do mundo;cruzeiro;d`alessandro;fifa;globo esporte;gremio;internacional;mundial de clubes;paris saint-germain football club;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;tabela;tabela
+1 barcelona;boa esporte;carioca;classificacao;d`alessandro;esporte interativo;esporte interativo;esporte interativo plus;flamengo;globo esporte;jogo de esporte;luan;neymar;paulistao;paysandu;real madrid x psg;sao paulo futebol clube;tabela;tabela
+1 boa esporte
+1 boleiro;brasileirao;esporte ao vivo;esporte net vip;globo esporte;gremio
+1 boleiro;campeao do mundo;hoje;real madrid
+1 brasileirao;carioca;cristiano ronaldo;fox esporte;paris saint-germain football club;rodada do brasileirao
+1 brasileirao;d`alessandro;esporte classe a
+1 brasileirao;esporte net vip;rodada do brasileirao
+1 campeao do mundo;carioca;copa sao de futebol junior;esporte ao vivo;esporte espetacular;esporte interativo;esporte interativo plus;luan;mercado da bola;real madrid x psg;russia;sao paulo futebol clube;spfc;tabela
+1 campeonato;carioca;classificacao do brasileirao;cristiano ronaldo;esporte classe a;esporte interativo;esporte interativo plus;fanaticos;fox esporte;gremio;luan;mundial de clubes;paulistao;tabela
+1 classificacao;corinthians;fanaticos;serie a
+1 copa do mundo;esporte interativo;esporte net vip;fanaticos;flamengo;globo esporte;luan;sao paulo futebol clube;tabela do brasileirao
+1 corinthians;jogo de esporte;real madrid;ronaldinho gaucho o bruxo
+1 cristiano ronaldo
+1 flamengo;paris saint-germain football club;rodada do brasileirao;sao paulo futebol clube
+1 gremio futebol porto alegrence
+1 libertadores;mercado da bola
+1 paysandu
+1 spfc
+12 tabela
+11 copa do mundo
+9 barcelona
+9 cruzeiro
+8 real madrid
+8 tabela do brasileirao
+7 esporte espetacular
+7 ronaldinho gaucho o bruxo
+6 alterosa esporte
+6 barcelona x chelsea
+6 brasileirao
+6 campeonato
+6 classificacao do brasileirao
+6 esporte ao vivo
+6 esporte interativo
+6 fanaticos
+6 gremio
+6 libertadores
+6 mercado da bola
+6 paris saint-germain football club
+6 real madrid x psg
+5 ao vivo
+5 campeao do mundo
+5 corinthians
+5 d`alessandro
+5 globo esporte
+5 jogo de esporte
+5 luan
+5 mundial de clubes
+5 neymar
+5 russia
+5 serie a
+4 2017
+4 boleiro
+4 carioca
+4 esporte classe a
+4 fox esporte
+4 hang loose do bruxo
+4 messi
+4 spfc
+3 band esporte
+3 cristiano ronaldo
+3 fifa
+3 flamengo
+3 hoje
+3 internacional
+3 kaka
+3 paulistao
+3 pes
+3 sport clube internacional
+2 2016
+2 ale oliveira
+2 boa esporte
+2 classificacao
+2 gremio futebol porto alegrence
+2 jogo do esporte
+2 sao paulo futebol clube
+1 2018
+1 copa sao de futebol junior
+1 esporte interativo plus
+1 esporte net vip
+1 paysandu
+Media de termos 10
+Media de termos 9
+Media de termos 12
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+1 2016;barcelona x chelsea;classificacao do brasileirao;copa do mundo;d`alessandro;esporte classe a;esporte interativo;esporte interativo;fanaticos;fifa;globo esporte;internacional;mundial de clubes;paris saint-germain football club;pes;real madrid x psg;sao paulo futebol clube
+1 2017;2018;alterosa esporte;classificacao do brasileirao;copa do mundo;copa sao de futebol junior;cruzeiro;fifa;jogo de esporte;jogo do esporte;libertadores;pes;sao paulo futebol clube;sport clube internacional
+1 2017;2018;boleiro;brasileirao;campeao do mundo;campeonato;carioca;cristiano ronaldo;esporte classe a;esporte espetacular;fox esporte;hoje;mercado da bola;paris saint-germain football club;paulistao;real madrid;tabela
+1 2017;ale oliveira;barcelona x chelsea;carioca;classificacao do brasileirao;copa do mundo;cruzeiro;esporte classe a;esporte espetacular;esporte espetacular;fanaticos;gremio;internacional;libertadores;luan;rodada do brasileirao;sao paulo futebol clube
+1 2017;alterosa esporte;band esporte;barcelona x chelsea;brasileirao;brasileirao;esporte classe a;esporte espetacular;fifa;gremio;jogo de esporte;libertadores;neymar;paris saint-germain football club;paysandu;real madrid x psg;tabela;tabela
+1 2017;boleiro;brasileirao;campeonato;classificacao;classificacao do brasileirao;esporte espetacular;jogo do esporte;libertadores;neymar;real madrid x psg;sao paulo futebol clube;tabela;tabela do brasileirao
+1 2018;alterosa esporte;ao vivo;brasileirao;brasileirao;carioca;corinthians;esporte classe a;esporte espetacular;esporte net vip;fanaticos;globo esporte;gremio futebol porto alegrence;paris saint-germain football club;paysandu;pes;sao paulo futebol clube;spfc;tabela do brasileirao
+1 2018;ao vivo;esporte interativo;fifa;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;mundial de clubes;pes;rodada do brasileirao;serie a
+1 2018;esporte espetacular;esporte interativo;mercado da bola;tabela do brasileirao
+1 ale oliveira;ao vivo;brasileirao;campeao do mundo;copa do mundo;cristiano ronaldo;esporte classe a;esporte espetacular;esporte interativo;fifa;flamengo;globo esporte;globo esporte;internacional;jogo de esporte;libertadores;luan;mercado da bola;messi;serie a
+1 ale oliveira;brasileirao;campeonato;copa do mundo;corinthians;esporte interativo;flamengo;jogo de esporte;luan;real madrid;serie a;sport clube internacional
+1 alterosa esporte;band esporte;brasileirao;carioca;classificacao do brasileirao;copa do mundo;d`alessandro;esporte espetacular;esporte interativo;esporte net vip;fanaticos;hoje;internacional;jogo de esporte;luan;paris saint-germain football club;paysandu;real madrid;sao paulo futebol clube;tabela
+1 alterosa esporte;brasileirao;campeao do mundo;copa sao de futebol junior;esporte ao vivo;esporte espetacular;fanaticos;gremio;libertadores;real madrid x psg;spfc
+1 alterosa esporte;carioca;esporte ao vivo;esporte interativo;gremio;jogo de esporte;libertadores;libertadores;paysandu
+1 ao vivo;brasileirao;kaka;libertadores;serie a
+1 band esporte;barcelona;brasileirao;campeonato;cristiano ronaldo;fifa;flamengo;kaka;libertadores;mercado da bola;pes;real madrid x psg;ronaldinho gaucho o bruxo;tabela
+1 band esporte;barcelona;classificacao do brasileirao;esporte interativo;fox esporte;pes;real madrid x psg;rodada do brasileirao;tabela do brasileirao
+1 band esporte;brasileirao;campeao do mundo;copa do mundo;esporte classe a;fanaticos;globo esporte;jogo de esporte;kaka;libertadores;luan;real madrid x psg;russia
+1 boa esporte;jogo do esporte;tabela do brasileirao
+1 boleiro;brasileirao;fifa;fox esporte;hang loose do bruxo;hoje;kaka;neymar;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc
+1 boleiro;sao paulo futebol clube
+1 brasileirao;corinthians;esporte classe a;esporte interativo;esporte interativo plus;fifa;hang loose do bruxo;hoje;paysandu;sao paulo futebol clube
+1 brasileirao;cruzeiro;esporte espetacular;esporte interativo;esporte interativo;fox esporte;globo esporte;spfc
+1 classificacao;paulistao
+1 classificacao do brasileirao;esporte espetacular;serie a
+1 fanaticos;messi
+1 fifa
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;boleiro;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;gremio;hang loose do bruxo;internacional;jogo do esporte;kaka;mercado da bola;messi;paysandu;pes;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;barcelona x chelsea;campeonato;classificacao do brasileirao;copa sao de futebol junior;esporte ao vivo;esporte net vip;hoje;internacional;jogo de esporte;jogo do esporte;kaka;paris saint-germain football club;pes;rodada do brasileirao;ronaldinho gaucho o bruxo
+1 2016;band esporte;classificacao;libertadores;luan;sao paulo futebol clube
+1 2016;band esporte;copa do mundo;esporte ao vivo;esporte espetacular;esporte interativo;esporte interativo;esporte interativo plus;esporte net vip;fifa;flamengo;mercado da bola;mundial de clubes;pes;real madrid x psg;russia;sao paulo futebol clube;spfc;tabela
+1 2016;barcelona;boleiro;brasileirao;carioca;copa sao de futebol junior;cristiano ronaldo;esporte net vip;fanaticos;globo esporte;globo esporte;gremio;paulistao;spfc;sport clube internacional;tabela;tabela do brasileirao
+1 2016;barcelona;corinthians;d`alessandro;esporte interativo plus;globo esporte;luan;messi;real madrid x psg;ronaldinho gaucho o bruxo;tabela
+1 2016;boa esporte;esporte interativo;gremio;messi;neymar;spfc;tabela do brasileirao
+1 2017;band esporte;campeonato;corinthians;d`alessandro;esporte ao vivo;esporte interativo plus;fanaticos;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;kaka;libertadores;mundial de clubes;paysandu;pes;sport clube internacional
+1 2017;boa esporte;boleiro;brasileirao;campeao do mundo;classificacao;copa do mundo;corinthians;cruzeiro;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;libertadores;neymar;real madrid x psg;ronaldinho gaucho o bruxo;sao paulo futebol clube
+1 2018;band esporte;boa esporte;classificacao;copa sao de futebol junior;corinthians;cruzeiro;flamengo;globo esporte;hang loose do bruxo;luan;mercado da bola;paysandu;tabela
+1 2018;barcelona;barcelona x chelsea;fanaticos;libertadores;luan;mercado da bola;pes;sao paulo futebol clube
+1 ale oliveira
+1 ale oliveira;alterosa esporte;cristiano ronaldo;cruzeiro;fanaticos;fifa;fox esporte;gremio futebol porto alegrence;hoje;internacional;jogo do esporte;libertadores;luan;messi;ronaldinho gaucho o bruxo
+1 ale oliveira;barcelona;boa esporte;brasileirao;campeao do mundo;cristiano ronaldo;d`alessandro;esporte ao vivo;esporte interativo plus;fox esporte;globo esporte;gremio;jogo do esporte;luan;russia;serie a;tabela
+1 ale oliveira;esporte ao vivo;esporte interativo plus;esporte net vip;flamengo;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;mercado da bola;paris saint-germain football club;paulistao;paysandu;real madrid;tabela do brasileirao
+1 alterosa esporte;brasileirao;esporte net vip;globo esporte;globo esporte;jogo de esporte;mundial de clubes;ronaldinho gaucho o bruxo;sao paulo futebol clube
+1 ao vivo;band esporte;boa esporte;brasileirao;brasileirao;corinthians;esporte espetacular;fifa;jogo de esporte;mercado da bola;paris saint-germain football club;paulistao;rodada do brasileirao;ronaldinho gaucho o bruxo;sport clube internacional;tabela
+1 ao vivo;barcelona x chelsea;carioca;classificacao;copa sao de futebol junior;esporte net vip;fanaticos;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;luan;mundial de clubes;ronaldinho gaucho o bruxo;spfc
+1 band esporte;barcelona;campeao do mundo;cruzeiro;d`alessandro;esporte espetacular;hang loose do bruxo;hoje;jogo de esporte;messi;paris saint-germain football club;sao paulo futebol clube;sport clube internacional
+1 band esporte;jogo de esporte;mundial de clubes;spfc
+1 barcelona x chelsea;campeonato;cristiano ronaldo;jogo de esporte;mercado da bola;paysandu;real madrid;tabela do brasileirao
+1 boa esporte;carioca;copa do mundo;cruzeiro;flamengo;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;jogo de esporte;jogo do esporte;kaka;pes;real madrid;tabela
+1 boleiro;brasileirao;d`alessandro;esporte espetacular;esporte net vip;gremio futebol porto alegrence;hoje;paysandu;serie a;tabela
+1 brasileirao;brasileirao;carioca;esporte interativo;esporte interativo plus;gremio futebol porto alegrence;paysandu;serie a;tabela
+1 brasileirao;paris saint-germain football club;real madrid x psg;rodada do brasileirao;russia
+1 campeao do mundo;classificacao do brasileirao;hang loose do bruxo;libertadores;paulistao;real madrid;sao paulo futebol clube
+1 carioca;hang loose do bruxo;messi
+1 classificacao do brasileirao;copa do mundo;corinthians;hang loose do bruxo;paysandu;russia
+1 copa do mundo;corinthians;esporte espetacular;gremio futebol porto alegrence;jogo de esporte;russia
+1 copa do mundo;d`alessandro;luan;mercado da bola
+1 copa do mundo;esporte interativo;esporte interativo;esporte interativo plus;paulistao;paysandu;real madrid x psg;rodada do brasileirao;serie a
+1 copa do mundo;hang loose do bruxo;kaka;real madrid x psg;rodada do brasileirao;spfc;sport clube internacional;tabela;tabela
+1 fifa
+1 fox esporte;globo esporte;libertadores;mundial de clubes
+1 hoje
+1 jogo de esporte;real madrid x psg
+1 messi
+1 paulistao
+1 2016;ale oliveira;barcelona;esporte espetacular;esporte interativo
+1 2016;barcelona x chelsea;classificacao;corinthians;cruzeiro;esporte espetacular;flamengo;fox esporte;hang loose do bruxo;internacional;kaka;libertadores;paulistao;real madrid x psg;sao paulo futebol clube;spfc;sport clube internacional;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;barcelona x chelsea;paulistao;real madrid x psg;sport clube internacional
+1 2017;band esporte;barcelona x chelsea;corinthians;fanaticos;globo esporte;hang loose do bruxo;hoje;messi;paysandu;real madrid;serie a
+1 2017;band esporte;classificacao do brasileirao;copa do mundo;esporte interativo;flamengo;gremio;kaka;libertadores;luan;sport clube internacional
+1 2017;barcelona x chelsea;boa esporte;brasileirao;cristiano ronaldo;esporte ao vivo;esporte classe a;fifa;messi;real madrid x psg;sport clube internacional
+1 2017;boleiro;classificacao do brasileirao;internacional;luan;paulistao;pes
+1 2017;esporte ao vivo;sao paulo futebol clube;spfc
+1 2018;alterosa esporte;barcelona;campeonato;cristiano ronaldo;esporte espetacular;esporte interativo;esporte interativo plus;fanaticos;fifa;gremio;internacional;jogo do esporte;luan;messi;real madrid;real madrid x psg
+1 2018;barcelona x chelsea;brasileirao;campeao do mundo;classificacao;corinthians;cristiano ronaldo;cruzeiro;d`alessandro;esporte espetacular;esporte espetacular;flamengo;fox esporte;globo esporte;sport clube internacional;tabela
+1 2018;brasileirao;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte classe a;fifa;flamengo;globo esporte;gremio;hang loose do bruxo;jogo do esporte;neymar;paulistao;rodada do brasileirao;serie a;spfc;sport clube internacional;tabela
+1 2018;carioca;cruzeiro;flamengo;hoje;internacional;jogo do esporte;rodada do brasileirao
+1 ale oliveira;barcelona x chelsea;boa esporte;brasileirao;classificacao;copa do mundo;cruzeiro;esporte ao vivo;esporte classe a;fanaticos;fifa;flamengo;globo esporte;internacional;rodada do brasileirao;russia;sao paulo futebol clube;serie a;tabela do brasileirao
+1 alterosa esporte;band esporte;barcelona;boleiro;copa do mundo;cristiano ronaldo;d`alessandro;esporte classe a;esporte interativo;fanaticos;gremio;gremio futebol porto alegrence;jogo de esporte;paris saint-germain football club;paysandu;pes;real madrid;rodada do brasileirao;tabela do brasileirao
+1 alterosa esporte;band esporte;barcelona x chelsea;boa esporte;campeao do mundo;campeonato;copa do mundo;copa do mundo;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;fox esporte;globo esporte;globo esporte;mundial de clubes;real madrid;russia;sao paulo futebol clube;tabela
+1 alterosa esporte;barcelona x chelsea;boa esporte;boleiro;copa sao de futebol junior;d`alessandro;fifa;hang loose do bruxo;paris saint-germain football club;pes;rodada do brasileirao;sport clube internacional;tabela;tabela do brasileirao;tabela do brasileirao
+1 ao vivo;corinthians;esporte espetacular;fox esporte;globo esporte;real madrid;sao paulo futebol clube
+1 band esporte;boleiro;brasileirao;esporte classe a;gremio futebol porto alegrence;jogo do esporte;spfc
+1 barcelona x chelsea;campeonato;copa do mundo;esporte espetacular;hang loose do bruxo;jogo de esporte;real madrid;real madrid x psg;rodada do brasileirao
+1 boleiro;esporte espetacular;hoje;libertadores;paulistao
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+1 2016;2017;ao vivo;campeonato;copa do mundo;copa do mundo;esporte interativo;esporte interativo plus;flamengo;globo esporte;internacional;libertadores;messi;mundial de clubes;pes;sao paulo futebol clube;serie a;sport clube internacional;tabela
+1 2016;2017;ao vivo;classificacao do brasileirao;copa do mundo;esporte net vip;fanaticos;globo esporte;luan;messi;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela do brasileirao
+1 2016;2017;barcelona x chelsea;boleiro;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;flamengo;kaka;libertadores;mercado da bola;paulistao;real madrid;real madrid x psg;spfc;tabela
+1 2016;2017;barcelona x chelsea;campeonato;carioca;fanaticos;globo esporte;gremio;hang loose do bruxo;internacional;mundial de clubes;neymar;tabela do brasileirao
+1 2016;2017;boleiro;campeao do mundo;campeonato;esporte ao vivo;esporte interativo plus;fifa;globo esporte;globo esporte;gremio futebol porto alegrence;jogo de esporte;jogo do esporte;luan;neymar;real madrid;rodada do brasileirao;tabela
+1 2016;2017;boleiro;copa do mundo;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;internacional;serie a;sport clube internacional
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;2017;carioca;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo plus;flamengo;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;luan;paulistao;real madrid x psg;rodada do brasileirao
+1 2016;2017;esporte net vip;neymar;paulistao;sao paulo futebol clube
+1 2016;2017;globo esporte;globo esporte;gremio futebol porto alegrence;libertadores;real madrid x psg
+1 2016;2017;globo esporte;gremio;rodada do brasileirao;spfc
+1 2016;2018;ale oliveira;alterosa esporte;copa do mundo;esporte espetacular;esporte espetacular;hoje;internacional;russia;spfc;tabela
+1 2016;2018;ale oliveira;barcelona;boleiro;campeao do mundo;copa sao de futebol junior;cruzeiro;esporte espetacular;esporte interativo;gremio;jogo do esporte;paris saint-germain football club;paulistao;rodada do brasileirao;sport clube internacional;tabela
+1 2016;2018;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeonato;esporte ao vivo;esporte interativo plus;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;kaka;mercado da bola;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;alterosa esporte;barcelona;brasileirao;carioca;classificacao;classificacao do brasileirao;cruzeiro;d`alessandro;esporte interativo;fanaticos;globo esporte;internacional;libertadores;luan;paysandu;spfc;tabela
+1 2016;2018;alterosa esporte;corinthians;cruzeiro;esporte espetacular;globo esporte;jogo do esporte;mercado da bola;neymar;paulistao;real madrid;real madrid x psg;serie a;spfc;tabela do brasileirao
+1 2016;2018;ao vivo;band esporte;boa esporte;campeao do mundo;copa do mundo;copa sao de futebol junior;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte net vip;flamengo;hang loose do bruxo;hoje;jogo do esporte;libertadores;neymar
+1 2016;2018;ao vivo;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;globo esporte;hang loose do bruxo;jogo de esporte;libertadores;libertadores;paulistao;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+Media de termos 11
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+143 carioca
+143 copa sao de futebol junior
+143 neymar
+143 paulistao
+143 russia
+142 hoje
+142 jogo do esporte
+142 mercado da bola
+142 paysandu
+141 ronaldinho gaucho o bruxo
+139 2018
+139 classificacao do brasileirao
+139 esporte interativo plus
+139 gremio
+138 corinthians
+138 messi
+136 esporte net vip
+136 sao paulo futebol clube
+134 classificacao
+134 esporte ao vivo
+14 esporte interativo
+11 brasileirao
+11 paris saint-germain football club
+11 tabela
+11 tabela do brasileirao
+10 2017
+10 campeao do mundo
+10 cruzeiro
+10 fifa
+10 globo esporte
+10 gremio
+10 pes
+9 gremio futebol porto alegrence
+9 luan
+9 ronaldinho gaucho o bruxo
+8 2018
+8 ale oliveira
+8 campeonato
+8 corinthians
+8 cristiano ronaldo
+8 esporte espetacular
+8 fox esporte
+8 messi
+8 paulistao
+8 rodada do brasileirao
+8 russia
+8 sport clube internacional
+7 band esporte
+7 classificacao
+7 copa sao de futebol junior
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+1 2016;2017;ao vivo;campeonato;copa do mundo;copa do mundo;esporte interativo;esporte interativo plus;flamengo;globo esporte;internacional;libertadores;messi;mundial de clubes;pes;sao paulo futebol clube;serie a;sport clube internacional;tabela
+1 2016;2017;ao vivo;classificacao do brasileirao;copa do mundo;esporte net vip;fanaticos;globo esporte;luan;messi;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela do brasileirao
+1 2016;2017;barcelona x chelsea;boleiro;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;flamengo;kaka;libertadores;mercado da bola;paulistao;real madrid;real madrid x psg;spfc;tabela
+1 2016;2017;barcelona x chelsea;campeonato;carioca;fanaticos;globo esporte;gremio;hang loose do bruxo;internacional;mundial de clubes;neymar;tabela do brasileirao
+1 2016;2017;boleiro;campeao do mundo;campeonato;esporte ao vivo;esporte interativo plus;fifa;globo esporte;globo esporte;gremio futebol porto alegrence;jogo de esporte;jogo do esporte;luan;neymar;real madrid;rodada do brasileirao;tabela
+1 2016;2017;boleiro;copa do mundo;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;internacional;serie a;sport clube internacional
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;2017;carioca;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo plus;flamengo;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;luan;paulistao;real madrid x psg;rodada do brasileirao
+1 2016;2017;esporte net vip;neymar;paulistao;sao paulo futebol clube
+1 2016;2017;globo esporte;globo esporte;gremio futebol porto alegrence;libertadores;real madrid x psg
+1 2016;2017;globo esporte;gremio;rodada do brasileirao;spfc
+1 2016;2018;ale oliveira;alterosa esporte;copa do mundo;esporte espetacular;esporte espetacular;hoje;internacional;russia;spfc;tabela
+1 2016;2018;ale oliveira;barcelona;boleiro;campeao do mundo;copa sao de futebol junior;cruzeiro;esporte espetacular;esporte interativo;gremio;jogo do esporte;paris saint-germain football club;paulistao;rodada do brasileirao;sport clube internacional;tabela
+1 2016;2018;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeonato;esporte ao vivo;esporte interativo plus;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;kaka;mercado da bola;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;alterosa esporte;barcelona;brasileirao;carioca;classificacao;classificacao do brasileirao;cruzeiro;d`alessandro;esporte interativo;fanaticos;globo esporte;internacional;libertadores;luan;paysandu;spfc;tabela
+1 2016;2018;alterosa esporte;corinthians;cruzeiro;esporte espetacular;globo esporte;jogo do esporte;mercado da bola;neymar;paulistao;real madrid;real madrid x psg;serie a;spfc;tabela do brasileirao
+1 2016;2018;ao vivo;band esporte;boa esporte;campeao do mundo;copa do mundo;copa sao de futebol junior;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte net vip;flamengo;hang loose do bruxo;hoje;jogo do esporte;libertadores;neymar
+1 2016;2018;ao vivo;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;globo esporte;hang loose do bruxo;jogo de esporte;libertadores;libertadores;paulistao;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;band esporte;barcelona x chelsea;boleiro;brasileirao;fifa;internacional;kaka;luan;mercado da bola;messi;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela;tabela do brasileirao
+1 2016;2018;band esporte;boa esporte;copa sao de futebol junior;cruzeiro;cruzeiro;esporte classe a;esporte espetacular;esporte interativo plus;esporte net vip;gremio;internacional;jogo do esporte;paysandu;russia;spfc
+1 2016;2018;band esporte;brasileirao;copa do mundo;cruzeiro;fifa;globo esporte;libertadores;real madrid x psg;rodada do brasileirao;russia;spfc
+1 2016;2018;band esporte;campeao do mundo;copa do mundo;flamengo;globo esporte;jogo de esporte;jogo do esporte;libertadores;libertadores;messi;serie a;spfc
+1 2016;2018;barcelona x chelsea;boleiro;brasileirao;campeao do mundo;cruzeiro;esporte ao vivo;esporte interativo plus;gremio;jogo do esporte;messi;paulistao;pes;real madrid;sport clube internacional;tabela do brasileirao
+1 2016;2018;barcelona x chelsea;boleiro;classificacao do brasileirao;cristiano ronaldo;esporte classe a;esporte espetacular;esporte interativo;esporte net vip;gremio futebol porto alegrence;ronaldinho gaucho o bruxo;tabela
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;classificacao do brasileirao;esporte classe a;esporte net vip;internacional;messi;mundial de clubes;neymar;paris saint-germain football club;paulistao;pes;rodada do brasileirao;sao paulo futebol clube
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;cristiano ronaldo;esporte ao vivo;esporte espetacular;esporte espetacular;esporte interativo;esporte interativo plus;globo esporte;jogo de esporte;messi;paris saint-germain football club;real madrid;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2018;boa esporte;brasileirao;campeao do mundo;esporte classe a;esporte espetacular;esporte interativo plus;fifa;gremio;internacional;libertadores;luan;mundial de clubes;neymar;real madrid x psg;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;boleiro;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;gremio;hang loose do bruxo;internacional;jogo do esporte;kaka;mercado da bola;messi;paysandu;pes;ronaldinho gaucho o bruxo
+1 2016;2018;classificacao;classificacao do brasileirao;esporte classe a;esporte espetacular;esporte net vip;fanaticos;gremio;hoje;jogo de esporte;neymar;serie a;sport clube internacional
+1 2016;ale oliveira;alterosa esporte;ao vivo;band esporte;barcelona x chelsea;flamengo;globo esporte;jogo do esporte;libertadores;paulistao;paysandu;real madrid x psg;russia
+1 2016;ale oliveira;alterosa esporte;ao vivo;boa esporte;campeao do mundo;campeonato;copa sao de futebol junior;corinthians;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;neymar;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;ao vivo;boleiro;campeao do mundo;classificacao;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo plus;esporte net vip;fifa;gremio;jogo do esporte;messi;pes;real madrid x psg
+1 2016;ale oliveira;alterosa esporte;band esporte;boa esporte;carioca;cruzeiro;d`alessandro;esporte classe a;esporte interativo plus;flamengo;fox esporte;hang loose do bruxo;hoje;jogo do esporte;mundial de clubes;neymar;serie a;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;band esporte;brasileirao;copa do mundo;copa sao de futebol junior;cristiano ronaldo;esporte ao vivo;esporte espetacular;fanaticos;hang loose do bruxo;jogo de esporte;jogo do esporte;messi;rodada do brasileirao;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;barcelona;boa esporte;brasileirao;classificacao;copa do mundo;esporte espetacular;flamengo;jogo de esporte;paris saint-germain football club;paysandu;real madrid;real madrid x psg;rodada do brasileirao;sao paulo futebol clube
+1 2016;ale oliveira;ao vivo;boa esporte;campeonato;d`alessandro;esporte interativo;esporte interativo plus;hang loose do bruxo;libertadores;paris saint-germain football club;real madrid x psg;ronaldinho gaucho o bruxo
+1 2016;ale oliveira;barcelona;esporte espetacular;esporte interativo
+1 2016;ale oliveira;barcelona x chelsea;campeonato;classificacao do brasileirao;copa sao de futebol junior;esporte ao vivo;esporte net vip;hoje;internacional;jogo de esporte;jogo do esporte;kaka;paris saint-germain football club;pes;rodada do brasileirao;ronaldinho gaucho o bruxo
+Media de termos 9
+Media de termos 10
+Media de termos 10
+Media de termos 10
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+171 esporte classe a
+165 2017
+161 hang loose do bruxo
+161 rodada do brasileirao
+159 fanaticos
+159 fox esporte
+159 paris saint-germain football club
+158 cristiano ronaldo
+158 luan
+158 spfc
+157 pes
+156 ale oliveira
+156 real madrid
+155 barcelona x chelsea
+155 campeao do mundo
+154 fifa
+153 boleiro
+152 kaka
+151 gremio futebol porto alegrence
+149 alterosa esporte
+148 2016
+148 ao vivo
+148 band esporte
+148 jogo de esporte
+147 barcelona
+147 d`alessandro
+147 sport clube internacional
+146 internacional
+144 campeonato
+144 flamengo
+Media de termos 10
+Media de termos 10
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;ao vivo;band esporte;brasileirao;campeao do mundo;classificacao;cruzeiro;esporte espetacular;gremio futebol porto alegrence;hang loose do bruxo;internacional;tabela
+1 2016;boleiro;esporte interativo;esporte interativo plus;fifa;globo esporte;jogo do esporte;paysandu;pes;real madrid x psg;tabela do brasileirao
+1 2016;brasileirao;campeao do mundo;copa do mundo;esporte interativo;esporte interativo plus;esporte net vip;fanaticos;flamengo;gremio;hang loose do bruxo;messi;paris saint-germain football club;pes;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;fifa;globo esporte;gremio futebol porto alegrence;messi;real madrid;real madrid x psg
+1 2017;2018;alterosa esporte;barcelona;boa esporte;classificacao do brasileirao;corinthians;fifa;internacional;luan;real madrid;tabela;tabela do brasileirao
+1 2017;2018;brasileirao;campeonato;copa do mundo;cristiano ronaldo;cruzeiro;fox esporte;jogo do esporte;libertadores;paulistao;pes;real madrid x psg;sao paulo futebol clube
+1 2017;ao vivo;band esporte;brasileirao;campeao do mundo;esporte espetacular;fifa;flamengo;hang loose do bruxo;jogo de esporte;luan;paulistao;paysandu;serie a;tabela do brasileirao
+1 2017;band esporte;barcelona;boleiro;brasileirao;campeonato;corinthians;esporte interativo;globo esporte;gremio;hoje;jogo do esporte;mercado da bola;paris saint-germain football club;paulistao;paysandu;pes;sao paulo futebol clube;spfc;sport clube internacional
+1 2017;band esporte;boa esporte;boleiro;copa sao de futebol junior;esporte espetacular;esporte interativo plus;fanaticos;fox esporte;gremio;gremio futebol porto alegrence;hoje;luan;paysandu;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;russia
+1 2017;band esporte;boa esporte;campeao do mundo;carioca;corinthians;esporte interativo;globo esporte;hoje;jogo de esporte;libertadores;russia
+1 2017;barcelona x chelsea;boa esporte;campeao do mundo;corinthians;fanaticos;jogo de esporte;kaka;mundial de clubes;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a
+1 2017;carioca;classificacao;esporte interativo;fox esporte;gremio futebol porto alegrence;hang loose do bruxo;internacional;libertadores;neymar;sport clube internacional
+1 2017;copa sao de futebol junior;esporte classe a;jogo de esporte;neymar;paysandu;rodada do brasileirao;ronaldinho gaucho o bruxo
+1 2018;ale oliveira;alterosa esporte;ao vivo;carioca;classificacao do brasileirao;corinthians;cristiano ronaldo;esporte interativo plus;hoje;internacional;messi;neymar;paris saint-germain football club;rodada do brasileirao;russia;tabela do brasileirao
+1 2018;ale oliveira;alterosa esporte;corinthians;fifa;gremio;gremio futebol porto alegrence;kaka;mundial de clubes;paulistao;russia;serie a;tabela
+1 2018;ale oliveira;barcelona;boleiro;campeao do mundo;esporte classe a;esporte espetacular;gremio;kaka;mercado da bola;paris saint-germain football club;real madrid;rodada do brasileirao;ronaldinho gaucho o bruxo;sport clube internacional;tabela do brasileirao
+1 2018;ale oliveira;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;fifa;fox esporte;gremio;hang loose do bruxo;sao paulo futebol clube;tabela do brasileirao
+1 2018;ale oliveira;globo esporte;luan;rodada do brasileirao
+1 2018;barcelona x chelsea;brasileirao;campeonato;esporte interativo;esporte interativo plus;gremio futebol porto alegrence;messi
+1 ale oliveira;campeonato;carioca;cristiano ronaldo;cruzeiro;esporte classe a;esporte interativo;flamengo;globo esporte;hang loose do bruxo;jogo de esporte;kaka;luan;mercado da bola;mundial de clubes;paulistao;paysandu;tabela;tabela do brasileirao
+1 ale oliveira;cruzeiro
+1 ale oliveira;mercado da bola;real madrid x psg;ronaldinho gaucho o bruxo;spfc
+1 alterosa esporte;band esporte;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;cruzeiro;esporte interativo;esporte interativo;fanaticos;fifa;globo esporte;gremio;paulistao;rodada do brasileirao;sport clube internacional;tabela;tabela do brasileirao
+1 alterosa esporte;barcelona x chelsea;copa sao de futebol junior;gremio;paris saint-germain football club;real madrid;russia
+1 alterosa esporte;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;luan;real madrid x psg;spfc
+1 ao vivo;boleiro;gremio futebol porto alegrence;messi;pes
+1 ao vivo;brasileirao;classificacao do brasileirao;esporte interativo;libertadores;mundial de clubes;paris saint-germain football club;real madrid;sport clube internacional;tabela
+1 ao vivo;classificacao;copa do mundo;cristiano ronaldo;d`alessandro;esporte classe a;esporte espetacular;esporte interativo;esporte interativo;fanaticos;fox esporte;hoje;jogo do esporte;libertadores;luan;mundial de clubes;neymar;paulistao;real madrid x psg;spfc
+1 band esporte;barcelona;brasileirao;carioca;d`alessandro;paulistao;pes;russia;tabela;tabela;tabela do brasileirao
+Media de termos 9
+323 libertadores
+300 tabela
+299 globo esporte
+294 copa do mundo
+294 esporte interativo
+293 tabela do brasileirao
+285 brasileirao
+278 esporte espetacular
+254 cruzeiro
+172 real madrid x psg
+4 boa esporte
+4 flamengo
+3 fox esporte
+3 mercado da bola
+2 barcelona
+2 barcelona;copa do mundo
+2 fifa
+2 globo esporte
+2 messi
+2 paysandu
+2 rodada do brasileirao
+2 spfc
+2 tabela do brasileirao
+1 2016;2017;2018;ale oliveira;barcelona;carioca;cruzeiro;esporte espetacular;esporte interativo;fox esporte;gremio futebol porto alegrence;jogo de esporte;libertadores;luan;mercado da bola;messi;ronaldinho gaucho o bruxo;sport clube internacional
+1 2016;2017;2018;classificacao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo plus;esporte net vip;fox esporte;libertadores;mundial de clubes;paulistao;paysandu;real madrid x psg;tabela
+1 2016;2017;ale oliveira;alterosa esporte;ao vivo;boa esporte;copa do mundo;copa sao de futebol junior;hang loose do bruxo;jogo do esporte;kaka;libertadores;messi;paris saint-germain football club;tabela
+1 2016;2017;ale oliveira;ao vivo;barcelona;boleiro;brasileirao;copa do mundo;corinthians;cristiano ronaldo;esporte interativo;mundial de clubes;real madrid;russia;tabela
+1 2016;2017;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeao do mundo;classificacao do brasileirao;copa do mundo;copa do mundo;cristiano ronaldo;esporte espetacular;esporte net vip;fanaticos;flamengo;globo esporte;jogo do esporte;mercado da bola;tabela;tabela
+1 2016;2017;ale oliveira;brasileirao;carioca;copa do mundo;corinthians;esporte ao vivo;esporte classe a;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;paulistao;paysandu;real madrid;real madrid x psg;rodada do brasileirao;tabela
+1 2016;2017;ale oliveira;brasileirao;classificacao;copa do mundo;cristiano ronaldo;esporte espetacular;esporte interativo;hang loose do bruxo;internacional;jogo do esporte;libertadores;mundial de clubes;paulistao;pes;rodada do brasileirao;tabela
+1 2016;2017;alterosa esporte;ao vivo;boa esporte;copa do mundo;corinthians;cristiano ronaldo;fanaticos;globo esporte;gremio;gremio futebol porto alegrence;luan;messi;paulistao;pes;real madrid;real madrid x psg;sport clube internacional;tabela
+1 2016;2017;alterosa esporte;band esporte;campeao do mundo;classificacao do brasileirao;copa do mundo;corinthians;cruzeiro;esporte classe a;gremio;neymar;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona;barcelona x chelsea;classificacao;cristiano ronaldo;esporte ao vivo;esporte classe a;esporte espetacular;esporte espetacular;flamengo;fox esporte;jogo do esporte;luan;mundial de clubes;russia;tabela do brasileirao
+1 2016;2017;alterosa esporte;barcelona x chelsea;brasileirao;copa do mundo;cristiano ronaldo;cruzeiro;d`alessandro;esporte ao vivo;esporte espetacular;esporte interativo plus;esporte net vip;libertadores;mundial de clubes;real madrid x psg
+1 2016;2017;alterosa esporte;boleiro;brasileirao;classificacao;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo;esporte net vip;fanaticos;kaka;libertadores;mercado da bola;neymar;sao paulo futebol clube;tabela do brasileirao
+1 2016;2017;alterosa esporte;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;cruzeiro;esporte ao vivo;esporte interativo plus;esporte net vip;fifa;gremio;hang loose do bruxo;kaka;tabela;tabela do brasileirao;tabela do brasileirao
+1 2016;2017;alterosa esporte;classificacao do brasileirao;esporte espetacular;esporte espetacular;esporte interativo;esporte net vip;internacional;libertadores;ronaldinho gaucho o bruxo;sao paulo futebol clube;serie a
+1 2016;2017;ao vivo;barcelona;barcelona x chelsea;campeao do mundo;campeonato;classificacao;d`alessandro;esporte ao vivo;esporte espetacular;internacional;libertadores;neymar;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2017;ao vivo;barcelona x chelsea;boleiro;copa do mundo;d`alessandro;esporte classe a;flamengo;gremio;hoje;kaka;sao paulo futebol clube
+1 2016;2017;ao vivo;boa esporte;brasileirao;campeao do mundo;carioca;classificacao;cristiano ronaldo;cruzeiro;d`alessandro;esporte interativo;esporte interativo plus;fanaticos;gremio;gremio futebol porto alegrence;tabela do brasileirao
+1 2016;2017;ao vivo;campeonato;copa do mundo;copa do mundo;esporte interativo;esporte interativo plus;flamengo;globo esporte;internacional;libertadores;messi;mundial de clubes;pes;sao paulo futebol clube;serie a;sport clube internacional;tabela
+1 2016;2017;ao vivo;classificacao do brasileirao;copa do mundo;esporte net vip;fanaticos;globo esporte;luan;messi;real madrid;real madrid x psg;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela do brasileirao
+1 2016;2017;barcelona x chelsea;boleiro;carioca;copa sao de futebol junior;corinthians;cristiano ronaldo;esporte ao vivo;esporte classe a;flamengo;kaka;libertadores;mercado da bola;paulistao;real madrid;real madrid x psg;spfc;tabela
+1 2016;2017;barcelona x chelsea;campeonato;carioca;fanaticos;globo esporte;gremio;hang loose do bruxo;internacional;mundial de clubes;neymar;tabela do brasileirao
+1 2016;2017;boleiro;campeao do mundo;campeonato;esporte ao vivo;esporte interativo plus;fifa;globo esporte;globo esporte;gremio futebol porto alegrence;jogo de esporte;jogo do esporte;luan;neymar;real madrid;rodada do brasileirao;tabela
+1 2016;2017;boleiro;copa do mundo;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;internacional;serie a;sport clube internacional
+1 2016;2017;campeonato;copa sao de futebol junior;d`alessandro;esporte espetacular;fifa;fox esporte;gremio futebol porto alegrence;internacional;kaka;pes;russia;serie a;sport clube internacional
+1 2016;2017;carioca;classificacao do brasileirao;copa do mundo;cristiano ronaldo;esporte interativo plus;flamengo;gremio futebol porto alegrence;hang loose do bruxo;jogo do esporte;luan;paulistao;real madrid x psg;rodada do brasileirao
+1 2016;2017;esporte net vip;neymar;paulistao;sao paulo futebol clube
+1 2016;2017;globo esporte;globo esporte;gremio futebol porto alegrence;libertadores;real madrid x psg
+1 2016;2017;globo esporte;gremio;rodada do brasileirao;spfc
+1 2016;2018;ale oliveira;alterosa esporte;copa do mundo;esporte espetacular;esporte espetacular;hoje;internacional;russia;spfc;tabela
+1 2016;2018;ale oliveira;barcelona;boleiro;campeao do mundo;copa sao de futebol junior;cruzeiro;esporte espetacular;esporte interativo;gremio;jogo do esporte;paris saint-germain football club;paulistao;rodada do brasileirao;sport clube internacional;tabela
+1 2016;2018;ale oliveira;barcelona x chelsea;boa esporte;brasileirao;campeonato;esporte ao vivo;esporte interativo plus;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;hoje;kaka;mercado da bola;real madrid x psg;spfc;tabela;tabela do brasileirao
+1 2016;2018;ale oliveira;boleiro;brasileirao;classificacao;classificacao do brasileirao;copa do mundo;cruzeiro;esporte espetacular;flamengo;fox esporte;globo esporte;gremio;hoje;libertadores;libertadores;messi;rodada do brasileirao;sport clube internacional
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;alterosa esporte;barcelona;brasileirao;carioca;classificacao;classificacao do brasileirao;cruzeiro;d`alessandro;esporte interativo;fanaticos;globo esporte;internacional;libertadores;luan;paysandu;spfc;tabela
+1 2016;2018;alterosa esporte;corinthians;cruzeiro;esporte espetacular;globo esporte;jogo do esporte;mercado da bola;neymar;paulistao;real madrid;real madrid x psg;serie a;spfc;tabela do brasileirao
+1 2016;2018;ao vivo;band esporte;boa esporte;campeao do mundo;copa do mundo;copa sao de futebol junior;cruzeiro;cruzeiro;esporte espetacular;esporte interativo;esporte net vip;flamengo;hang loose do bruxo;hoje;jogo do esporte;libertadores;neymar
+1 2016;2018;ao vivo;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;globo esporte;hang loose do bruxo;jogo de esporte;libertadores;libertadores;paulistao;ronaldinho gaucho o bruxo;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;band esporte;barcelona x chelsea;boleiro;brasileirao;fifa;internacional;kaka;luan;mercado da bola;messi;pes;rodada do brasileirao;ronaldinho gaucho o bruxo;serie a;tabela;tabela;tabela do brasileirao
+1 2016;2018;band esporte;boa esporte;copa sao de futebol junior;cruzeiro;cruzeiro;esporte classe a;esporte espetacular;esporte interativo plus;esporte net vip;gremio;internacional;jogo do esporte;paysandu;russia;spfc
+1 2016;2018;band esporte;brasileirao;copa do mundo;cruzeiro;fifa;globo esporte;libertadores;real madrid x psg;rodada do brasileirao;russia;spfc
+1 2016;2018;band esporte;campeao do mundo;copa do mundo;flamengo;globo esporte;jogo de esporte;jogo do esporte;libertadores;libertadores;messi;serie a;spfc
+1 2016;2018;barcelona x chelsea;boleiro;brasileirao;campeao do mundo;cruzeiro;esporte ao vivo;esporte interativo plus;gremio;jogo do esporte;messi;paulistao;pes;real madrid;sport clube internacional;tabela do brasileirao
+1 2016;2018;barcelona x chelsea;boleiro;classificacao do brasileirao;cristiano ronaldo;esporte classe a;esporte espetacular;esporte interativo;esporte net vip;gremio futebol porto alegrence;ronaldinho gaucho o bruxo;tabela
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;classificacao do brasileirao;esporte classe a;esporte net vip;internacional;messi;mundial de clubes;neymar;paris saint-germain football club;paulistao;pes;rodada do brasileirao;sao paulo futebol clube
+1 2016;2018;barcelona x chelsea;brasileirao;carioca;cristiano ronaldo;esporte ao vivo;esporte espetacular;esporte espetacular;esporte interativo;esporte interativo plus;globo esporte;jogo de esporte;messi;paris saint-germain football club;real madrid;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 2016;2018;boa esporte;brasileirao;campeao do mundo;esporte classe a;esporte espetacular;esporte interativo plus;fifa;gremio;internacional;libertadores;luan;mundial de clubes;neymar;real madrid x psg;sao paulo futebol clube;spfc;tabela;tabela do brasileirao
+1 2016;2018;boleiro;classificacao do brasileirao;copa do mundo;esporte espetacular;esporte interativo;esporte interativo;gremio;hang loose do bruxo;internacional;jogo do esporte;kaka;mercado da bola;messi;paysandu;pes;ronaldinho gaucho o bruxo
+Media de termos 10
+Media de termos 10
+1 2016;2018;alterosa esporte;ao vivo;barcelona;brasileirao;classificacao do brasileirao;copa do mundo;esporte ao vivo;esporte espetacular;fox esporte;globo esporte;kaka;libertadores;mercado da bola;pes;sport clube internacional;tabela
+1 2016;2018;barcelona x chelsea;boleiro;brasileirao;campeao do mundo;cruzeiro;esporte ao vivo;esporte interativo plus;gremio;jogo do esporte;messi;paulistao;pes;real madrid;sport clube internacional;tabela do brasileirao
+1 2016;ale oliveira;alterosa esporte;band esporte;boa esporte;carioca;cruzeiro;d`alessandro;esporte classe a;esporte interativo plus;flamengo;fox esporte;hang loose do bruxo;hoje;jogo do esporte;mundial de clubes;neymar;serie a;tabela do brasileirao
+1 2016;ale oliveira;boleiro;copa do mundo;esporte interativo;gremio futebol porto alegrence;hoje;luan;mercado da bola;messi;neymar;paysandu;rodada do brasileirao;russia;tabela;tabela do brasileirao
+1 2016;boa esporte;campeonato;copa do mundo;copa sao de futebol junior;cristiano ronaldo;esporte interativo;esporte net vip;globo esporte;globo esporte;paulistao;sao paulo futebol clube
+1 2017;band esporte;barcelona;brasileirao;carioca;esporte classe a;esporte espetacular;hang loose do bruxo
+1 2017;band esporte;cruzeiro;d`alessandro;esporte espetacular;esporte interativo plus;messi;paulistao;rodada do brasileirao
+1 2017;boleiro;classificacao;cruzeiro;fanaticos;fox esporte;globo esporte;hoje;paulistao;paysandu;pes;spfc
+1 2018;boleiro;esporte ao vivo;esporte interativo plus;flamengo;libertadores;mundial de clubes;tabela
+1 2018;esporte interativo;globo esporte;libertadores;mercado da bola;pes
+1 ale oliveira;alterosa esporte;brasileirao;classificacao;copa do mundo;esporte espetacular;esporte interativo plus;hoje;jogo de esporte;sport clube internacional
+1 ale oliveira;ao vivo;campeonato;carioca;classificacao do brasileirao;cruzeiro;esporte interativo;hang loose do bruxo;internacional;kaka;paulistao;rodada do brasileirao;russia;serie a;spfc;tabela do brasileirao
+1 ale oliveira;band esporte;barcelona;cruzeiro;esporte interativo;hang loose do bruxo;internacional;spfc
+1 ale oliveira;band esporte;boa esporte;campeonato;carioca;cruzeiro;fifa;hang loose do bruxo;hoje;jogo de esporte;kaka;libertadores;neymar;rodada do brasileirao;serie a;sport clube internacional;tabela do brasileirao;tabela do brasileirao
+1 alterosa esporte;band esporte;brasileirao;cristiano ronaldo;esporte classe a;esporte espetacular;flamengo;globo esporte;gremio futebol porto alegrence;internacional;kaka;mercado da bola;mundial de clubes;neymar;paris saint-germain football club;real madrid;tabela;tabela do brasileirao
+1 alterosa esporte;barcelona x chelsea;brasileirao;campeao do mundo;copa sao de futebol junior;esporte classe a;esporte interativo;esporte interativo plus;fanaticos;globo esporte;hang loose do bruxo;jogo do esporte;libertadores;mercado da bola;paulistao;pes;real madrid;tabela do brasileirao
+1 alterosa esporte;campeonato;fifa;hang loose do bruxo;kaka;libertadores;mercado da bola;neymar;russia
+1 ao vivo;band esporte;barcelona;barcelona x chelsea;brasileirao;carioca;classificacao;copa do mundo;cristiano ronaldo;cruzeiro;globo esporte;gremio futebol porto alegrence;libertadores;libertadores;paris saint-germain football club;pes;sao paulo futebol clube;serie a;spfc
+1 ao vivo;band esporte;barcelona;classificacao do brasileirao;esporte classe a;esporte espetacular;esporte interativo;flamengo;hang loose do bruxo;jogo de esporte;kaka;luan;pes;ronaldinho gaucho o bruxo;russia;sport clube internacional
+1 ao vivo;band esporte;corinthians;esporte interativo;globo esporte;globo esporte;hoje;libertadores;mercado da bola;mundial de clubes;sao paulo futebol clube;sport clube internacional;tabela;tabela do brasileirao
+1 ao vivo;barcelona;classificacao do brasileirao;cruzeiro;d`alessandro;esporte ao vivo;esporte interativo plus;fifa;flamengo;gremio;kaka;libertadores;rodada do brasileirao;tabela
+1 ao vivo;carioca;classificacao;classificacao do brasileirao;corinthians;cristiano ronaldo;d`alessandro;esporte ao vivo;esporte interativo;esporte interativo;esporte interativo plus;globo esporte;kaka;libertadores;neymar;real madrid x psg;russia
+1 ao vivo;cristiano ronaldo;esporte interativo;flamengo;fox esporte;internacional;mercado da bola;mundial de clubes;paris saint-germain football club;paulistao;paysandu;real madrid;rodada do brasileirao;serie a;tabela do brasileirao
+1 barcelona;barcelona x chelsea;brasileirao;classificacao;esporte classe a;globo esporte;internacional;kaka;libertadores;paulistao;real madrid x psg;tabela do brasileirao
+1 barcelona x chelsea;boleiro;classificacao;classificacao do brasileirao;corinthians;gremio;hang loose do bruxo;jogo do esporte;kaka;libertadores;paulistao;paysandu;real madrid x psg;spfc;sport clube internacional;tabela
+1 campeao do mundo;carioca;copa do mundo;esporte espetacular;hang loose do bruxo;kaka;paris saint-germain football club;paulistao;pes;real madrid;spfc;tabela
+1 campeao do mundo;gremio;russia;spfc
+1 campeonato;copa sao de futebol junior;cruzeiro;esporte ao vivo;fanaticos;fifa;globo esporte;gremio futebol porto alegrence;hang loose do bruxo;ronaldinho gaucho o bruxo;tabela do brasileirao
+1 campeonato;esporte net vip;fifa;paris saint-germain football club
+1 copa do mundo;cruzeiro;cruzeiro;globo esporte;hoje;jogo de esporte;mercado da bola;messi;paulistao;russia;sport clube internacional
+1 esporte interativo;esporte interativo plus;paysandu;russia;tabela do brasileirao
+Media de termos 9

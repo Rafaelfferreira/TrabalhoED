@@ -18,7 +18,7 @@ typedef struct NodoTermo nodoTermo;
 // estrutura que define cada nodo da árvore de consultas
 struct NodoConsulta{
     itemA *infoLSE; // lista de termos
-    int quantidade; // quantidade de vezes que a consulta foi pesquisada foi pesquisada
+    int quantidade; // quantidade de vezes que a consulta foi pesquisada
     int numTermos; // quantidade de termos que a consulta tem
     struct NodoConsulta *esq;
     struct NodoConsulta *dir;
@@ -43,7 +43,7 @@ pNodoA* leArquivo(FILE *arquivo); // a funcao le o arquivo e retorna (monta) uma
 
 // operações iniciais para construir a árvore
 pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char info[LEN]); // funcao que insere uma localidade na arvore
-nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos); // insere uma consulta na árvore de consultas
+nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos, int flag); // insere uma consulta na árvore de consultas
 nodoTermo* insereTermo(nodoTermo *termoNodo, char termo[LEN/2]);  // insere termo na árvore de termos
 
 // operações para transformar a árvore numa abp ordenada por mais pesquisados

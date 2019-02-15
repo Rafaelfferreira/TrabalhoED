@@ -97,13 +97,47 @@ itemA* insereLista(itemA *lista, char termo[LEN/2]) // também reduz a quantidade
 
 void printaLista(itemA *lista)
 {
-    while(lista != NULL)
+    itemA *aux = lista;
+    while(aux != NULL)
     {
-        puts(lista->info);
-        lista = lista->prox;
+        printf("%s ", aux->info);
+        aux = aux->prox;
     }
 }
 
+
+itemA* ordemAlfabeticaLSE(itemA *lista1, itemA *lista2)
+// a função vai receber duas listas correspondentes a consultas e retornará qual vem primeiro na ordem alfabética
+{
+    itemA *aux1 = lista1;
+    itemA *aux2 = lista2;
+
+    while (aux1 != NULL || aux2 != NULL)
+    {
+        if (!strcmp(aux1->info, aux2->info)) // se o primeiro termo for igual verifica se alguma acabou (retornando-a), se não compara os próximos dois
+        {
+            if (aux1->prox == NULL)
+                return lista1;
+
+            else if (aux2->prox == NULL)
+                return lista2;
+
+            else  // caso contrário, compara os outros termos
+            {
+                aux1 = aux1->prox;
+                aux2 = aux2->prox;
+            }
+        }
+
+        else if (strcmp(aux1->info, aux2->info) > 0)   // se a string de aux1 vier depois - na ordem alfabética - da string de aux2, retorna aux2 que vem antes
+            return aux2;
+
+        else
+            return aux1;
+    }
+
+    printf("ERRROOOOO NA LOGICA");
+}
 
 
 void ordemAlfabetica(char string1[LEN], char string2[LEN], char *stringAlterada)
@@ -142,12 +176,14 @@ int testaMesmaConsulta(itemA *consulta1, itemA *consulta2)
 // função testa se as consultas (LSE) são iguais (não importando o número de termos)
 // retorna 1 caso sejam, e 0 caso não
 {
-    while(consulta1 != NULL)
+    itemA *aux = consulta1;
+    while(aux != NULL)
     {
-        if (!testaMesmaConsulta2(consulta1->info, consulta2)) //se o termo estiver não estiver na consulta2, não são iguais
+        if (!testaMesmaConsulta2(aux->info, consulta2)) //se o termo não estiver na consulta2, não são iguais
             return 0;
+
         else // caso esteja, verifica o próximo
-            consulta1 = consulta1->prox;
+            aux = aux->prox;
     }
 
     // caso nenhum teste de termo deu errado, retorna 1 avisando que as consultas são iguais;
@@ -158,12 +194,13 @@ int testaMesmaConsulta2(char termo[LEN/2], itemA *consulta)
 // função testa se aquele termo é igual a algum outro dentro de uma lista de termos
 // retorna 1 se sim e 0 se não
 {
-    while(consulta != NULL) // enquanto não chegar no final da lista ou achar uma igual, compara os termos
+    itemA *aux = consulta;
+    while(aux != NULL) // enquanto não chegar no final da lista ou achar uma igual, compara os termos
     {
-        if(!strcmp(consulta->info, termo)) //se forem iguais (note que 0 é falso, por isso not strcmp)
+        if(!strcmp(aux->info, termo)) //se forem iguais (note que 0 é falso, por isso not strcmp)
             return 1;
         else
-            consulta = consulta->prox;
+            aux = aux->prox;
     }
 
     return 0; // caso tenha percorrido toda a lista e não achou nenhuma igual, retorna 0

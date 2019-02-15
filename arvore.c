@@ -37,7 +37,7 @@ pNodoA* leArquivo(FILE *arquivo)
         i = 1; // pois o primeiro caractere ja foi lido no while mais externo do EOF
         while ( (pesquisa[i] = getc(arquivo)) != ';' &&
                 pesquisa[i] != '\n')
-                i++;
+            i++;
 
 
 
@@ -47,6 +47,7 @@ pNodoA* leArquivo(FILE *arquivo)
             pesquisa[i] = '\0'; //Coloca o sinal de final de string no final da pesquisa atual, isso eh feito aqui dentro pois precisamos testar o ultimo caracter antes de altera-lo
             flagCidade = 0; // seta a flag de cidade para zero
             //chama a funcao que insere cidade
+
             arvoreFinal = insereLocalidade(arvoreFinal, &localidade, pesquisa);
         }
 
@@ -54,7 +55,6 @@ pNodoA* leArquivo(FILE *arquivo)
 
         else // se não for uma cidade
         {
-
             if(pesquisa[i] == '\n') // se chegou no fim da linha
                 flagCidade = 1; // seta a flag pra 1 novamente pois a proxima leitura sera de uma cidade
 
@@ -78,8 +78,8 @@ pNodoA* leArquivo(FILE *arquivo)
             }
 
 
-            arvoreFinal->consultas = insereConsulta(arvoreFinal->consultas, consultaLSE, quantidadeDeTermos); //insere a consulta na árvore global
-            localidade->consultas = insereConsulta(localidade->consultas, consultaLSE, quantidadeDeTermos); //insere a consulta na localidade atual
+            arvoreFinal->consultas = insereConsulta(arvoreFinal->consultas, consultaLSE, quantidadeDeTermos, 1); //insere a consulta na árvore global
+            localidade->consultas = insereConsulta(localidade->consultas, consultaLSE, quantidadeDeTermos, 0); //insere a consulta na localidade atual
 
 
 
@@ -99,8 +99,11 @@ pNodoA* leArquivo(FILE *arquivo)
                 consultaLSE = consultaLSE->prox;
             }
             // aqui consultaLSE já valerá NULL e poderá ser reutilizada
+
         }
+
     }
+
 
 
     nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
@@ -126,7 +129,6 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char in
 {
     if (inicioArvore == NULL) //adiciona cidade
     {
-
         pNodoA *novaLoc = (pNodoA*) malloc(sizeof(pNodoA));
 
         strcpy(novaLoc->info, info);
@@ -142,8 +144,7 @@ pNodoA* insereLocalidade(pNodoA *inicioArvore, pNodoA **localidadeAtual, char in
 
     else if (strcmp(info, inicioArvore->info) == 0) // se a string da pesquisa for igual a info do nodo atual (aquela localidade já estpa na árvore)
     {
-
-        localidadeAtual = inicioArvore; // atualiza endereço de localidade atual
+        *localidadeAtual = inicioArvore; // atualiza endereço de localidade atual
         return inicioArvore; // retorna árvore idêntica
     }
 
@@ -169,7 +170,6 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     int i, quantidade; // indice da string
     char operacao; //Salva qual a operacao ira ser executada a seguir
 
-
     nodoConsulta *globalReestruturadaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta)); // nova árvore de consultas global organizada por quantidade de pesquisas
     nodoTermo *globalReestruturadaTerm = (nodoTermo*) malloc(sizeof(nodoTermo));
     //Gera as arvores organizadas por ordem de que termos/pesquisas aparecem mais
@@ -177,6 +177,8 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
     globalReestruturadaTerm = NULL;//(nodoTermo*) malloc(sizeof(nodoTermo)); // nova árvore de termos global organizada por quantidade de pesquisas
     reestruturaConsultaQuantidade(ArvoreGeral->consultas, &globalReestruturadaCons);
     reestruturaTermoQuantidade(ArvoreGeral->termos, &globalReestruturadaTerm);
+    ArvoreGeral->consultas = globalReestruturadaCons;
+    ArvoreGeral->termos = globalReestruturadaTerm;
 
 
     while((termo[0] = getc(arquivoOp)) != EOF) //Loop ate o arquivo acabar
@@ -185,8 +187,11 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
 
         i = 0; //resetando o indice que le os parametros
 
+        if (operacao == 'f') // precisamos pular o \n
+            getc(arquivoOp);
+
         //Leitura do segundo termo da linha (Ou a localidade ou a quantidade, dependendo da operacao)
-        if(operacao != 'f') //Se a operacao for f nao precisa de mais nenhum termo
+        else //Se a operacao for f nao precisa de mais nenhum termo
         {
             getc(arquivoOp);
             while ( (parametro1[i] = getc(arquivoOp)) != ';' &&     //Percorre o arquivo ate um nova linha ou um ;
@@ -217,6 +222,8 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
             quantidade = atoi(parametro2); //Converte a quantidade para uma int
         }
 
+
+
         //Decide qual funcao de operacao deve ser chamada
         switch(operacao)
         {
@@ -244,12 +251,13 @@ void leOperacoes(FILE *arquivoOp, FILE *arquivoSaida, pNodoA *ArvoreGeral)
 }
 
 
-nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos)
+nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quantidadeDeTermos, int flag)
 //  funcao que insere consulta na arvore de consultas
 {
 
     if (consultas == NULL) //adiciona consulta
     {
+
         itemA *consultaAux = consulta; // pois consulta será alterada na função que insere termos e a lista, perdida
         nodoConsulta *novaCons = (nodoConsulta*) malloc(sizeof(nodoConsulta));
 
@@ -259,12 +267,11 @@ nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quant
         novaCons->numTermos = quantidadeDeTermos;
         novaCons->quantidade = 1;
 
-
         return novaCons;
     }
 
-    char stringPrecedente[LEN]; //variável auxiliar pra testar pra que lado vai a consulta na árvore
-    ordemAlfabetica(consulta->info, consultas->infoLSE->info, stringPrecedente); //assinala em stringPrecedente a precedente em ordem alfabetica
+    //char stringPrecedente[LEN]; //variável auxiliar pra testar pra que lado vai a consulta na árvore
+    itemA *precedente = ordemAlfabeticaLSE(consulta, consultas->infoLSE); //instancia consulta precedente
 
     // testa se tem a mesma quantidade de termos
     if (consultas->numTermos == quantidadeDeTermos) // se a string da pesquisa for igual a info do nodo atual (aquela localidade já estpa na árvore)
@@ -275,24 +282,25 @@ nodoConsulta* insereConsulta(nodoConsulta *consultas, itemA *consulta, int quant
             return consultas; // e retorna a recursão
         }
 
+
         // caso contrário, verifica pra onde ir (direita ou esquerda da consulta atual)
         // se a consulta nova vier antes na ordem alfabética, coloca ela à direita
-        if(!strcmp(stringPrecedente, consulta->info)) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
-            consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos);
+        if(precedente == consulta) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
+            consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos, flag);
 
         // caso contrário, insere à esquerda
         else
-            consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
+            consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos, flag);
     }
 
 
     // se não tiver a mesma quantidade, é uma consulta diferente, logo faz os testes para ver se vai para a direita ou esquerda:
-    else if(!strcmp(stringPrecedente, consulta->info)) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
-            consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos);
+    else if(precedente == consulta) //se for igual, strcmp retorna 0, logo !0 para saber se consulta->info é a precedente
+        consultas->dir = insereConsulta(consultas->dir, consulta, quantidadeDeTermos, flag);
 
     // caso contrário, insere à esquerda
     else
-        consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos);
+        consultas->esq = insereConsulta(consultas->esq, consulta, quantidadeDeTermos, flag);
 
     return consultas;
 }
@@ -446,7 +454,7 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
         //Imprimir no arquivo que a localidade inserida nao existe
-        fprintf(arquivoSaida, "A localidade inserida nao existe");
+        fprintf(arquivoSaida, "A localidade inserida nao existe.\n###OP A REALIZADA###\n\n");
     }
     //Encontrou a localidade certa na arvore geral
     else if(strcmp(arvoreGeral->info, localidade) == 0)
@@ -456,6 +464,7 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
         nodoConsulta *globalReestruturadaCons = NULL;
         arvoreQuantidade = reestruturaConsultaQuantidade(arvoreGeral->consultas, &globalReestruturadaCons); //ArvoreQuantidade agora tem uma arvore reestruturada por quais consultas aparecem mais
 
+
         if(quantidade == 0)
         {
             imprimeConsultasArquivoTodo(arquivoSaida, arvoreQuantidade);
@@ -464,6 +473,8 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
         {
             imprimeConsultasArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
         }
+
+        fprintf(arquivoSaida, "###OP A REALIZADA###\n\n");
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
     {
@@ -478,6 +489,7 @@ void operacaoA(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
 //Funcao que realiza a operacao B (Listar as consultas mais realizadas no arquivo)
 void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade)
 {
+
     if (quantidade == 0)
     {
         imprimeConsultasArquivoTodo(arquivoSaida, arvoreGeral);
@@ -489,6 +501,7 @@ void operacaoB(FILE *arquivoSaida, nodoConsulta *arvoreGeral , int quantidade)
             imprimeConsultasArquivo(arquivoSaida, arvoreGeral, &quantidade);
         }
     }
+    fprintf(arquivoSaida, "###OP B REALIZADA###\n\n");
 }
 
 //Funcao que realiza a operacao C (Listar termos mais consultados por localidade) porem nao retorna nada, apenas escreve no arquivo
@@ -499,7 +512,7 @@ void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
         //Imprimir no arquivo que a localidade inserida nao existe
-        fprintf(arquivoSaida, "A localidade inserida nao existe\n");
+        fprintf(arquivoSaida, "A localidade inserida nao existe.\n###OP C REALIZADA###\n\n");
     }
     //Encontrou a localidade certa na arvore geral
     else if(strcmp(arvoreGeral->info, localidade) == 0)
@@ -517,6 +530,8 @@ void operacaoC(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80], in
         {
             imprimeTermosArquivo(arquivoSaida, arvoreQuantidade, &quantidade);
         }
+
+        fprintf(arquivoSaida, "###OP C REALIZADA###\n\n");
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
     {
@@ -539,12 +554,13 @@ void operacaoD(FILE *arquivoSaida, nodoTermo *arvoreGeral , int quantidade)
     {
             imprimeTermosArquivo(arquivoSaida, arvoreGeral, &quantidade);
     }
+    fprintf(arquivoSaida, "###OP D REALIZADA###\n\n");
 }
 
 //Funcao que realiza a operacao E (Listar o tamanho medio das consultas por localidade)
 void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80])
 {
-    int MediaTermos; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
+    float MediaTermos; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
     //int quantidadeNodo; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
     int quantidadeConsultas = 0; //conta quantas consultas tem, incrementa em um a cada consulta
     int somaTermos = 0; //vai adicionando o numero total de termos de cada consulta nessa variavel
@@ -554,16 +570,16 @@ void operacaoE(FILE *arquivoSaida, pNodoA *arvoreGeral , char localidade[80])
     if(arvoreGeral == NULL) //Se achou algum NULL quer dizer que nao existe a localidade desejada
     {
         //Imprimir no arquivo que a localidade inserida nao existe
-        fprintf(arquivoSaida, "A localidade inserida nao existe\n");
+        fprintf(arquivoSaida, "A localidade inserida nao existe.\n###OP E REALIZADA###\n\n");
     }
     else if(strcmp(arvoreGeral->info, localidade) == 0) //Encontrou a localidade certa na arvore
     {
         arvoreConsultas = arvoreGeral->consultas;
         calculaTamanhoMedio(arvoreConsultas, &quantidadeConsultas, &somaTermos);
-        MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
+        MediaTermos = somaTermos/(float)quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
 
         //Imprime no arquivo a media dos termos
-        fprintf(arquivoSaida, "Media de termos/pesquisa: %d\n", MediaTermos);
+        fprintf(arquivoSaida, "Media de termos/pesquisa: %.2f\n###OP E REALIZADA###\n\n", MediaTermos);
     }
     else if(strcmp(arvoreGeral->info, localidade) > 0) //Se arvoreGeral->info > localidade
     {
@@ -581,15 +597,15 @@ void operacaoF(FILE *arquivoSaida, pNodoA *arvoreGeral)
     int quantidadeNodo = 0; //Variavel que salva quantos termos tem no nodo atual, essa var vai ser atualizada a cada nodo lido da arvore
     int quantidadeConsultas = 0; //conta quantas consultas tem, incrementa em um a cada consulta
     int somaTermos = 0; //vai adicionando o numero total de termos de cada consulta nessa variavel
-    int MediaTermos = 0; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
+    float MediaTermos = 0; //Apos varrer todas as consultas da localidade, essa variavel recebe soma/quantidade
 
     nodoConsulta *arvoreConsulta;
     arvoreConsulta = arvoreGeral->consultas;    //Recebe a arvore de consultas globais
 
     calculaTamanhoMedio(arvoreConsulta, &quantidadeConsultas, &somaTermos);
-    MediaTermos = somaTermos/quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
+    MediaTermos = somaTermos/(float)quantidadeConsultas; //Calculando como int para o truncamento ser feito automaticamente
 
-    fprintf(arquivoSaida, "Media de termos/pesquisa: %d\n", MediaTermos);
+    fprintf(arquivoSaida, "Media de termos/pesquisa: %.2f\n###OP F REALIZADA###\n\n", MediaTermos);
 }
 
 
@@ -598,12 +614,13 @@ void imprimeArvore(pNodoA *a)
     if (a == NULL)
         return 0;
 
+
     imprimeArvore(a->dir);
 
     printf("Localidade: %s \n\nTermos:\n", a->info);
-        //imprimeTermos(a->termos);
+        imprimeTermos(a->termos);
     printf("\nConsultas:\n");
-        //imprimeConsultas(a->consultas);
+        imprimeConsultas(a->consultas);
     printf("\n\n\n");
 
     imprimeArvore(a->esq);
@@ -736,20 +753,18 @@ void calculaTamanhoMedio(nodoConsulta *a, int *quantidadeConsultas, int *somaTer
     calculaTamanhoMedio(a->dir, quantidadeConsultas, somaTermos);
 
     int vezesConsultadas = 0;   // Variavel que salva quantas vezes foi feita a consulta, multiplica o numero de termos da pesquisa por esse valor
-    int tempSomaTermos = 0;     //Soma dos termos da consulta atual (temp pois vai ser somada ao SomaTermos final)
+    int tempSomaTermos = 1;     //Soma dos termos da consulta atual (temp pois vai ser somada ao SomaTermos final)
 
     itemA *aux = a->infoLSE;
-    vezesConsultadas = a->quantidade;
 
-    *quantidadeConsultas = *quantidadeConsultas + (vezesConsultadas);
-    tempSomaTermos = tempSomaTermos +1; //SOMA UM A QUANTIDADE DE CONSULTAS E TERMOS
+    *quantidadeConsultas = *quantidadeConsultas + a->quantidade;
     while (aux->prox != NULL) //Soma 1 a tempSomaTermos para cada termo da pesquisa
     {
         tempSomaTermos = tempSomaTermos +1; //SOMA UM A QUANTIDADE DE TERMOS
         aux = aux->prox;
     }
 
-    tempSomaTermos = tempSomaTermos * vezesConsultadas;
+    tempSomaTermos = tempSomaTermos * a->quantidade;
     *somaTermos += tempSomaTermos;
 
     calculaTamanhoMedio(a->esq, quantidadeConsultas, somaTermos);

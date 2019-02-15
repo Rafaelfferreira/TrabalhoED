@@ -1,0 +1,16 @@
+a;Porto Alegre;5
+a;Canoas;10
+a;Caxias do Sul;0
+b;5
+b;10
+b;0
+c;Porto Alegre;5
+c;Canoas;10
+c;Caxias do Sul;0
+d;5
+d;10
+d;0
+e;Porto Alegre;5
+e;Canoas;10
+e;Caxias do Sul;0
+f

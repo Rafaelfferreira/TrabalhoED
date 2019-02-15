@@ -1,0 +1,3113 @@
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+###OP B REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+###OP D REALIZADA###
+
+Quantidade: 450 | esporte
+Quantidade: 228 | do
+Quantidade: 156 | brasileirão
+Quantidade: 105 | tabela
+Quantidade: 85 | interativo
+Quantidade: 83 | copa
+Quantidade: 81 | futebol
+Quantidade: 79 | mundo
+Quantidade: 78 | de
+Quantidade: 73 | x
+Quantidade: 67 | barcelona
+Quantidade: 66 | madrid
+Quantidade: 66 | real
+Quantidade: 61 | globo
+Quantidade: 59 | espetacular
+Quantidade: 58 | são
+Quantidade: 57 | clube
+Quantidade: 56 | jogo
+Quantidade: 55 | a
+Quantidade: 55 | internacional
+Quantidade: 54 | cruzeiro
+Quantidade: 54 | grêmio
+Quantidade: 52 | libertadores
+Quantidade: 50 | ao
+Quantidade: 50 | vivo
+Quantidade: 46 | bruxo
+Quantidade: 39 | carioca
+Quantidade: 38 | chelsea
+Quantidade: 38 | fifa
+Quantidade: 37 | hoje
+Quantidade: 35 | psg
+Quantidade: 34 | 2017
+Quantidade: 34 | paysandu
+Quantidade: 33 | pes
+Quantidade: 32 | 2018
+Quantidade: 32 | bola
+Quantidade: 32 | boleiro
+Quantidade: 32 | club
+Quantidade: 32 | da
+Quantidade: 32 | football
+###OP C REALIZADA###
+
+Quantidade: 460 | esporte
+Quantidade: 274 | do
+Quantidade: 166 | brasileirão
+Quantidade: 112 | tabela
+Quantidade: 103 | mundo
+Quantidade: 99 | copa
+Quantidade: 95 | futebol
+Quantidade: 80 | interativo
+Quantidade: 72 | clube
+Quantidade: 70 | de
+Quantidade: 67 | internacional
+Quantidade: 64 | bruxo
+Quantidade: 61 | ao
+Quantidade: 61 | globo
+Quantidade: 61 | vivo
+Quantidade: 60 | são
+Quantidade: 57 | grêmio
+Quantidade: 56 | a
+Quantidade: 56 | espetacular
+Quantidade: 53 | x
+Quantidade: 52 | madrid
+Quantidade: 52 | real
+Quantidade: 51 | libertadores
+Quantidade: 50 | jogo
+Quantidade: 48 | barcelona
+Quantidade: 47 | cruzeiro
+Quantidade: 40 | boa
+Quantidade: 40 | hang
+Quantidade: 40 | loose
+Quantidade: 37 | sport
+Quantidade: 36 | neymar
+Quantidade: 35 | alegrence
+Quantidade: 35 | corinthians
+Quantidade: 35 | paulo
+Quantidade: 35 | porto
+Quantidade: 34 | bola
+Quantidade: 34 | da
+Quantidade: 34 | luan
+Quantidade: 34 | mercado
+Quantidade: 34 | spfc
+Quantidade: 33 | paulistao
+Quantidade: 32 | campeonato
+Quantidade: 32 | carioca
+Quantidade: 32 | classificacao
+Quantidade: 31 | band
+Quantidade: 31 | paysandu
+Quantidade: 31 | rússia
+Quantidade: 31 | serie
+Quantidade: 30 | 2017
+Quantidade: 30 | ale
+Quantidade: 30 | oliveira
+Quantidade: 29 | alterosa
+Quantidade: 29 | campeão
+Quantidade: 29 | fanaticos
+Quantidade: 29 | hoje
+Quantidade: 28 | pes
+Quantidade: 27 | chelsea
+Quantidade: 27 | fox
+Quantidade: 27 | rodada
+Quantidade: 26 | 2016
+Quantidade: 26 | cristiano
+Quantidade: 26 | fifa
+Quantidade: 26 | kaka
+Quantidade: 26 | messi
+Quantidade: 26 | psg
+Quantidade: 26 | ronaldo
+Quantidade: 25 | classe
+Quantidade: 25 | d`alessandro
+Quantidade: 25 | junior
+Quantidade: 25 | net
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 2,04
+###OP E REALIZADA###
+
+Quantidade: 65 | brasileirão - 
+Quantidade: 58 | copa - do - mundo - 
+Quantidade: 57 | esporte - espetacular - 
+Quantidade: 57 | tabela - 
+Quantidade: 56 | cruzeiro - 
+Quantidade: 55 | esporte - interativo - 
+Quantidade: 55 | tabela - do - brasileirão - 
+Quantidade: 54 | libertadores - 
+Quantidade: 50 | globo - esporte - 
+Quantidade: 43 | esporte - net - vip - 
+Quantidade: 40 | serie - a - 
+Quantidade: 38 | paris - saint-germain - football - club - 
+Quantidade: 37 | classificação - do - brasileirão - 
+Quantidade: 37 | internacional - 
+Quantidade: 35 | copa - são - de - futebol - junior - 
+Quantidade: 34 | barcelona - 
+Quantidade: 34 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 34 | rússia - 
+Quantidade: 33 | campeonato - 
+Quantidade: 33 | hoje - 
+###OP A REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+###OP B REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+###OP B REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+###OP B REALIZADA###
+
+Quantidade: 74 | copa - do - mundo - 
+Quantidade: 61 | globo - esporte - 
+Quantidade: 59 | brasileirão - 
+Quantidade: 57 | esporte - interativo - 
+Quantidade: 57 | tabela - do - brasileirão - 
+Quantidade: 56 | esporte - espetacular - 
+Quantidade: 55 | tabela - 
+Quantidade: 51 | libertadores - 
+Quantidade: 47 | cruzeiro - 
+Quantidade: 40 | boa - esporte - 
+Quantidade: 40 | hang - loose - do - bruxo - 
+Quantidade: 37 | sport - clube - internacional - 
+Quantidade: 36 | esporte - ao - vivo - 
+Quantidade: 36 | neymar - 
+Quantidade: 35 | corinthians - 
+Quantidade: 35 | grêmio - futebol - porto - alegrence - 
+Quantidade: 35 | são - paulo - futebol - clube - 
+Quantidade: 34 | luan - 
+Quantidade: 34 | mercado - da - bola - 
+Quantidade: 34 | spfc - 
+Quantidade: 33 | paulistao - 
+Quantidade: 32 | campeonato - 
+Quantidade: 32 | carioca - 
+Quantidade: 32 | classificacao - 
+Quantidade: 31 | band - esporte - 
+Quantidade: 31 | paysandu - 
+Quantidade: 31 | rússia - 
+Quantidade: 31 | serie - a - 
+Quantidade: 30 | 2017 - 
+Quantidade: 30 | ale - oliveira - 
+Quantidade: 30 | internacional - 
+Quantidade: 29 | alterosa - esporte - 
+Quantidade: 29 | campeão - do - mundo - 
+Quantidade: 29 | fanaticos - 
+Quantidade: 29 | hoje - 
+Quantidade: 28 | pes - 
+Quantidade: 27 | barcelona - x - chelsea - 
+Quantidade: 27 | fox - esporte - 
+Quantidade: 27 | rodada - do - brasileirão - 
+Quantidade: 26 | 2016 - 
+###OP A REALIZADA###
+
+Media de termos/pesquisa: 2,01
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 1,98
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 2,01
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 419 | esporte
+Quantidade: 225 | do
+Quantidade: 132 | brasileirão
+Quantidade: 101 | tabela
+Quantidade: 81 | futebol
+Quantidade: 81 | interativo
+Quantidade: 80 | copa
+Quantidade: 77 | de
+Quantidade: 76 | mundo
+Quantidade: 65 | grêmio
+Quantidade: 58 | bruxo
+Quantidade: 58 | espetacular
+Quantidade: 57 | clube
+Quantidade: 56 | ao
+Quantidade: 56 | vivo
+Quantidade: 55 | globo
+Quantidade: 53 | internacional
+Quantidade: 53 | jogo
+Quantidade: 52 | barcelona
+Quantidade: 51 | libertadores
+Quantidade: 50 | são
+Quantidade: 48 | cruzeiro
+Quantidade: 46 | a
+Quantidade: 42 | x
+Quantidade: 39 | madrid
+Quantidade: 39 | real
+Quantidade: 33 | band
+Quantidade: 32 | gaúcho
+Quantidade: 32 | o
+Quantidade: 32 | ronaldinho
+Quantidade: 32 | sport
+Quantidade: 31 | alegrence
+Quantidade: 31 | porto
+Quantidade: 30 | club
+Quantidade: 30 | football
+Quantidade: 30 | net
+Quantidade: 30 | paris
+Quantidade: 30 | saint-germain
+Quantidade: 30 | vip
+Quantidade: 29 | neymar
+Quantidade: 29 | serie
+Quantidade: 27 | bola
+Quantidade: 27 | da
+Quantidade: 27 | fifa
+Quantidade: 27 | fox
+Quantidade: 27 | mercado
+Quantidade: 26 | hang
+Quantidade: 26 | loose
+Quantidade: 26 | messi
+Quantidade: 26 | paulistao
+Quantidade: 25 | 2018
+Quantidade: 25 | chelsea
+Quantidade: 25 | corinthians
+Quantidade: 25 | junior
+Quantidade: 25 | paulo
+Quantidade: 25 | paysandu
+Quantidade: 25 | spfc
+Quantidade: 24 | classificação
+Quantidade: 24 | clubes
+Quantidade: 24 | hoje
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 1,96
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+###OP B REALIZADA###
+
+A localidade inserida nao existe.
+###OP A REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+###OP D REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+###OP B REALIZADA###
+
+Quantidade: 60 | esporte - espetacular - 
+Quantidade: 57 | globo - esporte - 
+Quantidade: 54 | cruzeiro - 
+Quantidade: 50 | esporte - interativo - 
+Quantidade: 48 | brasileirão - 
+Quantidade: 45 | libertadores - 
+Quantidade: 45 | tabela - 
+Quantidade: 44 | tabela - do - brasileirão - 
+Quantidade: 42 | messi - 
+Quantidade: 39 | copa - do - mundo - 
+Quantidade: 36 | ale - oliveira - 
+Quantidade: 36 | jogo - do - esporte - 
+Quantidade: 35 | kaka - 
+Quantidade: 35 | rússia - 
+Quantidade: 33 | 2017 - 
+Quantidade: 33 | corinthians - 
+Quantidade: 33 | mundial - de - clubes - 
+Quantidade: 32 | paysandu - 
+Quantidade: 32 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 31 | barcelona - 
+Quantidade: 31 | copa - são - de - futebol - junior - 
+Quantidade: 31 | sport - clube - internacional - 
+Quantidade: 30 | boa - esporte - 
+Quantidade: 30 | classificação - do - brasileirão - 
+Quantidade: 30 | fifa - 
+Quantidade: 30 | internacional - 
+Quantidade: 30 | mercado - da - bola - 
+Quantidade: 29 | classificacao - 
+Quantidade: 29 | esporte - classe - a - 
+Quantidade: 28 | ao - vivo - 
+Quantidade: 28 | campeão - do - mundo - 
+Quantidade: 28 | esporte - net - vip - 
+Quantidade: 28 | jogo - de - esporte - 
+Quantidade: 27 | carioca - 
+Quantidade: 27 | hang - loose - do - bruxo - 
+Quantidade: 27 | spfc - 
+Quantidade: 27 | são - paulo - futebol - clube - 
+Quantidade: 26 | 2018 - 
+Quantidade: 26 | real - madrid - 
+Quantidade: 25 | band - esporte - 
+Quantidade: 25 | esporte - interativo - plus - 
+Quantidade: 25 | fox - esporte - 
+Quantidade: 25 | paris - saint-germain - football - club - 
+Quantidade: 25 | paulistao - 
+Quantidade: 25 | serie - a - 
+Quantidade: 24 | 2016 - 
+Quantidade: 24 | cristiano - ronaldo - 
+Quantidade: 24 | grêmio - 
+Quantidade: 24 | hoje - 
+Quantidade: 24 | luan - 
+Quantidade: 24 | rodada - do - brasileirão - 
+Quantidade: 23 | pes - 
+Quantidade: 23 | real - madrid - x - psg - 
+Quantidade: 22 | alterosa - esporte - 
+Quantidade: 22 | barcelona - x - chelsea - 
+Quantidade: 22 | boleiro - 
+Quantidade: 22 | campeonato - 
+Quantidade: 22 | neymar - 
+Quantidade: 21 | fanaticos - 
+Quantidade: 21 | grêmio - futebol - porto - alegrence - 
+###OP A REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+Quantidade: 707 | alterosa
+Quantidade: 706 | paysandu
+Quantidade: 705 | fanaticos
+Quantidade: 705 | fox
+Quantidade: 705 | gaúcho
+Quantidade: 705 | o
+Quantidade: 705 | ronaldinho
+Quantidade: 702 | d`alessandro
+Quantidade: 700 | classificacao
+Quantidade: 699 | 2018
+Quantidade: 695 | boleiro
+Quantidade: 694 | luan
+Quantidade: 667 | flamengo
+Quantidade: 662 | cristiano
+Quantidade: 662 | ronaldo
+###OP D REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+###OP B REALIZADA###
+
+Quantidade: 60 | esporte - espetacular - 
+Quantidade: 57 | globo - esporte - 
+Quantidade: 54 | cruzeiro - 
+Quantidade: 50 | esporte - interativo - 
+Quantidade: 48 | brasileirão - 
+Quantidade: 45 | libertadores - 
+Quantidade: 45 | tabela - 
+Quantidade: 44 | tabela - do - brasileirão - 
+Quantidade: 42 | messi - 
+Quantidade: 39 | copa - do - mundo - 
+Quantidade: 36 | ale - oliveira - 
+Quantidade: 36 | jogo - do - esporte - 
+Quantidade: 35 | kaka - 
+Quantidade: 35 | rússia - 
+Quantidade: 33 | 2017 - 
+Quantidade: 33 | corinthians - 
+Quantidade: 33 | mundial - de - clubes - 
+Quantidade: 32 | paysandu - 
+Quantidade: 32 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 31 | barcelona - 
+Quantidade: 31 | copa - são - de - futebol - junior - 
+Quantidade: 31 | sport - clube - internacional - 
+Quantidade: 30 | boa - esporte - 
+Quantidade: 30 | classificação - do - brasileirão - 
+Quantidade: 30 | fifa - 
+Quantidade: 30 | internacional - 
+Quantidade: 30 | mercado - da - bola - 
+Quantidade: 29 | classificacao - 
+Quantidade: 29 | esporte - classe - a - 
+Quantidade: 28 | ao - vivo - 
+Quantidade: 28 | campeão - do - mundo - 
+Quantidade: 28 | esporte - net - vip - 
+Quantidade: 28 | jogo - de - esporte - 
+Quantidade: 27 | carioca - 
+Quantidade: 27 | hang - loose - do - bruxo - 
+Quantidade: 27 | spfc - 
+Quantidade: 27 | são - paulo - futebol - clube - 
+Quantidade: 26 | 2018 - 
+Quantidade: 26 | real - madrid - 
+Quantidade: 25 | band - esporte - 
+Quantidade: 25 | esporte - interativo - plus - 
+Quantidade: 25 | fox - esporte - 
+Quantidade: 25 | paris - saint-germain - football - club - 
+Quantidade: 25 | paulistao - 
+Quantidade: 25 | serie - a - 
+Quantidade: 24 | 2016 - 
+Quantidade: 24 | cristiano - ronaldo - 
+Quantidade: 24 | grêmio - 
+Quantidade: 24 | hoje - 
+Quantidade: 24 | luan - 
+Quantidade: 24 | rodada - do - brasileirão - 
+Quantidade: 23 | pes - 
+Quantidade: 23 | real - madrid - x - psg - 
+Quantidade: 22 | alterosa - esporte - 
+Quantidade: 22 | barcelona - x - chelsea - 
+Quantidade: 22 | boleiro - 
+Quantidade: 22 | campeonato - 
+Quantidade: 22 | neymar - 
+Quantidade: 21 | fanaticos - 
+Quantidade: 21 | grêmio - futebol - porto - alegrence - 
+###OP A REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 2,01
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+###OP B REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+###OP B REALIZADA###
+
+Quantidade: 419 | esporte
+Quantidade: 225 | do
+Quantidade: 132 | brasileirão
+Quantidade: 101 | tabela
+Quantidade: 81 | futebol
+Quantidade: 81 | interativo
+Quantidade: 80 | copa
+Quantidade: 77 | de
+Quantidade: 76 | mundo
+Quantidade: 65 | grêmio
+Quantidade: 58 | bruxo
+Quantidade: 58 | espetacular
+Quantidade: 57 | clube
+Quantidade: 56 | ao
+Quantidade: 56 | vivo
+Quantidade: 55 | globo
+Quantidade: 53 | internacional
+Quantidade: 53 | jogo
+Quantidade: 52 | barcelona
+Quantidade: 51 | libertadores
+###OP C REALIZADA###
+
+Quantidade: 409 | esporte
+Quantidade: 251 | do
+Quantidade: 161 | brasileirão
+Quantidade: 107 | tabela
+Quantidade: 93 | de
+Quantidade: 93 | mundo
+Quantidade: 92 | futebol
+Quantidade: 83 | copa
+Quantidade: 68 | jogo
+Quantidade: 63 | interativo
+Quantidade: 63 | são
+Quantidade: 58 | clube
+Quantidade: 58 | internacional
+Quantidade: 57 | a
+Quantidade: 54 | grêmio
+Quantidade: 52 | libertadores
+Quantidade: 50 | espetacular
+Quantidade: 49 | globo
+Quantidade: 46 | barcelona
+Quantidade: 44 | madrid
+Quantidade: 44 | real
+Quantidade: 42 | ao
+Quantidade: 42 | vivo
+Quantidade: 42 | x
+Quantidade: 41 | bruxo
+Quantidade: 41 | campeão
+Quantidade: 38 | cruzeiro
+Quantidade: 36 | fifa
+Quantidade: 33 | band
+Quantidade: 32 | paulo
+Quantidade: 31 | classe
+Quantidade: 31 | junior
+Quantidade: 31 | kaka
+Quantidade: 30 | carioca
+Quantidade: 29 | alegrence
+Quantidade: 29 | campeonato
+Quantidade: 29 | clubes
+Quantidade: 29 | corinthians
+Quantidade: 29 | mundial
+Quantidade: 29 | porto
+Quantidade: 29 | rússia
+Quantidade: 27 | messi
+Quantidade: 27 | spfc
+Quantidade: 26 | plus
+Quantidade: 26 | serie
+Quantidade: 26 | sport
+Quantidade: 25 | 2016
+Quantidade: 25 | boa
+Quantidade: 25 | cristiano
+Quantidade: 25 | fanaticos
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 2,03
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP E REALIZADA###
+
+Quantidade: 61 | brasileirão - 
+Quantidade: 59 | cruzeiro - 
+Quantidade: 56 | tabela - do - brasileirão - 
+Quantidade: 55 | esporte - interativo - 
+Quantidade: 55 | libertadores - 
+Quantidade: 54 | esporte - espetacular - 
+Quantidade: 50 | globo - esporte - 
+Quantidade: 49 | tabela - 
+Quantidade: 48 | copa - do - mundo - 
+Quantidade: 41 | 2016 - 
+Quantidade: 41 | real - madrid - x - psg - 
+Quantidade: 40 | grêmio - 
+Quantidade: 39 | rodada - do - brasileirão - 
+Quantidade: 39 | spfc - 
+Quantidade: 37 | barcelona - x - chelsea - 
+Quantidade: 36 | jogo - de - esporte - 
+Quantidade: 36 | real - madrid - 
+Quantidade: 34 | esporte - interativo - plus - 
+Quantidade: 34 | hoje - 
+Quantidade: 33 | fox - esporte - 
+Quantidade: 33 | jogo - do - esporte - 
+Quantidade: 33 | paysandu - 
+Quantidade: 32 | band - esporte - 
+Quantidade: 32 | copa - são - de - futebol - junior - 
+Quantidade: 32 | messi - 
+Quantidade: 32 | pes - 
+Quantidade: 32 | rússia - 
+Quantidade: 32 | serie - a - 
+Quantidade: 31 | boa - esporte - 
+Quantidade: 31 | campeão - do - mundo - 
+Quantidade: 31 | esporte - net - vip - 
+Quantidade: 31 | esporte - ao - vivo - 
+Quantidade: 31 | esporte - classe - a - 
+Quantidade: 31 | hang - loose - do - bruxo - 
+Quantidade: 30 | ao - vivo - 
+Quantidade: 30 | classificação - do - brasileirão - 
+Quantidade: 30 | corinthians - 
+Quantidade: 30 | fanaticos - 
+Quantidade: 30 | flamengo - 
+Quantidade: 30 | mercado - da - bola - 
+Quantidade: 29 | 2017 - 
+Quantidade: 29 | boleiro - 
+Quantidade: 29 | classificacao - 
+Quantidade: 29 | d`alessandro - 
+Quantidade: 28 | barcelona - 
+Quantidade: 28 | fifa - 
+Quantidade: 28 | internacional - 
+Quantidade: 28 | paulistao - 
+Quantidade: 27 | 2018 - 
+Quantidade: 27 | alterosa - esporte - 
+Quantidade: 27 | carioca - 
+Quantidade: 27 | luan - 
+Quantidade: 27 | neymar - 
+Quantidade: 26 | grêmio - futebol - porto - alegrence - 
+Quantidade: 26 | kaka - 
+Quantidade: 26 | mundial - de - clubes - 
+Quantidade: 23 | campeonato - 
+Quantidade: 23 | paris - saint-germain - football - club - 
+Quantidade: 22 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 22 | são - paulo - futebol - clube - 
+Quantidade: 17 | ale - oliveira - 
+Quantidade: 17 | cristiano - ronaldo - 
+Quantidade: 17 | sport - clube - internacional - 
+###OP A REALIZADA###
+
+Quantidade: 58 | esporte - interativo - 
+Quantidade: 58 | esporte - espetacular - 
+Quantidade: 55 | copa - do - mundo - 
+Quantidade: 55 | globo - esporte - 
+Quantidade: 53 | tabela - do - brasileirão - 
+Quantidade: 51 | libertadores - 
+Quantidade: 48 | cruzeiro - 
+Quantidade: 48 | tabela - 
+Quantidade: 34 | ao - vivo - 
+Quantidade: 34 | brasileirão - 
+Quantidade: 34 | grêmio - 
+Quantidade: 33 | band - esporte - 
+Quantidade: 32 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 32 | sport - clube - internacional - 
+Quantidade: 31 | grêmio - futebol - porto - alegrence - 
+Quantidade: 30 | esporte - net - vip - 
+Quantidade: 30 | paris - saint-germain - football - club - 
+Quantidade: 29 | neymar - 
+Quantidade: 29 | serie - a - 
+Quantidade: 28 | jogo - de - esporte - 
+Quantidade: 27 | barcelona - 
+Quantidade: 27 | fifa - 
+Quantidade: 27 | fox - esporte - 
+Quantidade: 27 | mercado - da - bola - 
+Quantidade: 26 | hang - loose - do - bruxo - 
+Quantidade: 26 | messi - 
+Quantidade: 26 | paulistao - 
+Quantidade: 25 | 2018 - 
+Quantidade: 25 | barcelona - x - chelsea - 
+Quantidade: 25 | copa - são - de - futebol - junior - 
+Quantidade: 25 | corinthians - 
+Quantidade: 25 | jogo - do - esporte - 
+Quantidade: 25 | paysandu - 
+Quantidade: 25 | spfc - 
+Quantidade: 25 | são - paulo - futebol - clube - 
+Quantidade: 24 | classificação - do - brasileirão - 
+Quantidade: 24 | hoje - 
+Quantidade: 24 | kaka - 
+Quantidade: 24 | luan - 
+Quantidade: 24 | mundial - de - clubes - 
+Quantidade: 24 | rússia - 
+Quantidade: 23 | 2017 - 
+Quantidade: 23 | carioca - 
+Quantidade: 23 | esporte - interativo - plus - 
+Quantidade: 23 | pes - 
+Quantidade: 22 | alterosa - esporte - 
+Quantidade: 22 | classificacao - 
+Quantidade: 22 | esporte - ao - vivo - 
+Quantidade: 22 | fanaticos - 
+Quantidade: 22 | real - madrid - 
+Quantidade: 21 | boa - esporte - 
+Quantidade: 21 | campeão - do - mundo - 
+Quantidade: 21 | flamengo - 
+Quantidade: 21 | internacional - 
+Quantidade: 21 | rodada - do - brasileirão - 
+Quantidade: 20 | 2016 - 
+Quantidade: 20 | campeonato - 
+Quantidade: 19 | d`alessandro - 
+Quantidade: 18 | boleiro - 
+Quantidade: 17 | cristiano - ronaldo - 
+###OP A REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+###OP B REALIZADA###
+
+A localidade inserida nao existe.
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+###OP D REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP E REALIZADA###
+
+A localidade inserida nao existe.
+###OP E REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 2,00
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 502 | esporte
+Quantidade: 277 | do
+Quantidade: 192 | brasileirão
+Quantidade: 119 | tabela
+Quantidade: 105 | interativo
+Quantidade: 102 | futebol
+Quantidade: 93 | de
+Quantidade: 92 | copa
+Quantidade: 86 | mundo
+Quantidade: 77 | grêmio
+###OP C REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+###OP D REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP E REALIZADA###
+
+Quantidade: 453 | esporte
+Quantidade: 272 | do
+Quantidade: 185 | brasileirão
+Quantidade: 112 | tabela
+Quantidade: 93 | copa
+Quantidade: 90 | de
+Quantidade: 88 | mundo
+Quantidade: 86 | futebol
+Quantidade: 80 | interativo
+Quantidade: 66 | jogo
+Quantidade: 65 | bruxo
+Quantidade: 65 | internacional
+Quantidade: 63 | são
+Quantidade: 60 | a
+Quantidade: 59 | ao
+Quantidade: 59 | barcelona
+Quantidade: 59 | vivo
+Quantidade: 57 | espetacular
+Quantidade: 56 | clube
+Quantidade: 56 | cruzeiro
+Quantidade: 54 | libertadores
+Quantidade: 54 | madrid
+Quantidade: 54 | real
+Quantidade: 52 | x
+Quantidade: 50 | globo
+Quantidade: 49 | grêmio
+Quantidade: 43 | net
+Quantidade: 43 | vip
+Quantidade: 40 | serie
+Quantidade: 38 | club
+Quantidade: 38 | football
+Quantidade: 38 | paris
+Quantidade: 38 | saint-germain
+Quantidade: 37 | classificação
+Quantidade: 35 | junior
+Quantidade: 34 | gaúcho
+Quantidade: 34 | o
+Quantidade: 34 | rússia
+Quantidade: 34 | ronaldinho
+Quantidade: 33 | campeonato
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+###OP D REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+###OP D REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+Quantidade: 694 | luan - 
+Quantidade: 667 | flamengo - 
+Quantidade: 662 | cristiano - ronaldo - 
+###OP B REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+Quantidade: 707 | alterosa - esporte - 
+Quantidade: 706 | paysandu - 
+Quantidade: 705 | fanaticos - 
+Quantidade: 705 | fox - esporte - 
+Quantidade: 705 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 702 | d`alessandro - 
+Quantidade: 700 | classificacao - 
+Quantidade: 699 | 2018 - 
+Quantidade: 696 | ao - vivo - 
+Quantidade: 695 | boleiro - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 2,04
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 74 | tabela - do - brasileirão - 
+Quantidade: 67 | copa - do - mundo - 
+Quantidade: 62 | brasileirão - 
+Quantidade: 62 | esporte - espetacular - 
+Quantidade: 58 | tabela - 
+Quantidade: 57 | esporte - interativo - 
+Quantidade: 56 | libertadores - 
+Quantidade: 53 | globo - esporte - 
+Quantidade: 45 | cruzeiro - 
+Quantidade: 42 | kaka - 
+Quantidade: 39 | boleiro - 
+Quantidade: 37 | pes - 
+Quantidade: 35 | classificacao - 
+Quantidade: 35 | fanaticos - 
+Quantidade: 34 | 2016 - 
+Quantidade: 34 | campeonato - 
+Quantidade: 34 | fifa - 
+Quantidade: 33 | copa - são - de - futebol - junior - 
+Quantidade: 33 | esporte - net - vip - 
+Quantidade: 33 | rússia - 
+Quantidade: 32 | barcelona - 
+Quantidade: 31 | corinthians - 
+Quantidade: 31 | cristiano - ronaldo - 
+Quantidade: 31 | grêmio - futebol - porto - alegrence - 
+Quantidade: 31 | paris - saint-germain - football - club - 
+Quantidade: 31 | serie - a - 
+Quantidade: 31 | são - paulo - futebol - clube - 
+Quantidade: 30 | campeão - do - mundo - 
+Quantidade: 30 | real - madrid - 
+Quantidade: 30 | real - madrid - x - psg - 
+Quantidade: 29 | classificação - do - brasileirão - 
+Quantidade: 29 | esporte - interativo - plus - 
+Quantidade: 28 | barcelona - x - chelsea - 
+Quantidade: 28 | flamengo - 
+Quantidade: 28 | internacional - 
+Quantidade: 28 | mercado - da - bola - 
+Quantidade: 28 | mundial - de - clubes - 
+Quantidade: 28 | paysandu - 
+Quantidade: 28 | sport - clube - internacional - 
+Quantidade: 27 | carioca - 
+Quantidade: 27 | esporte - ao - vivo - 
+Quantidade: 27 | hang - loose - do - bruxo - 
+Quantidade: 26 | esporte - classe - a - 
+Quantidade: 26 | hoje - 
+Quantidade: 26 | luan - 
+Quantidade: 26 | paulistao - 
+Quantidade: 25 | 2017 - 
+Quantidade: 25 | alterosa - esporte - 
+Quantidade: 25 | neymar - 
+Quantidade: 24 | band - esporte - 
+Quantidade: 24 | fox - esporte - 
+Quantidade: 24 | grêmio - 
+Quantidade: 24 | jogo - de - esporte - 
+Quantidade: 24 | spfc - 
+Quantidade: 23 | 2018 - 
+Quantidade: 23 | messi - 
+Quantidade: 22 | ale - oliveira - 
+Quantidade: 22 | ao - vivo - 
+Quantidade: 21 | boa - esporte - 
+Quantidade: 21 | ronaldinho - gaúcho - o - bruxo - 
+###OP A REALIZADA###
+
+A localidade inserida nao existe.
+###OP E REALIZADA###
+
+A localidade inserida nao existe.
+###OP E REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+Quantidade: 707 | alterosa
+Quantidade: 706 | paysandu
+Quantidade: 705 | fanaticos
+Quantidade: 705 | fox
+Quantidade: 705 | gaúcho
+Quantidade: 705 | o
+Quantidade: 705 | ronaldinho
+Quantidade: 702 | d`alessandro
+Quantidade: 700 | classificacao
+Quantidade: 699 | 2018
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 2,01
+###OP E REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 56 | tabela - 
+Quantidade: 55 | cruzeiro - 
+Quantidade: 54 | brasileirão - 
+Quantidade: 54 | globo - esporte - 
+Quantidade: 54 | tabela - do - brasileirão - 
+Quantidade: 53 | esporte - interativo - 
+Quantidade: 53 | libertadores - 
+Quantidade: 43 | copa - do - mundo - 
+Quantidade: 41 | esporte - espetacular - 
+Quantidade: 36 | band - esporte - 
+Quantidade: 36 | real - madrid - 
+Quantidade: 34 | boa - esporte - 
+Quantidade: 33 | classificação - do - brasileirão - 
+Quantidade: 32 | alterosa - esporte - 
+Quantidade: 32 | rodada - do - brasileirão - 
+Quantidade: 32 | spfc - 
+Quantidade: 31 | carioca - 
+Quantidade: 31 | copa - são - de - futebol - junior - 
+Quantidade: 31 | pes - 
+Quantidade: 30 | mercado - da - bola - 
+Quantidade: 29 | classificacao - 
+Quantidade: 29 | jogo - de - esporte - 
+Quantidade: 28 | 2017 - 
+Quantidade: 28 | 2018 - 
+Quantidade: 28 | esporte - ao - vivo - 
+Quantidade: 28 | rússia - 
+Quantidade: 27 | 2016 - 
+Quantidade: 27 | campeonato - 
+Quantidade: 27 | esporte - net - vip - 
+Quantidade: 27 | fanaticos - 
+Quantidade: 26 | barcelona - 
+Quantidade: 26 | fox - esporte - 
+Quantidade: 26 | internacional - 
+Quantidade: 26 | jogo - do - esporte - 
+Quantidade: 25 | barcelona - x - chelsea - 
+Quantidade: 25 | grêmio - 
+Quantidade: 25 | neymar - 
+Quantidade: 25 | ronaldinho - gaúcho - o - bruxo - 
+Quantidade: 24 | boleiro - 
+Quantidade: 24 | flamengo - 
+Quantidade: 24 | hang - loose - do - bruxo - 
+Quantidade: 23 | ale - oliveira - 
+Quantidade: 23 | cristiano - ronaldo - 
+Quantidade: 23 | esporte - classe - a - 
+Quantidade: 23 | hoje - 
+Quantidade: 23 | kaka - 
+Quantidade: 23 | serie - a - 
+Quantidade: 23 | sport - clube - internacional - 
+Quantidade: 22 | d`alessandro - 
+Quantidade: 22 | messi - 
+Quantidade: 22 | mundial - de - clubes - 
+Quantidade: 22 | paysandu - 
+Quantidade: 22 | real - madrid - x - psg - 
+Quantidade: 22 | são - paulo - futebol - clube - 
+Quantidade: 21 | esporte - interativo - plus - 
+Quantidade: 21 | grêmio - futebol - porto - alegrence - 
+Quantidade: 21 | paulistao - 
+Quantidade: 20 | paris - saint-germain - football - club - 
+Quantidade: 19 | ao - vivo - 
+Quantidade: 18 | campeão - do - mundo - 
+Quantidade: 18 | corinthians - 
+Quantidade: 18 | fifa - 
+Quantidade: 17 | luan - 
+###OP A REALIZADA###
+
+Media de termos/pesquisa: 2,01
+###OP E REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+###OP D REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+###OP D REALIZADA###
+
+Quantidade: 490 | esporte
+Quantidade: 235 | do
+Quantidade: 182 | brasileirão
+Quantidade: 111 | tabela
+Quantidade: 96 | futebol
+Quantidade: 95 | interativo
+Quantidade: 92 | de
+Quantidade: 78 | mundo
+Quantidade: 77 | copa
+Quantidade: 73 | ao
+Quantidade: 73 | vivo
+Quantidade: 68 | são
+Quantidade: 67 | clube
+Quantidade: 62 | internacional
+Quantidade: 61 | barcelona
+Quantidade: 61 | bruxo
+Quantidade: 61 | globo
+Quantidade: 58 | espetacular
+Quantidade: 58 | jogo
+Quantidade: 57 | a
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 2,03
+###OP E REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+###OP B REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+Quantidade: 723 | porto
+Quantidade: 721 | ale
+Quantidade: 721 | carioca
+Quantidade: 721 | oliveira
+Quantidade: 721 | plus
+Quantidade: 714 | corinthians
+Quantidade: 713 | clubes
+Quantidade: 713 | mundial
+Quantidade: 711 | rodada
+Quantidade: 710 | paulistao
+Quantidade: 707 | alterosa
+Quantidade: 706 | paysandu
+Quantidade: 705 | fanaticos
+Quantidade: 705 | fox
+Quantidade: 705 | gaúcho
+Quantidade: 705 | o
+Quantidade: 705 | ronaldinho
+Quantidade: 702 | d`alessandro
+Quantidade: 700 | classificacao
+Quantidade: 699 | 2018
+Quantidade: 695 | boleiro
+Quantidade: 694 | luan
+Quantidade: 667 | flamengo
+Quantidade: 662 | cristiano
+Quantidade: 662 | ronaldo
+###OP D REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+Quantidade: 761 | junior
+Quantidade: 761 | net
+Quantidade: 761 | vip
+Quantidade: 754 | fifa
+Quantidade: 753 | sport
+Quantidade: 749 | boa
+Quantidade: 748 | band
+Quantidade: 746 | classe
+Quantidade: 746 | neymar
+Quantidade: 744 | pes
+Quantidade: 742 | campeão
+Quantidade: 742 | paulo
+Quantidade: 741 | chelsea
+Quantidade: 740 | hang
+Quantidade: 740 | loose
+Quantidade: 739 | messi
+Quantidade: 734 | hoje
+Quantidade: 734 | serie
+Quantidade: 733 | psg
+Quantidade: 732 | kaka
+Quantidade: 726 | bola
+Quantidade: 726 | da
+Quantidade: 726 | mercado
+Quantidade: 725 | 2017
+Quantidade: 725 | club
+Quantidade: 725 | football
+Quantidade: 725 | paris
+Quantidade: 725 | saint-germain
+Quantidade: 723 | alegrence
+Quantidade: 723 | campeonato
+###OP D REALIZADA###
+
+Quantidade: 430 | esporte
+Quantidade: 230 | do
+Quantidade: 173 | brasileirão
+Quantidade: 110 | tabela
+Quantidade: 82 | de
+Quantidade: 74 | copa
+Quantidade: 74 | futebol
+Quantidade: 74 | interativo
+Quantidade: 61 | mundo
+Quantidade: 58 | madrid
+Quantidade: 58 | real
+Quantidade: 55 | cruzeiro
+Quantidade: 55 | jogo
+Quantidade: 54 | globo
+Quantidade: 53 | libertadores
+Quantidade: 53 | são
+Quantidade: 51 | barcelona
+Quantidade: 49 | bruxo
+Quantidade: 49 | internacional
+Quantidade: 47 | ao
+Quantidade: 47 | vivo
+Quantidade: 47 | x
+Quantidade: 46 | a
+Quantidade: 46 | grêmio
+Quantidade: 45 | clube
+Quantidade: 41 | espetacular
+Quantidade: 36 | band
+Quantidade: 34 | boa
+Quantidade: 33 | classificação
+Quantidade: 32 | alterosa
+Quantidade: 32 | rodada
+Quantidade: 32 | spfc
+Quantidade: 31 | carioca
+Quantidade: 31 | junior
+Quantidade: 31 | pes
+Quantidade: 30 | bola
+Quantidade: 30 | da
+Quantidade: 30 | mercado
+Quantidade: 29 | classificacao
+Quantidade: 28 | 2017
+Quantidade: 28 | 2018
+Quantidade: 28 | rússia
+Quantidade: 27 | 2016
+Quantidade: 27 | campeonato
+Quantidade: 27 | fanaticos
+Quantidade: 27 | net
+Quantidade: 27 | vip
+Quantidade: 26 | fox
+Quantidade: 25 | chelsea
+Quantidade: 25 | gaúcho
+Quantidade: 25 | neymar
+Quantidade: 25 | o
+Quantidade: 25 | ronaldinho
+Quantidade: 24 | boleiro
+Quantidade: 24 | flamengo
+Quantidade: 24 | hang
+Quantidade: 24 | loose
+Quantidade: 23 | ale
+Quantidade: 23 | classe
+Quantidade: 23 | cristiano
+Quantidade: 23 | hoje
+Quantidade: 23 | kaka
+Quantidade: 23 | oliveira
+Quantidade: 23 | ronaldo
+Quantidade: 23 | serie
+Quantidade: 23 | sport
+Quantidade: 22 | clubes
+Quantidade: 22 | d`alessandro
+Quantidade: 22 | messi
+Quantidade: 22 | mundial
+Quantidade: 22 | paulo
+Quantidade: 22 | paysandu
+Quantidade: 22 | psg
+Quantidade: 21 | alegrence
+Quantidade: 21 | paulistao
+Quantidade: 21 | plus
+Quantidade: 21 | porto
+Quantidade: 20 | club
+Quantidade: 20 | football
+Quantidade: 20 | paris
+Quantidade: 20 | saint-germain
+Quantidade: 18 | campeão
+Quantidade: 18 | corinthians
+Quantidade: 18 | fifa
+Quantidade: 17 | luan
+###OP C REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+###OP D REALIZADA###
+
+Quantidade: 1511 | brasileirão - 
+Quantidade: 1474 | esporte - espetacular - 
+Quantidade: 1474 | tabela - do - brasileirão - 
+Quantidade: 1471 | esporte - interativo - 
+Quantidade: 1449 | libertadores - 
+Quantidade: 1447 | globo - esporte - 
+Quantidade: 1444 | tabela - 
+Quantidade: 1436 | cruzeiro - 
+Quantidade: 1421 | copa - do - mundo - 
+Quantidade: 779 | classificação - do - brasileirão - 
+Quantidade: 777 | jogo - de - esporte - 
+Quantidade: 774 | rússia - 
+Quantidade: 764 | 2016 - 
+Quantidade: 762 | spfc - 
+Quantidade: 761 | copa - são - de - futebol - junior - 
+Quantidade: 761 | esporte - net - vip - 
+Quantidade: 754 | fifa - 
+Quantidade: 753 | real - madrid - 
+Quantidade: 753 | sport - clube - internacional - 
+Quantidade: 751 | internacional - 
+Quantidade: 749 | boa - esporte - 
+Quantidade: 748 | band - esporte - 
+Quantidade: 746 | esporte - classe - a - 
+Quantidade: 746 | neymar - 
+Quantidade: 744 | pes - 
+Quantidade: 742 | campeão - do - mundo - 
+Quantidade: 742 | são - paulo - futebol - clube - 
+Quantidade: 741 | barcelona - x - chelsea - 
+Quantidade: 740 | hang - loose - do - bruxo - 
+Quantidade: 739 | messi - 
+Quantidade: 738 | esporte - ao - vivo - 
+Quantidade: 737 | jogo - do - esporte - 
+Quantidade: 734 | hoje - 
+Quantidade: 734 | serie - a - 
+Quantidade: 733 | real - madrid - x - psg - 
+Quantidade: 732 | kaka - 
+Quantidade: 729 | barcelona - 
+Quantidade: 726 | mercado - da - bola - 
+Quantidade: 725 | 2017 - 
+Quantidade: 725 | grêmio - 
+Quantidade: 725 | paris - saint-germain - football - club - 
+Quantidade: 723 | campeonato - 
+Quantidade: 723 | grêmio - futebol - porto - alegrence - 
+Quantidade: 721 | ale - oliveira - 
+Quantidade: 721 | carioca - 
+Quantidade: 721 | esporte - interativo - plus - 
+Quantidade: 714 | corinthians - 
+Quantidade: 713 | mundial - de - clubes - 
+Quantidade: 711 | rodada - do - brasileirão - 
+Quantidade: 710 | paulistao - 
+###OP B REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 435 | esporte
+Quantidade: 240 | do
+Quantidade: 158 | brasileirão
+Quantidade: 103 | tabela
+Quantidade: 86 | interativo
+Quantidade: 83 | de
+Quantidade: 74 | futebol
+Quantidade: 67 | mundo
+Quantidade: 66 | copa
+Quantidade: 59 | internacional
+Quantidade: 58 | clube
+Quantidade: 58 | jogo
+Quantidade: 57 | bruxo
+Quantidade: 57 | cruzeiro
+Quantidade: 56 | espetacular
+Quantidade: 56 | libertadores
+Quantidade: 55 | a
+Quantidade: 55 | globo
+Quantidade: 55 | madrid
+Quantidade: 55 | real
+Quantidade: 53 | x
+Quantidade: 49 | grêmio
+Quantidade: 46 | ao
+Quantidade: 46 | vivo
+Quantidade: 44 | barcelona
+Quantidade: 44 | são
+Quantidade: 34 | clubes
+Quantidade: 34 | mundial
+Quantidade: 33 | hang
+Quantidade: 33 | loose
+Quantidade: 32 | boleiro
+Quantidade: 32 | sport
+Quantidade: 31 | ale
+Quantidade: 31 | classificação
+Quantidade: 31 | neymar
+Quantidade: 31 | oliveira
+Quantidade: 31 | psg
+Quantidade: 30 | alegrence
+Quantidade: 30 | porto
+Quantidade: 29 | boa
+Quantidade: 29 | bola
+Quantidade: 29 | da
+Quantidade: 29 | mercado
+Quantidade: 28 | 2016
+Quantidade: 28 | classe
+Quantidade: 28 | d`alessandro
+Quantidade: 28 | fanaticos
+Quantidade: 28 | hoje
+Quantidade: 28 | paysandu
+Quantidade: 28 | rússia
+Quantidade: 27 | cristiano
+Quantidade: 27 | plus
+Quantidade: 27 | ronaldo
+Quantidade: 27 | serie
+Quantidade: 27 | spfc
+Quantidade: 26 | alterosa
+Quantidade: 26 | carioca
+Quantidade: 26 | luan
+Quantidade: 26 | messi
+Quantidade: 26 | net
+Quantidade: 26 | paulo
+Quantidade: 26 | vip
+Quantidade: 24 | band
+Quantidade: 24 | campeonato
+Quantidade: 24 | club
+Quantidade: 24 | football
+Quantidade: 24 | gaúcho
+Quantidade: 24 | o
+Quantidade: 24 | paris
+Quantidade: 24 | paulistao
+Quantidade: 24 | ronaldinho
+Quantidade: 24 | saint-germain
+Quantidade: 23 | classificacao
+Quantidade: 23 | flamengo
+Quantidade: 23 | rodada
+Quantidade: 22 | chelsea
+Quantidade: 22 | corinthians
+Quantidade: 22 | pes
+Quantidade: 21 | 2017
+Quantidade: 21 | fifa
+Quantidade: 21 | fox
+Quantidade: 21 | kaka
+Quantidade: 20 | 2018
+Quantidade: 19 | campeão
+Quantidade: 18 | junior
+###OP C REALIZADA###
+
+Quantidade: 430 | esporte
+Quantidade: 230 | do
+Quantidade: 173 | brasileirão
+Quantidade: 110 | tabela
+Quantidade: 82 | de
+Quantidade: 74 | copa
+Quantidade: 74 | futebol
+Quantidade: 74 | interativo
+Quantidade: 61 | mundo
+Quantidade: 58 | madrid
+###OP C REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+Quantidade: 1504 | internacional
+Quantidade: 1503 | são
+Quantidade: 1495 | clube
+Quantidade: 1486 | madrid
+Quantidade: 1486 | real
+Quantidade: 1480 | a
+Quantidade: 1474 | espetacular
+Quantidade: 1474 | x
+Quantidade: 1470 | barcelona
+Quantidade: 1449 | libertadores
+Quantidade: 1448 | grêmio
+Quantidade: 1447 | globo
+Quantidade: 1445 | bruxo
+Quantidade: 1436 | cruzeiro
+Quantidade: 1434 | ao
+Quantidade: 1434 | vivo
+Quantidade: 779 | classificação
+Quantidade: 774 | rússia
+Quantidade: 764 | 2016
+Quantidade: 762 | spfc
+###OP D REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP F REALIZADA###
+
+Quantidade: 11781 | esporte
+Quantidade: 6604 | do
+Quantidade: 4475 | brasileirão
+Quantidade: 2918 | tabela
+Quantidade: 2251 | de
+Quantidade: 2226 | futebol
+Quantidade: 2192 | interativo
+Quantidade: 2182 | copa
+Quantidade: 2163 | mundo
+Quantidade: 1514 | jogo
+###OP D REALIZADA###
+
+Quantidade: 63 | esporte - espetacular - 
+Quantidade: 60 | esporte - interativo - 
+Quantidade: 56 | globo - esporte - 
+Quantidade: 54 | brasileirão - 
+Quantidade: 54 | tabela - do - brasileirão - 
+Quantidade: 53 | copa - do - mundo - 
+Quantidade: 48 | libertadores - 
+Quantidade: 47 | cruzeiro - 
+Quantidade: 44 | tabela - 
+Quantidade: 40 | fifa - 
+###OP A REALIZADA###
+
+Media de termos/pesquisa: 1,99
+###OP E REALIZADA###
+
+Quantidade: 434 | esporte
+Quantidade: 228 | do
+Quantidade: 146 | brasileirão
+Quantidade: 92 | de
+Quantidade: 89 | tabela
+Quantidade: 79 | futebol
+Quantidade: 75 | interativo
+Quantidade: 70 | copa
+Quantidade: 67 | mundo
+Quantidade: 64 | jogo
+Quantidade: 61 | internacional
+Quantidade: 60 | espetacular
+Quantidade: 59 | bruxo
+Quantidade: 58 | clube
+Quantidade: 58 | são
+Quantidade: 57 | globo
+Quantidade: 54 | a
+Quantidade: 54 | cruzeiro
+Quantidade: 53 | barcelona
+Quantidade: 49 | madrid
+###OP C REALIZADA###
+

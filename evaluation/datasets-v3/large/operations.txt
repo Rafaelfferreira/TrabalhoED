@@ -1,0 +1,50 @@
+﻿c;Recife;40
+e;Maceió;10
+e;Rio de Janeiro;10
+f
+e;Manaus;80
+c;São Luís;90
+d;60
+c;Cuiabá;20
+c;Recife;40
+e;Fortaleza;10
+f
+e;Boa Vista;0
+b;90
+d;70
+b;90
+d;40
+f
+d;20
+d;0
+f
+a;Goiânia;50
+c;João Pessoa;90
+e;Curitiba;90
+e;Recife;0
+e;Boa Vista;50
+d;20
+a;Palmas;50
+a;Cuiabá;50
+a;Brasília;20
+b;30
+b;50
+e;São Paulo;90
+d;60
+c;São Paulo;30
+b;70
+e;Fortaleza;50
+f
+f
+f
+d;40
+f
+f
+a;São Paulo;30
+e;Fortaleza;50
+d;10
+b;60
+f
+f
+a;Boa Vista;50
+e;Natal;0

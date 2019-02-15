@@ -1,0 +1,50 @@
+Porto Alegre;tabela;alterosa esporte
+Caxias do Sul;ao vivo
+Canoas;2016
+Caxias do Sul;luan
+Porto Alegre;spfc;copa do mundo
+Porto Alegre;fanaticos
+Canoas;brasileirão;campeonato
+Canoas;fanaticos;internacional
+Caxias do Sul;ronaldinho gaúcho o bruxo;boa esporte;2017
+Porto Alegre;boa esporte
+Caxias do Sul;cristiano ronaldo;alterosa esporte;pes
+Porto Alegre;brasileirão
+Porto Alegre;ale oliveira;libertadores
+Caxias do Sul;classificacao
+Porto Alegre;2018;ronaldinho gaúcho o bruxo;2016
+Porto Alegre;grêmio
+Canoas;paysandu;internacional
+Canoas;globo esporte
+Porto Alegre;copa são de futebol junior;tabela
+Canoas;corinthians;fanaticos;ale oliveira
+Caxias do Sul;corinthians;esporte net vip
+Porto Alegre;band esporte
+Canoas;kaka;messi;tabela do brasileirão
+Porto Alegre;classificação do brasileirão
+Canoas;copa do mundo;libertadores;classificacao
+Porto Alegre;classificação do brasileirão
+Porto Alegre;grêmio futebol porto alegrence;globo esporte;copa do mundo
+Caxias do Sul;esporte interativo;são paulo futebol clube
+Porto Alegre;fox esporte;kaka;real madrid x psg
+Porto Alegre;boleiro;carioca
+Canoas;campeão do mundo;boleiro;2018
+Canoas;internacional
+Porto Alegre;luan
+Canoas;esporte espetacular;jogo de esporte;rodada do brasileirão
+Caxias do Sul;mundial de clubes
+Caxias do Sul;libertadores;d`alessandro;paris saint-germain football club
+Porto Alegre;esporte net vip
+Canoas;ao vivo;são paulo futebol clube;mundial de clubes
+Caxias do Sul;libertadores;spfc;neymar
+Porto Alegre;libertadores
+Porto Alegre;2016;esporte espetacular;libertadores
+Caxias do Sul;alterosa esporte;tabela;classificacao
+Caxias do Sul;cruzeiro;barcelona x chelsea
+Caxias do Sul;serie a;cruzeiro
+Canoas;corinthians;libertadores
+Caxias do Sul;tabela
+Caxias do Sul;classificacao;rodada do brasileirão;classificação do brasileirão
+Canoas;grêmio futebol porto alegrence
+Porto Alegre;ale oliveira;neymar;internacional
+Canoas;esporte classe a;serie a

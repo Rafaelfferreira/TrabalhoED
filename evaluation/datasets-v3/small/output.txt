@@ -1,0 +1,202 @@
+2 classificacao do brasileirao
+1 2016;2018;ronaldinho gaucho o bruxo
+1 2016;esporte espetacular;libertadores
+1 ale oliveira;internacional;neymar
+1 ale oliveira;libertadores
+1 2016
+1 2018;boleiro;campeao do mundo
+1 ale oliveira;corinthians;fanaticos
+1 ao vivo;mundial de clubes;sao paulo futebol clube
+1 brasileirao;campeonato
+1 classificacao;copa do mundo;libertadores
+1 corinthians;libertadores
+1 esporte classe a;serie a
+1 esporte espetacular;jogo de esporte;rodada do brasileirao
+1 fanaticos;internacional
+1 2017;boa esporte;ronaldinho gaucho o bruxo
+1 alterosa esporte;classificacao;tabela
+1 alterosa esporte;cristiano ronaldo;pes
+1 ao vivo
+1 barcelona x chelsea;cruzeiro
+1 classificacao
+1 classificacao;classificacao do brasileirao;rodada do brasileirao
+1 corinthians;esporte net vip
+1 cruzeiro;serie a
+1 d`alessandro;libertadores;paris saint-germain football club
+1 esporte interativo;sao paulo futebol clube
+1 libertadores;neymar;spfc
+1 luan
+1 mundial de clubes
+1 tabela
+2 classificacao do brasileirao
+2 luan
+1 2016
+1 2016;2018;ronaldinho gaucho o bruxo
+1 2016;esporte espetacular;libertadores
+2 classificacao do brasileirao
+2 luan
+1 2016
+1 2016;2018;ronaldinho gaucho o bruxo
+1 2016;esporte espetacular;libertadores
+1 2017;boa esporte;ronaldinho gaucho o bruxo
+1 2018;boleiro;campeao do mundo
+1 ale oliveira;corinthians;fanaticos
+1 ale oliveira;internacional;neymar
+1 ale oliveira;libertadores
+2 classificacao do brasileirao
+2 luan
+1 2016
+1 2016;2018;ronaldinho gaucho o bruxo
+1 2016;esporte espetacular;libertadores
+1 2017;boa esporte;ronaldinho gaucho o bruxo
+1 2018;boleiro;campeao do mundo
+1 ale oliveira;corinthians;fanaticos
+1 ale oliveira;internacional;neymar
+1 ale oliveira;libertadores
+1 alterosa esporte;classificacao;tabela
+1 alterosa esporte;cristiano ronaldo;pes
+1 alterosa esporte;tabela
+1 ao vivo
+1 ao vivo;mundial de clubes;sao paulo futebol clube
+1 band esporte
+1 barcelona x chelsea;cruzeiro
+1 boa esporte
+1 boleiro;carioca
+1 brasileirao
+1 brasileirao;campeonato
+1 classificacao
+1 classificacao;classificacao do brasileirao;rodada do brasileirao
+1 classificacao;copa do mundo;libertadores
+1 copa do mundo;globo esporte;gremio futebol porto alegrence
+1 copa do mundo;spfc
+1 copa sao de futebol junior;tabela
+1 corinthians;esporte net vip
+1 corinthians;libertadores
+1 cruzeiro;serie a
+1 d`alessandro;libertadores;paris saint-germain football club
+1 esporte classe a;serie a
+1 esporte espetacular;jogo de esporte;rodada do brasileirao
+1 esporte interativo;sao paulo futebol clube
+1 esporte net vip
+1 fanaticos
+1 fanaticos;internacional
+1 fox esporte;kaka;real madrid x psg
+1 globo esporte
+1 gremio
+1 gremio futebol porto alegrence
+1 internacional
+1 internacional;paysandu
+1 kaka;messi;tabela do brasileirao
+1 libertadores
+1 libertadores;neymar;spfc
+1 mundial de clubes
+1 tabela
+3 libertadores
+2 2016
+2 ale oliveira
+2 classificacao do brasileirao
+2 copa do mundo
+3 internacional
+2 corinthians
+2 fanaticos
+2 libertadores
+1 2016
+1 2018
+1 ale oliveira
+1 ao vivo
+1 boleiro
+1 brasileirao
+3 classificacao
+2 alterosa esporte
+2 cruzeiro
+2 libertadores
+2 tabela
+1 2017
+1 ao vivo
+1 barcelona x chelsea
+1 boa esporte
+1 classificacao do brasileirao
+1 corinthians
+1 cristiano ronaldo
+1 d`alessandro
+1 esporte interativo
+1 esporte net vip
+1 luan
+1 mundial de clubes
+1 neymar
+1 paris saint-germain football club
+1 pes
+1 rodada do brasileirao
+1 ronaldinho gaucho o bruxo
+1 sao paulo futebol clube
+1 serie a
+1 spfc
+7 libertadores
+4 classificacao
+4 internacional
+4 tabela
+3 2016
+7 libertadores
+4 classificacao
+4 internacional
+4 tabela
+3 2016
+3 ale oliveira
+3 alterosa esporte
+3 classificacao do brasileirao
+3 copa do mundo
+3 corinthians
+7 libertadores
+4 classificacao
+4 internacional
+4 tabela
+3 2016
+3 ale oliveira
+3 alterosa esporte
+3 classificacao do brasileirao
+3 copa do mundo
+3 corinthians
+3 fanaticos
+2 2018
+2 ao vivo
+2 boa esporte
+2 boleiro
+2 brasileirao
+2 cruzeiro
+2 esporte espetacular
+2 esporte net vip
+2 globo esporte
+2 gremio futebol porto alegrence
+2 kaka
+2 luan
+2 mundial de clubes
+2 neymar
+2 rodada do brasileirao
+2 ronaldinho gaucho o bruxo
+2 sao paulo futebol clube
+2 serie a
+2 spfc
+1 2017
+1 band esporte
+1 barcelona x chelsea
+1 campeao do mundo
+1 campeonato
+1 carioca
+1 copa sao de futebol junior
+1 cristiano ronaldo
+1 d`alessandro
+1 esporte classe a
+1 esporte interativo
+1 fox esporte
+1 gremio
+1 jogo de esporte
+1 messi
+1 paris saint-germain football club
+1 paysandu
+1 pes
+1 real madrid x psg
+1 tabela do brasileirao
+Media de termos 1
+Media de termos 2
+Media de termos 2
+Media de termos 1

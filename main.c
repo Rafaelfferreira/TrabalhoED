@@ -33,7 +33,7 @@ int main(int numArgumentos, char *argumentos[])
 	tempo = clock();
     ArvoreGeral = leArquivo(arquivo);
     tempo = clock() - tempo;
-    printf("Tempo para montar a árvore:%f\n\n", tempo / (double)CLOCKS_PER_SEC);
+    printf("\nTempo para montar a árvore:%f\n\n", tempo / (double)CLOCKS_PER_SEC);
 
 
     //fechamos o arquivo de input

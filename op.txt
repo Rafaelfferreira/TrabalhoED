@@ -1,0 +1,100 @@
+b;0
+d;60
+c;Natal;40
+c;João Pessoa;70
+e;Brasília;80
+a;Boa Vista;20
+b;30
+b;80
+b;60
+a;João Pessoa;40
+e;Boa Vista;70
+b;60
+e;Curitiba;90
+e;Boa Vista;70
+f
+c;Porto Alegre;60
+e;Belém;10
+b;60
+a;São Paulo;10
+d;70
+b;90
+a;Cuiabá;60
+d;90
+b;70
+a;Cuiabá;60
+e;Manaus;40
+f
+e;Salvador;80
+b;50
+b;90
+c;Porto Alegre;20
+c;Salvador;50
+e;Fortaleza;50
+f
+d;10
+e;Recife;60
+a;Curitiba;80
+a;Porto Alegre;60
+b;40
+e;São Luís;80
+f
+d;50
+d;10
+e;Cuiabá;90
+e;Belo Horizonte;90
+f
+b;30
+e;Rio Branco;0
+e;Natal;90
+b;0
+f
+c;Brasília;10
+d;20
+d;40
+e;Aracaju;50
+c;Boa Vista;40
+f
+d;30
+d;70
+b;0
+b;60
+e;Brasília;10
+b;20
+f
+a;Goiânia;60
+e;São Luís;60
+e;Belo Horizonte;80
+d;80
+f
+e;Salvador;70
+d;70
+f
+a;Campo Grande;80
+e;Boa Vista;90
+d;40
+d;20
+c;Rio Branco;20
+f
+f
+e;Teresina;70
+b;40
+b;40
+f
+f
+d;90
+d;60
+c;Campo Grande;90
+f
+d;30
+b;50
+f
+f
+c;Vitória;0
+c;Campo Grande;10
+d;30
+f
+d;10
+a;Teresina;10
+e;Goiânia;10
+c;Cuiabá;20
